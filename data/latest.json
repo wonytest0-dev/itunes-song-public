@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-09-02T11:01:11.420Z",
+  "generatedAt": "2026-09-02T12:01:04.980Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 23,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Finland",
+      "rank": 3,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 9,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
@@ -130,18 +142,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "United Arab Emirates (UAE)",
-      "rank": 29,
-      "previousRank": 29,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -149,6 +149,18 @@
       "previousRank": 30,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "United Arab Emirates (UAE)",
+      "rank": 34,
+      "previousRank": 29,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
