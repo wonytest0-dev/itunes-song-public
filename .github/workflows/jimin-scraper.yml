@@ -21,7 +21,7 @@ jobs:
       - name: Checkout private code repo
         uses: actions/checkout@v4
         with:
-          repository: YOUR_USERNAME/jimin-scraper-private
+          repository: wonytest0-dev/jimin-scraper-private
           token: ${{ secrets.PRIVATE_REPO_PAT }}
           path: scraper-code
 
