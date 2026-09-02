@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-02T02:01:01.428Z",
+  "lastRunAt": "2026-09-02T03:01:07.442Z",
   "entries": {
     "who|usa": {
       "title": "Who",
@@ -449,7 +449,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "United Arab Emirates (UAE)",
-      "lastRank": null,
+      "lastRank": 8,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
