@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T07:01:04.809Z",
+  "generatedAt": "2026-09-02T08:01:09.865Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -134,9 +134,9 @@
       "artist": "Jimin",
       "region": "United Arab Emirates (UAE)",
       "rank": 26,
-      "previousRank": 16,
-      "rankChange": "-10",
-      "rankDelta": -10,
+      "previousRank": 26,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
