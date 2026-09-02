@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:01:04.980Z",
+  "generatedAt": "2026-09-02T13:01:05.930Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,9 +14,9 @@
       "artist": "Jimin",
       "region": "Finland",
       "rank": 3,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 3,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 9,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -158,9 +158,9 @@
       "artist": "Jimin",
       "region": "United Arab Emirates (UAE)",
       "rank": 34,
-      "previousRank": 29,
-      "rankChange": "-5",
-      "rankDelta": -5,
+      "previousRank": 34,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -173,7 +173,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -209,7 +209,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -221,7 +221,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -233,7 +233,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -257,7 +257,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
