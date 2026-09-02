@@ -1,8 +1,8 @@
 name: Jimin Chart Scraper
 
 on:
-  schedule:
-    - cron: "0 */6 * * *" # every 6 hours (UTC) — ubah sesuai kebutuhan
+  repository_dispatch:
+    types: [run-scraper] # dipicu HTTP request dari cron-job.org
   workflow_dispatch: {} # tombol "Run workflow" manual di tab Actions
 
 permissions:
@@ -15,9 +15,6 @@ jobs:
       - name: Checkout this repo (public data)
         uses: actions/checkout@v4
 
-      # GANTI "YOUR_USERNAME/jimin-scraper-private" dengan nama repo private
-      # kamu yang berisi kode. PRIVATE_REPO_PAT dibuat di Settings > Secrets
-      # and variables > Actions milik repo PUBLIC ini.
       - name: Checkout private code repo
         uses: actions/checkout@v4
         with:
