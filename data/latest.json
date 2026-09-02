@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:01:05.093Z",
+  "generatedAt": "2026-09-02T23:01:10.934Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -10,18 +10,6 @@
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Finland",
-      "rank": 11,
-      "previousRank": 11,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 4,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
@@ -67,6 +55,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Finland",
+      "rank": 15,
+      "previousRank": 11,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
