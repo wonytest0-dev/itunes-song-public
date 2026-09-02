@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T10:01:01.523Z",
+  "generatedAt": "2026-09-02T11:01:11.420Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -66,8 +66,8 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
@@ -162,8 +162,8 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -234,8 +234,8 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Set Me Free, Pt. 2",
@@ -275,7 +275,7 @@
     }
   ],
   "lifetimeTotals": {
-    "totalNumberOneEvents": 476,
-    "uniqueSongsWithNumberOne": 4
+    "totalNumberOneEvents": 595,
+    "uniqueSongsWithNumberOne": 5
   }
 }
