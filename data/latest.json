@@ -1,41 +1,10 @@
 {
-  "generatedAt": "2026-09-02T01:34:34.176Z",
+  "generatedAt": "2026-09-02T01:44:35.131Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 21,
-  "newSongsDetected": [
-    {
-      "title": "Set Me Free, Pt. 2",
-      "firstRegionSeen": "Cape Verde",
-      "rank": 13
-    },
-    {
-      "title": "Closer Than This",
-      "firstRegionSeen": "Guinea-Bissau",
-      "rank": 15
-    },
-    {
-      "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
-      "firstRegionSeen": "Guinea-Bissau",
-      "rank": 17
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-      "firstRegionSeen": "Guinea-Bissau",
-      "rank": 18
-    },
-    {
-      "title": "Like Crazy (English Version)",
-      "firstRegionSeen": "Cape Verde",
-      "rank": 24
-    },
-    {
-      "title": "Face-off",
-      "firstRegionSeen": "Cape Verde",
-      "rank": 62
-    }
-  ],
+  "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
