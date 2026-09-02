@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:01:05.930Z",
+  "generatedAt": "2026-09-02T14:01:05.545Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -13,11 +13,11 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Finland",
-      "rank": 3,
+      "rank": 4,
       "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 9,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 8,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -154,18 +154,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "United Arab Emirates (UAE)",
-      "rank": 34,
-      "previousRank": 34,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -173,6 +161,18 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "United Arab Emirates (UAE)",
+      "rank": 46,
+      "previousRank": 34,
+      "rankChange": "-12",
+      "rankDelta": -12,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
