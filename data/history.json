@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-02T14:01:05.545Z",
+  "lastRunAt": "2026-09-02T15:01:09.316Z",
   "entries": {
     "who|usa": {
       "title": "Who",
@@ -77,7 +77,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Finland",
-      "lastRank": 4,
+      "lastRank": 5,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -449,7 +449,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "United Arab Emirates (UAE)",
-      "lastRank": 46,
+      "lastRank": 63,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -7236,6 +7236,17 @@
       "firstNumberOneAt": "2026-09-02T10:26:29.828Z",
       "lastNumberOneAt": "2026-09-02T10:26:29.828Z",
       "source": "backfill"
+    },
+    "angel pt. 2 (feat. jvke, charlie puth & muni long)|philippines": {
+      "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
+      "artist": "Jimin & Fast & Furious: The Fast Saga",
+      "region": "Philippines",
+      "lastRank": 98,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-02T15:01:09.316Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
     }
   },
   "totals": {
