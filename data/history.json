@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-02T19:01:00.252Z",
+  "lastRunAt": "2026-09-02T20:01:04.773Z",
   "entries": {
     "who|usa": {
       "title": "Who",
@@ -77,7 +77,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Finland",
-      "lastRank": 6,
+      "lastRank": 8,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -449,7 +449,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "United Arab Emirates (UAE)",
-      "lastRank": 71,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
