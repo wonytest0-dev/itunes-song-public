@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T04:01:01.695Z",
+  "generatedAt": "2026-09-02T05:01:11.841Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -9,18 +9,6 @@
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "United Arab Emirates (UAE)",
-      "rank": 8,
-      "previousRank": 8,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
@@ -80,6 +68,18 @@
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "United Arab Emirates (UAE)",
+      "rank": 16,
+      "previousRank": 8,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
