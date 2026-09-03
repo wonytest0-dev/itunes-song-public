@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:52:22.571Z",
+  "generatedAt": "2026-09-03T19:01:07.967Z",
   "metadata": {
     "artistKeyword": "jimin",
     "regionsFetched": 119,
@@ -7,142 +7,9 @@
     "regionsFailed": 0,
     "jiminEntriesFound": 22,
     "totalNumberOneRegionsCurrent": 0,
-    "runDurationSeconds": "30.20"
+    "runDurationSeconds": "34.89"
   },
-  "newSongsDetected": [
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Guinea-Bissau",
-      "rank": 12
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 13
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Guinea-Bissau",
-      "rank": 13
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 15
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Guinea-Bissau",
-      "rank": 15
-    },
-    {
-      "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
-      "artist": "Jimin & Fast & Furious: The Fast Saga",
-      "region": "Guinea-Bissau",
-      "rank": 17
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-      "artist": "Jimin & Fast & Furious: The Fast Saga",
-      "region": "Guinea-Bissau",
-      "rank": 18
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Guinea-Bissau",
-      "rank": 19
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Guinea-Bissau",
-      "rank": 20
-    },
-    {
-      "title": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 24
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Niger",
-      "rank": 32
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 45
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 46
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Gambia",
-      "rank": 49
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 50
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-      "artist": "Jimin & Fast & Furious: The Fast Saga",
-      "region": "Micronesia",
-      "rank": 50
-    },
-    {
-      "title": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 51
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 52
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 53
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 53
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Cape Verde",
-      "rank": 58
-    },
-    {
-      "title": "Face-off",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 62
-    }
-  ],
+  "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "chartReEntries": [],
@@ -154,9 +21,9 @@
       "region": "Guinea-Bissau",
       "rank": 12,
       "peakRank": 12,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 12,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": false
     },
@@ -166,9 +33,9 @@
       "region": "Cape Verde",
       "rank": 13,
       "peakRank": 13,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 13,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": false
     },
@@ -178,9 +45,9 @@
       "region": "Guinea-Bissau",
       "rank": 13,
       "peakRank": 13,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 13,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": false
     },
@@ -190,9 +57,9 @@
       "region": "Cape Verde",
       "rank": 15,
       "peakRank": 15,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 15,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": false
     },
@@ -202,9 +69,9 @@
       "region": "Guinea-Bissau",
       "rank": 15,
       "peakRank": 15,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 15,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": false
     },
@@ -214,9 +81,9 @@
       "region": "Guinea-Bissau",
       "rank": 17,
       "peakRank": 17,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 17,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -226,9 +93,9 @@
       "region": "Guinea-Bissau",
       "rank": 18,
       "peakRank": 18,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 18,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -238,9 +105,9 @@
       "region": "Guinea-Bissau",
       "rank": 19,
       "peakRank": 19,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 19,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -250,9 +117,9 @@
       "region": "Guinea-Bissau",
       "rank": 20,
       "peakRank": 20,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 20,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -262,9 +129,9 @@
       "region": "Cape Verde",
       "rank": 24,
       "peakRank": 24,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 24,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -274,9 +141,9 @@
       "region": "Niger",
       "rank": 32,
       "peakRank": 32,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 32,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -286,9 +153,9 @@
       "region": "Ukraine",
       "rank": 45,
       "peakRank": 45,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 45,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -298,9 +165,9 @@
       "region": "Micronesia",
       "rank": 46,
       "peakRank": 46,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -310,9 +177,9 @@
       "region": "Gambia",
       "rank": 49,
       "peakRank": 49,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 49,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -322,9 +189,9 @@
       "region": "Gambia",
       "rank": 50,
       "peakRank": 50,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 50,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -334,9 +201,9 @@
       "region": "Micronesia",
       "rank": 50,
       "peakRank": 50,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 50,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -346,9 +213,9 @@
       "region": "Micronesia",
       "rank": 51,
       "peakRank": 51,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 51,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -358,9 +225,9 @@
       "region": "Micronesia",
       "rank": 52,
       "peakRank": 52,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 52,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -370,9 +237,9 @@
       "region": "Gambia",
       "rank": 53,
       "peakRank": 53,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false
     },
@@ -382,9 +249,9 @@
       "region": "Micronesia",
       "rank": 53,
       "peakRank": 53,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": null,
       "everHitNumberOne": false
     },
@@ -394,9 +261,9 @@
       "region": "Cape Verde",
       "rank": 58,
       "peakRank": 58,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 58,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": null,
       "everHitNumberOne": false
     },
@@ -406,9 +273,9 @@
       "region": "Cape Verde",
       "rank": 62,
       "peakRank": 62,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 62,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": null,
       "everHitNumberOne": false
     }
