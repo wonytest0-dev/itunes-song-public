@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:01:08.854Z",
+  "generatedAt": "2026-09-03T21:16:36.352Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -280,10 +280,33 @@
     "Smeraldo Garden Marching Band": 119,
     "Like Crazy": 119,
     "With You": 119,
-    "Closer Than This": 119
+    "Closer Than This": 119,
+    "Rebirth (Intro)": 20,
+    "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)": 54,
+    "Interlude : Dive": 8,
+    "Interlude : Showtime": 11,
+    "Who (Rock Remix)": 28,
+    "Who (Acoustic Remix)": 39,
+    "Who (Shibuyakei Remix)": 13,
+    "Who (Instrumental)": 15,
+    "Who (Funky Remix)": 17,
+    "Christmas Love": 21,
+    "Who (Beautiful Mind Remix)": 25,
+    "Like Crazy (Deep House Remix)": 33,
+    "Like Crazy (UK Garage Remix)": 35,
+    "Like Crazy (Instrumental)": 14,
+    "With You (Instrumental)": 6,
+    "Slow Dance": 16,
+    "Promise": 56,
+    "Alone": 18,
+    "Set Me Free, Pt. 2": 97,
+    "Be Mine": 17,
+    "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)": 86,
+    "Like Crazy (English Version)": 14,
+    "Face-off": 20
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 595,
-    "uniqueSongsWithNumberOne": 5
+    "totalNumberOneEvents": 1258,
+    "uniqueSongsWithNumberOne": 28
   }
 }
