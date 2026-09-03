@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T16:01:10.752Z",
+  "generatedAt": "2026-09-03T17:01:11.784Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 21,
+  "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -138,6 +138,19 @@
       "previousRank": 32,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 40,
+      "reEnterCount": 1,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1

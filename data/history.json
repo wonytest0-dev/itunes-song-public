@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-03T16:01:10.752Z",
+  "lastRunAt": "2026-09-03T17:01:11.784Z",
   "entries": {
     "who|usa": {
       "title": "Who",
@@ -3413,13 +3413,14 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Ukraine",
-      "lastRank": null,
+      "lastRank": 40,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "reEnterCount": 1
     },
     "like crazy|costa rica": {
       "title": "Like Crazy",
