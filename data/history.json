@@ -1,5 +1,798 @@
 {
   "entries": {
+      "angel pt. 2|anguilla": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Anguilla",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|antigua & barbuda": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Antigua & Barbuda",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|argentina": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Argentina",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|armenia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Armenia",
+    "lastRank": 18,
+    "peakRank": 18,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|australia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Australia",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|austria": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Austria",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|azerbaijan": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Azerbaijan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|bahrain": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Bahrain",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|barbados": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Barbados",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|belgium": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Belgium",
+    "lastRank": 48,
+    "peakRank": 48,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|bermuda": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Bermuda",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|bolivia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|bulgaria": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Bulgaria",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|cambodia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Cambodia",
+    "lastRank": 11,
+    "peakRank": 11,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|canada": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Canada",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|cape verde": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Cape Verde",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|chile": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|colombia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|costa rica": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|cyprus": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Cyprus",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|denmark": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Denmark",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|dominica": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Dominica",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|ecuador": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Ecuador",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|el salvador": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "El Salvador",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|estonia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Estonia",
+    "lastRank": 90,
+    "peakRank": 90,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|eswatini": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Eswatini",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|finland": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Finland",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|france": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "France",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|gambia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Gambia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|germany": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Germany",
+    "lastRank": 26,
+    "peakRank": 26,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|greece": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Greece",
+    "lastRank": 14,
+    "peakRank": 14,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|grenada": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Grenada",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|guatemala": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Guatemala",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|guinea-bissau": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Guinea-Bissau",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|honduras": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Honduras",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|hong kong": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Hong Kong",
+    "lastRank": 12,
+    "peakRank": 12,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|india": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "India",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|indonesia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Indonesia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|ireland": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Ireland",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|italy": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Italy",
+    "lastRank": 41,
+    "peakRank": 41,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|japan": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Japan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|jordan": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Jordan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|kazakhstan": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Kazakhstan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|kenya": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Kenya",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|latvia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Latvia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|lithuania": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Lithuania",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|luxembourg": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Luxembourg",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|macau": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Macau",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|malaysia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Malaysia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|malta": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Malta",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|mexico": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Mexico",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|micronesia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Micronesia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|moldova": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Moldova",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|mongolia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Mongolia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|mozambique": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Mozambique",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|nepal": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Nepal",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|netherlands": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Netherlands",
+    "lastRank": 82,
+    "peakRank": 82,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|niger": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Niger",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|nigeria": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Nigeria",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|norway": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Norway",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|oman": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Oman",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|panama": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Panama",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|papua new guinea": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Papua New Guinea",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|paraguay": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Paraguay",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|peru": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Peru",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|philippines": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Philippines",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|poland": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Poland",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|portugal": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Portugal",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|qatar": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Qatar",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|romania": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Romania",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|st. kitts & nevis": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "St. Kitts & Nevis",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|slovenia": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Slovenia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|south africa": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "South Africa",
+    "lastRank": 27,
+    "peakRank": 27,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|spain": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Spain",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|sri lanka": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Sri Lanka",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|sweden": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Sweden",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|switzerland": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Switzerland",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|taiwan": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Taiwan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|tajikistan": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Tajikistan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|thailand": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Thailand",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|trinidad & tobago": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Trinidad & Tobago",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|turkey": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Turkey",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|ukraine": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Ukraine",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|united arab emirates": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "United Arab Emirates",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|united kingdom": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "United Kingdom",
+    "lastRank": 19,
+    "peakRank": 19,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|united states": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "United States",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "angel pt. 2|vietnam": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Vietnam",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "angel pt. 2|zimbabwe": {
+    "title": "Angel Pt. 2",
+    "artist": "Jimin",
+    "region": "Zimbabwe",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+    
     "who|anguilla": {
       "title": "Who",
       "artist": "Jimin",
