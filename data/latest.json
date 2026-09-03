@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T23:01:10.934Z",
+  "generatedAt": "2026-09-03T00:01:09.098Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -63,9 +63,9 @@
       "artist": "Jimin",
       "region": "Finland",
       "rank": 15,
-      "previousRank": 11,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 15,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
