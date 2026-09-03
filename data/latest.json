@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T09:01:06.126Z",
+  "generatedAt": "2026-09-03T10:01:03.427Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -135,9 +135,9 @@
       "artist": "Jimin",
       "region": "Finland",
       "rank": 28,
-      "previousRank": 18,
-      "rankChange": "-10",
-      "rankDelta": -10,
+      "previousRank": 28,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -171,9 +171,9 @@
       "artist": "Jimin",
       "region": "Malaysia",
       "rank": 47,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 47,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
