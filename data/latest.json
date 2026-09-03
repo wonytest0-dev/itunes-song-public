@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T13:01:16.336Z",
+  "generatedAt": "2026-09-03T14:01:08.226Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -150,7 +150,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -186,7 +186,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -198,7 +198,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -210,7 +210,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -234,21 +234,9 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Finland",
-      "rank": 54,
-      "previousRank": 54,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -277,11 +265,23 @@
     {
       "title": "Who",
       "artist": "Jimin",
+      "region": "Finland",
+      "rank": 86,
+      "previousRank": 54,
+      "rankChange": "-32",
+      "rankDelta": -32,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
       "region": "Malaysia",
-      "rank": 78,
+      "rank": 88,
       "previousRank": 78,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-10",
+      "rankDelta": -10,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
