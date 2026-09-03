@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-03T17:01:11.784Z",
+  "lastRunAt": "2026-09-03T17:41:10.943Z",
   "entries": {
     "who|usa": {
       "title": "Who",
@@ -1283,7 +1283,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 50,
+      "reEnterCount": 0
     },
     "who|guinea-bissau": {
       "title": "Who",
@@ -1295,7 +1297,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 13,
+      "reEnterCount": 0
     },
     "who|kyrgyzstan": {
       "title": "Who",
@@ -2687,7 +2691,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 58,
+      "reEnterCount": 0
     },
     "smeraldo garden marching band|fiji": {
       "title": "Smeraldo Garden Marching Band",
@@ -2711,7 +2717,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 49,
+      "reEnterCount": 0
     },
     "smeraldo garden marching band|guinea-bissau": {
       "title": "Smeraldo Garden Marching Band",
@@ -2723,7 +2731,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 12,
+      "reEnterCount": 0
     },
     "smeraldo garden marching band|kyrgyzstan": {
       "title": "Smeraldo Garden Marching Band",
@@ -3420,7 +3430,8 @@
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
       "source": "backfill",
-      "reEnterCount": 1
+      "reEnterCount": 1,
+      "peakRank": 40
     },
     "like crazy|costa rica": {
       "title": "Like Crazy",
@@ -3804,7 +3815,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 32,
+      "reEnterCount": 0
     },
     "like crazy|uganda": {
       "title": "Like Crazy",
@@ -4116,7 +4129,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 15,
+      "reEnterCount": 0
     },
     "like crazy|fiji": {
       "title": "Like Crazy",
@@ -4152,7 +4167,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 19,
+      "reEnterCount": 0
     },
     "like crazy|kyrgyzstan": {
       "title": "Like Crazy",
@@ -4188,7 +4205,9 @@
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
       "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "source": "backfill"
+      "source": "backfill",
+      "peakRank": 52,
+      "reEnterCount": 0
     },
     "like crazy|mongolia": {
       "title": "Like Crazy",
@@ -5723,7 +5742,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 13,
+      "reEnterCount": 0
     },
     "closer than this|guinea-bissau": {
       "title": "Closer Than This",
@@ -5734,7 +5755,9 @@
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": "2026-09-02T10:26:29.828Z",
-      "lastNumberOneAt": "2026-09-02T10:26:29.828Z"
+      "lastNumberOneAt": "2026-09-02T10:26:29.828Z",
+      "peakRank": 15,
+      "reEnterCount": 0
     },
     "angel pt. 2 (feat. jvke, charlie puth & muni long)|guinea-bissau": {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
@@ -5745,7 +5768,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 17,
+      "reEnterCount": 0
     },
     "angel pt. 1 (feat. kodak black, nle choppa, jvke & muni long)|guinea-bissau": {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -5756,7 +5781,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 18,
+      "reEnterCount": 0
     },
     "set me free, pt. 2|guinea-bissau": {
       "title": "Set Me Free, Pt. 2",
@@ -5767,7 +5794,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 20,
+      "reEnterCount": 0
     },
     "like crazy (english version)|cape verde": {
       "title": "Like Crazy (English Version)",
@@ -5778,7 +5807,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 24,
+      "reEnterCount": 0
     },
     "closer than this|micronesia": {
       "title": "Closer Than This",
@@ -5789,7 +5820,9 @@
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": "2026-09-02T10:26:29.828Z",
-      "lastNumberOneAt": "2026-09-02T10:26:29.828Z"
+      "lastNumberOneAt": "2026-09-02T10:26:29.828Z",
+      "peakRank": 46,
+      "reEnterCount": 0
     },
     "angel pt. 1 (feat. kodak black, nle choppa, jvke & muni long)|micronesia": {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -5800,7 +5833,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 50,
+      "reEnterCount": 0
     },
     "like crazy (english version)|micronesia": {
       "title": "Like Crazy (English Version)",
@@ -5811,7 +5846,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 51,
+      "reEnterCount": 0
     },
     "closer than this|gambia": {
       "title": "Closer Than This",
@@ -5822,7 +5859,9 @@
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": "2026-09-02T10:26:29.828Z",
-      "lastNumberOneAt": "2026-09-02T10:26:29.828Z"
+      "lastNumberOneAt": "2026-09-02T10:26:29.828Z",
+      "peakRank": 53,
+      "reEnterCount": 0
     },
     "set me free, pt. 2|micronesia": {
       "title": "Set Me Free, Pt. 2",
@@ -5833,7 +5872,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 53,
+      "reEnterCount": 0
     },
     "face-off|cape verde": {
       "title": "Face-off",
@@ -5844,7 +5885,9 @@
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
       "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "lastNumberOneAt": null,
+      "peakRank": 62,
+      "reEnterCount": 0
     },
     "closer than this|usa": {
       "title": "Closer Than This",
