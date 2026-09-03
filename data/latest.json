@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:37:57.613Z",
+  "generatedAt": "2026-09-03T18:43:35.323Z",
   "metadata": {
     "artistKeyword": "jimin",
     "regionsFetched": 119,
@@ -7,162 +7,140 @@
     "regionsFailed": 0,
     "jiminEntriesFound": 22,
     "totalNumberOneRegionsCurrent": 0,
-    "runDurationSeconds": "46.26"
+    "runDurationSeconds": "37.08"
   },
   "newSongsDetected": [
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Guinea-Bissau",
-      "rank": 12,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 12
     },
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 13,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 13
     },
     {
       "title": "Who",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
-      "rank": 13,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 13
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 15,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 15
     },
     {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
-      "rank": 15,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 15
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
-      "rank": 17,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 17
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
-      "rank": 18,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 18
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
-      "rank": 19,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 19
     },
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
-      "rank": 20,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 20
     },
     {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 24,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 24
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 32,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 32
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Ukraine",
-      "rank": 45,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 45
     },
     {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
-      "rank": 46,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 46
     },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
-      "rank": 49,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 49
     },
     {
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
-      "rank": 50,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 50
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
-      "rank": 50,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 50
     },
     {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Micronesia",
-      "rank": 51,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 51
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Micronesia",
-      "rank": 52,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 52
     },
     {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
-      "rank": 53,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 53
     },
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Micronesia",
-      "rank": 53,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 53
     },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
-      "rank": 58,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 58
     },
     {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 62,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z"
+      "rank": 62
     }
   ],
   "newNumberOnes": [],
@@ -176,16 +154,11 @@
       "region": "Guinea-Bissau",
       "rank": 12,
       "peakRank": 12,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Set Me Free, Pt. 2",
@@ -193,16 +166,11 @@
       "region": "Cape Verde",
       "rank": 13,
       "peakRank": 13,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Who",
@@ -210,16 +178,11 @@
       "region": "Guinea-Bissau",
       "rank": 13,
       "peakRank": 13,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Like Crazy",
@@ -227,16 +190,11 @@
       "region": "Cape Verde",
       "rank": 15,
       "peakRank": 15,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Closer Than This",
@@ -244,16 +202,11 @@
       "region": "Guinea-Bissau",
       "rank": 15,
       "peakRank": 15,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
@@ -261,16 +214,11 @@
       "region": "Guinea-Bissau",
       "rank": 17,
       "peakRank": 17,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -278,16 +226,11 @@
       "region": "Guinea-Bissau",
       "rank": 18,
       "peakRank": 18,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Like Crazy",
@@ -295,16 +238,11 @@
       "region": "Guinea-Bissau",
       "rank": 19,
       "peakRank": 19,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Set Me Free, Pt. 2",
@@ -312,16 +250,11 @@
       "region": "Guinea-Bissau",
       "rank": 20,
       "peakRank": 20,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Like Crazy (English Version)",
@@ -329,16 +262,11 @@
       "region": "Cape Verde",
       "rank": 24,
       "peakRank": 24,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Like Crazy",
@@ -346,16 +274,11 @@
       "region": "Niger",
       "rank": 32,
       "peakRank": 32,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Like Crazy",
@@ -363,16 +286,11 @@
       "region": "Ukraine",
       "rank": 45,
       "peakRank": 45,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Closer Than This",
@@ -380,16 +298,11 @@
       "region": "Micronesia",
       "rank": 46,
       "peakRank": 46,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -397,16 +310,11 @@
       "region": "Gambia",
       "rank": 49,
       "peakRank": 49,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Who",
@@ -414,16 +322,11 @@
       "region": "Gambia",
       "rank": 50,
       "peakRank": 50,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -431,16 +334,11 @@
       "region": "Micronesia",
       "rank": 50,
       "peakRank": 50,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Like Crazy (English Version)",
@@ -448,16 +346,11 @@
       "region": "Micronesia",
       "rank": 51,
       "peakRank": 51,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Like Crazy",
@@ -465,16 +358,11 @@
       "region": "Micronesia",
       "rank": 52,
       "peakRank": 52,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Closer Than This",
@@ -482,16 +370,11 @@
       "region": "Gambia",
       "rank": 53,
       "peakRank": 53,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Set Me Free, Pt. 2",
@@ -499,16 +382,11 @@
       "region": "Micronesia",
       "rank": 53,
       "peakRank": 53,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": null,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -516,16 +394,11 @@
       "region": "Cape Verde",
       "rank": 58,
       "peakRank": 58,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": null,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     },
     {
       "title": "Face-off",
@@ -533,16 +406,11 @@
       "region": "Cape Verde",
       "rank": 62,
       "peakRank": 62,
-      "reEnterCount": 0,
       "previousRank": null,
       "rankChange": "NEW",
       "rankDelta": null,
       "sales": null,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
-      "firstSeenAt": "2026-09-03T18:37:57.613Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "everHitNumberOne": false
     }
   ],
   "lifetimeTotals": {
