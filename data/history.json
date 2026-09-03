@@ -1,5 +1,774 @@
 {
   "entries": {
+      "like crazy (deep house remix)|argentina": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Argentina",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|austria": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Austria",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|bahrain": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Bahrain",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|barbados": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Barbados",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|belarus": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Belarus",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|belgium": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Belgium",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|bolivia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|bulgaria": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Bulgaria",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|canada": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Canada",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|chile": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|colombia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|costa rica": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|cyprus": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Cyprus",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|denmark": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Denmark",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|ecuador": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Ecuador",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|egypt": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Egypt",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|el salvador": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "El Salvador",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|estonia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Estonia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|finland": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Finland",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|france": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "France",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|germany": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Germany",
+    "lastRank": 9,
+    "peakRank": 9,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|greece": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Greece",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|guatemala": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Guatemala",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|honduras": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Honduras",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|hong kong": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Hong Kong",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|hungary": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Hungary",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|india": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "India",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|indonesia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Indonesia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|ireland": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Ireland",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|israel": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Israel",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|italy": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Italy",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|japan": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Japan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|kenya": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Kenya",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|latvia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Latvia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|lithuania": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Lithuania",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|luxembourg": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Luxembourg",
+    "lastRank": 10,
+    "peakRank": 10,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|macao": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Macao",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|malta": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Malta",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|mexico": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Mexico",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|netherlands": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Netherlands",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|new zealand": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "New Zealand",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|norway": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Norway",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|oman": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Oman",
+    "lastRank": 46,
+    "peakRank": 46,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|panama": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Panama",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|peru": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Peru",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|philippines": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Philippines",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|poland": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Poland",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|portugal": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Portugal",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|romania": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Romania",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|russia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Russia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|saudi arabia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Saudi Arabia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|singapore": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Singapore",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|slovakia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Slovakia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|slovenia": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Slovenia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|south africa": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "South Africa",
+    "lastRank": 15,
+    "peakRank": 15,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|spain": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Spain",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|sri lanka": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Sri Lanka",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|sweden": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Sweden",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|switzerland": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Switzerland",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|taiwan": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Taiwan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|thailand": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Thailand",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|turkey": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Turkey",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|ukraine": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Ukraine",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|united arab emirates": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "United Arab Emirates",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|united kingdom": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "United Kingdom",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|united states": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "United States",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|uzbekistan": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Uzbekistan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|venezuela": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Venezuela",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (deep house remix)|vietnam": {
+    "title": "Like Crazy (Deep House Remix)",
+    "artist": "Jimin",
+    "region": "Vietnam",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|argentina": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Argentina",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|australia": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Australia",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|bahrain": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Bahrain",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|barbados": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Barbados",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|belarus": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Belarus",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|bolivia": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|brazil": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Brazil",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|bulgaria": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Bulgaria",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|canada": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Canada",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|cayman islands": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Cayman Islands",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|chile": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|colombia": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|costa rica": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|cyprus": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Cyprus",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|czechia": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Czechia",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|denmark": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Denmark",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "like crazy (uk garage remix)|ecuador": {
+    "title": "Like Crazy (UK Garage Remix)",
+    "artist": "Jimin",
+    "region": "Ecuador"
       "who (funky remix)|australia": {
     "title": "Who (Funky Remix)",
     "artist": "Jimin",
