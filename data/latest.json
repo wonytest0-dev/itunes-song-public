@@ -1,446 +1,289 @@
 {
-  "generatedAt": "2026-09-03T20:01:09.764Z",
-  "metadata": {
-    "artistKeyword": "jimin",
-    "regionsFetched": 119,
-    "regionsSucceeded": 119,
-    "regionsFailed": 0,
-    "currentActiveEntries": 22,
-    "runDurationSeconds": "34.87"
-  },
-  "updates": {
-    "newSongs": [
-      {
-        "title": "Smeraldo Garden Marching Band",
-        "artist": "Jimin & Loco",
-        "region": "Guinea-Bissau",
-        "rank": 12
-      },
-      {
-        "title": "Set Me Free, Pt. 2",
-        "artist": "Jimin",
-        "region": "Cape Verde",
-        "rank": 13
-      },
-      {
-        "title": "Who",
-        "artist": "Jimin",
-        "region": "Guinea-Bissau",
-        "rank": 13
-      },
-      {
-        "title": "Like Crazy",
-        "artist": "Jimin",
-        "region": "Cape Verde",
-        "rank": 15
-      },
-      {
-        "title": "Closer Than This",
-        "artist": "Jimin",
-        "region": "Guinea-Bissau",
-        "rank": 15
-      },
-      {
-        "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
-        "artist": "Jimin & Fast & Furious: The Fast Saga",
-        "region": "Guinea-Bissau",
-        "rank": 17
-      },
-      {
-        "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-        "artist": "Jimin & Fast & Furious: The Fast Saga",
-        "region": "Guinea-Bissau",
-        "rank": 18
-      },
-      {
-        "title": "Like Crazy",
-        "artist": "Jimin",
-        "region": "Guinea-Bissau",
-        "rank": 19
-      },
-      {
-        "title": "Set Me Free, Pt. 2",
-        "artist": "Jimin",
-        "region": "Guinea-Bissau",
-        "rank": 20
-      },
-      {
-        "title": "Like Crazy (English Version)",
-        "artist": "Jimin",
-        "region": "Cape Verde",
-        "rank": 24
-      },
-      {
-        "title": "Like Crazy",
-        "artist": "Jimin",
-        "region": "Niger",
-        "rank": 32
-      },
-      {
-        "title": "Like Crazy",
-        "artist": "Jimin",
-        "region": "Ukraine",
-        "rank": 45
-      },
-      {
-        "title": "Closer Than This",
-        "artist": "Jimin",
-        "region": "Micronesia",
-        "rank": 46
-      },
-      {
-        "title": "Smeraldo Garden Marching Band",
-        "artist": "Jimin & Loco",
-        "region": "Gambia",
-        "rank": 49
-      },
-      {
-        "title": "Who",
-        "artist": "Jimin",
-        "region": "Gambia",
-        "rank": 50
-      },
-      {
-        "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-        "artist": "Jimin & Fast & Furious: The Fast Saga",
-        "region": "Micronesia",
-        "rank": 50
-      },
-      {
-        "title": "Like Crazy (English Version)",
-        "artist": "Jimin",
-        "region": "Micronesia",
-        "rank": 51
-      },
-      {
-        "title": "Like Crazy",
-        "artist": "Jimin",
-        "region": "Micronesia",
-        "rank": 52
-      },
-      {
-        "title": "Closer Than This",
-        "artist": "Jimin",
-        "region": "Gambia",
-        "rank": 53
-      },
-      {
-        "title": "Set Me Free, Pt. 2",
-        "artist": "Jimin",
-        "region": "Micronesia",
-        "rank": 53
-      },
-      {
-        "title": "Smeraldo Garden Marching Band",
-        "artist": "Jimin & Loco",
-        "region": "Cape Verde",
-        "rank": 58
-      },
-      {
-        "title": "Face-off",
-        "artist": "Jimin",
-        "region": "Cape Verde",
-        "rank": 62
-      }
-    ],
-    "newNumberOnes": [],
-    "reHitNumberOnes": [],
-    "chartReEntries": [],
-    "stillNumberOne": []
-  },
+  "generatedAt": "2026-09-03T20:33:10.901Z",
+  "regionsFetched": 119,
+  "regionsSucceeded": 119,
+  "regionsFailed": 0,
+  "jiminEntriesFound": 22,
+  "totalNumberOneRegionsCurrent": 0,
+  "newSongsDetected": [],
+  "newNumberOnes": [],
+  "reEntries": [],
+  "stillNumberOne": [],
   "currentChart": [
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Guinea-Bissau",
       "rank": 12,
-      "peakRank": 12,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 12,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Cape Verde",
       "rank": 13,
-      "peakRank": 13,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 13,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
-      "everHitNumberOne": false
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Who",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
       "rank": 13,
-      "peakRank": 13,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 13,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
       "rank": 15,
-      "peakRank": 15,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 15,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
       "rank": 15,
-      "peakRank": 15,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 15,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
       "rank": 17,
-      "peakRank": 17,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 17,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
       "rank": 18,
-      "peakRank": 18,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 18,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
       "rank": 19,
-      "peakRank": 19,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 19,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
       "rank": 20,
-      "peakRank": 20,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 20,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
       "rank": 24,
-      "peakRank": 24,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 24,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
       "rank": 32,
-      "peakRank": 32,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 32,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Ukraine",
       "rank": 45,
-      "peakRank": 45,
       "previousRank": null,
-      "rankChange": "NEW",
+      "rankChange": "RE",
       "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
       "rank": 46,
-      "peakRank": 46,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
       "rank": 49,
-      "peakRank": 49,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 49,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 50,
-      "peakRank": 50,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 50,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
       "rank": 50,
-      "peakRank": 50,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 50,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Micronesia",
       "rank": 51,
-      "peakRank": 51,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 51,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Micronesia",
       "rank": 52,
-      "peakRank": 52,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
-      "sales": null,
-      "everHitNumberOne": false
+      "previousRank": 52,
+      "rankChange": "=",
+      "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 53,
-      "peakRank": 53,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": false
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Micronesia",
       "rank": 53,
-      "peakRank": 53,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
-      "sales": null,
-      "everHitNumberOne": false
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
       "rank": 58,
-      "peakRank": 58,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
-      "sales": null,
-      "everHitNumberOne": false
+      "previousRank": 58,
+      "rankChange": "=",
+      "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
       "rank": 62,
-      "peakRank": 62,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
-      "sales": null,
-      "everHitNumberOne": false
+      "previousRank": 62,
+      "rankChange": "=",
+      "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     }
   ],
-  "lifetimeStatsBySong": {
-    "Smeraldo Garden Marching Band": {
-      "totalNumberOneCountries": 0
-    },
-    "Set Me Free, Pt. 2": {
-      "totalNumberOneCountries": 0
-    },
-    "Who": {
-      "totalNumberOneCountries": 0
-    },
-    "Like Crazy": {
-      "totalNumberOneCountries": 0
-    },
-    "Closer Than This": {
-      "totalNumberOneCountries": 0
-    },
-    "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)": {
-      "totalNumberOneCountries": 0
-    },
-    "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)": {
-      "totalNumberOneCountries": 0
-    },
-    "Like Crazy (English Version)": {
-      "totalNumberOneCountries": 0
-    },
-    "Face-off": {
-      "totalNumberOneCountries": 0
-    }
+  "lifetimeTotalsBySong": {
+    "Who": 119,
+    "Smeraldo Garden Marching Band": 119,
+    "Like Crazy": 119,
+    "With You": 119,
+    "Closer Than This": 119
+  },
+  "lifetimeTotals": {
+    "totalNumberOneEvents": 595,
+    "uniqueSongsWithNumberOne": 5
   }
 }
