@@ -1,5 +1,867 @@
 {
   "entries": {
+      "who (funky remix)|australia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Australia",
+    "lastRank": 12,
+    "peakRank": 12,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|austria": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Austria",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|azerbaijan": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Azerbaijan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|bahrain": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Bahrain",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|barbados": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Barbados",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|bolivia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|brazil": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Brazil",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|bulgaria": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Bulgaria",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|canada": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Canada",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|chile": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|colombia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|costa rica": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|czechia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Czechia",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|denmark": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Denmark",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|ecuador": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Ecuador",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|el salvador": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "El Salvador",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|estonia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Estonia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|france": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "France",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|germany": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Germany",
+    "lastRank": 11,
+    "peakRank": 11,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|greece": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Greece",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|guatemala": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Guatemala",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|honduras": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Honduras",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|hong kong": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Hong Kong",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|hungary": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Hungary",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|indonesia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Indonesia",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|ireland": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Ireland",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|italy": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Italy",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|japan": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Japan",
+    "lastRank": 12,
+    "peakRank": 12,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|kazakhstan": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Kazakhstan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|kenya": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Kenya",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|kyrgyzstan": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Kyrgyzstan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|lithuania": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Lithuania",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|luxembourg": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Luxembourg",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|macao": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Macao",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|malaysia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Malaysia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|malta": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Malta",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|mexico": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Mexico",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|moldova": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Moldova",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|netherlands": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Netherlands",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|new zealand": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "New Zealand",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|nigeria": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Nigeria",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|norway": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Norway",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|oman": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Oman",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|paraguay": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Paraguay",
+    "lastRank": 10,
+    "peakRank": 10,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|peru": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Peru",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|philippines": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Philippines",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|poland": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Poland",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|portugal": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Portugal",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|romania": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Romania",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|russia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Russia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|singapore": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Singapore",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|slovakia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Slovakia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|slovenia": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Slovenia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|south africa": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "South Africa",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|sri lanka": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Sri Lanka",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|sweden": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Sweden",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|switzerland": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Switzerland",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|taiwan": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Taiwan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|thailand": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Thailand",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|turkey": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Turkey",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|ukraine": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Ukraine",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|united arab emirates": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "United Arab Emirates",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|united kingdom": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "United Kingdom",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|united states": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "United States",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (funky remix)|uzbekistan": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Uzbekistan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (funky remix)|vietnam": {
+    "title": "Who (Funky Remix)",
+    "artist": "Jimin",
+    "region": "Vietnam",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|argentina": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Argentina",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|australia": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Australia",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|austria": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Austria",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|bahamas": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Bahamas",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|belarus": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Belarus",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "christmas love|belgium": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Belgium",
+    "lastRank": 14,
+    "peakRank": 14,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|bolivia": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "christmas love|botswana": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Botswana",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "christmas love|brazil": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Brazil",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|bulgaria": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Bulgaria",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|cambodia": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Cambodia",
+    "lastRank": 57,
+    "peakRank": 57,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|chile": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|colombia": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "christmas love|costa rica": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "christmas love|czechia": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Czechia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|denmark": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Denmark",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|dominican republic": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Dominican Republic",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|ecuador": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Ecuador",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|egypt": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Egypt",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|el salvador": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "El Salvador",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "christmas love|finland": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Finland",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|france": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "France",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|germany": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Germany",
+    "lastRank": 12,
+    "peakRank": 12,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|honduras": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Honduras",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "christmas love|india": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "India",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|indonesia": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Indonesia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|ireland": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Ireland",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|israel": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Israel",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|italy": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Italy",
+    "lastRank": 17,
+    "peakRank": 17,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "christmas love|japan": {
+    "title": "Christmas Love",
+    "artist": "Jimin",
+    "region": "Japan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOn
       "who (instrumental)|australia": {
     "title": "Who (Instrumental)",
     "artist": "Jimin",
