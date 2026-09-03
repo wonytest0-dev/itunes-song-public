@@ -1,5 +1,699 @@
 {
   "entries": {
+      "who (acoustic remix)|argentina": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Argentina",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|australia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Australia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|austria": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Austria",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|azerbaijan": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Azerbaijan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|bahamas": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Bahamas",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|bahrain": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Bahrain",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|barbados": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Barbados",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|belgium": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Belgium",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|bolivia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|cambodia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Cambodia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|canada": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Canada",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|cayman islands": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Cayman Islands",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|chile": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|colombia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|costa rica": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|czechia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Czechia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|denmark": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Denmark",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|dominican republic": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Dominican Republic",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|ecuador": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Ecuador",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|egypt": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Egypt",
+    "lastRank": 53,
+    "peakRank": 53,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|el salvador": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "El Salvador",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|estonia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Estonia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|finland": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Finland",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|france": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "France",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|germany": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Germany",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|ghana": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Ghana",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|greece": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Greece",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|guatemala": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Guatemala",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|honduras": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Honduras",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|hungary": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Hungary",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|indonesia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Indonesia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|ireland": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Ireland",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|israel": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Israel",
+    "lastRank": 9,
+    "peakRank": 9,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|italy": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Italy",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|japan": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Japan",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|jordan": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Jordan",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|kazakhstan": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Kazakhstan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|kenya": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Kenya",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|lithuania": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Lithuania",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|luxembourg": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Luxembourg",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|macao": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Macao",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|malaysia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Malaysia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|malta": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Malta",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|mexico": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Mexico",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|moldova": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Moldova",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|netherlands": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Netherlands",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|new zealand": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "New Zealand",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|nigeria": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Nigeria",
+    "lastRank": 30,
+    "peakRank": 30,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|norway": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Norway",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|oman": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Oman",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|paraguay": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Paraguay",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|peru": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Peru",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|philippines": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Philippines",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|poland": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Poland",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|portugal": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Portugal",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|qatar": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Qatar",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|russia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Russia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|saudi arabia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Saudi Arabia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|singapore": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Singapore",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|slovakia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Slovakia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|slovenia": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Slovenia",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|south africa": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "South Africa",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|spain": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Spain",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|sri lanka": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Sri Lanka",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|sweden": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Sweden",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|switzerland": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Switzerland",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|taiwan": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Taiwan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|thailand": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Thailand",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|trinidad & tobago": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Trinidad & Tobago",
+    "lastRank": 14,
+    "peakRank": 14,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|turkey": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Turkey",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|ukraine": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Ukraine",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (acoustic remix)|united arab emirates": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "United Arab Emirates",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|united kingdom": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "United Kingdom",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|united states": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "United States",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|uzbekistan": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Uzbekistan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|venezuela": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Venezuela",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (acoustic remix)|vietnam": {
+    "title": "Who (Acoustic Remix)",
+    "artist": "Jimin",
+    "region": "Vietnam",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+    
       "who (rock remix)|argentina": {
     "title": "Who (Rock Remix)",
     "artist": "Jimin",
