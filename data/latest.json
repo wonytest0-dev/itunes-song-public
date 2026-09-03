@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:38:39.104Z",
+  "generatedAt": "2026-09-03T23:01:08.160Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -66,7 +66,7 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -87,12 +87,12 @@
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
       "rank": 18,
-      "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
@@ -155,18 +155,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 49,
-      "previousRank": 45,
-      "rankChange": "-4",
-      "rankDelta": -4,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
@@ -183,12 +171,12 @@
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
       "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Who",
@@ -263,6 +251,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 58,
+      "previousRank": 45,
+      "rankChange": "-13",
+      "rankDelta": -13,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -276,12 +276,13 @@
     }
   ],
   "lifetimeTotalsBySong": {
+    "Set Me Free, Pt. 2": 113,
     "Who": 119,
     "Smeraldo Garden Marching Band": 119,
     "Like Crazy": 119,
     "With You": 119,
-    "Set Me Free, Pt. 2": 112,
     "Closer Than This": 119,
+    "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)": 105,
     "Rebirth (Intro)": 20,
     "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)": 54,
     "Interlude : Dive": 8,
@@ -301,13 +302,12 @@
     "Promise": 56,
     "Alone": 18,
     "Be Mine": 17,
-    "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)": 86,
     "Like Crazy (English Version)": 14,
     "Face-off": 20,
     "Vibe": 101
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1374,
+    "totalNumberOneEvents": 1393,
     "uniqueSongsWithNumberOne": 29
   }
 }
