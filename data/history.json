@@ -1,5 +1,573 @@
 {
   "entries": {
+      "who (shibuyakei remix)|argentina": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Argentina",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|australia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Australia",
+    "lastRank": 13,
+    "peakRank": 13,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|belgium": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Belgium",
+    "lastRank": 73,
+    "peakRank": 73,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|bolivia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|bulgaria": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Bulgaria",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|canada": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Canada",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|chile": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|colombia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|costa rica": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|czechia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Czechia",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|denmark": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Denmark",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|ecuador": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Ecuador",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|el salvador": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "El Salvador",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|estonia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Estonia",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|finland": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Finland",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|france": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "France",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|germany": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Germany",
+    "lastRank": 18,
+    "peakRank": 18,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|guatemala": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Guatemala",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|honduras": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Honduras",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|hong kong": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Hong Kong",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|hungary": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Hungary",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|india": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "India",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|ireland": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Ireland",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|israel": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Israel",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|italy": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Italy",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|japan": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Japan",
+    "lastRank": 10,
+    "peakRank": 10,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|kazakhstan": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Kazakhstan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|kenya": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Kenya",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|kyrgyzstan": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Kyrgyzstan",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|lithuania": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Lithuania",
+    "lastRank": 9,
+    "peakRank": 9,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|macao": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Macao",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|malaysia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Malaysia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|malta": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Malta",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|mexico": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Mexico",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|moldova": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Moldova",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|netherlands": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Netherlands",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|new zealand": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "New Zealand",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|norway": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Norway",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|oman": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Oman",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|paraguay": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Paraguay",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|peru": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Peru",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|philippines": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Philippines",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|poland": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Poland",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|portugal": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Portugal",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|romania": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Romania",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|russia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Russia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|saudi arabia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Saudi Arabia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|singapore": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Singapore",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|slovenia": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Slovenia",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|south africa": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "South Africa",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|spain": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Spain",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|sri lanka": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Sri Lanka",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|sweden": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Sweden",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|switzerland": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Switzerland",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|taiwan": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Taiwan",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|thailand": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Thailand",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|turkey": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Turkey",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|ukraine": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Ukraine",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|united arab emirates": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "United Arab Emirates",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|united kingdom": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "United Kingdom",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|united states": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "United States",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|uzbekistan": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Uzbekistan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (shibuyakei remix)|vietnam": {
+    "title": "Who (Shibuyakei Remix)",
+    "artist": "Jimin",
+    "region": "Vietnam",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+    
       "who (acoustic remix)|argentina": {
     "title": "Who (Acoustic Remix)",
     "artist": "Jimin",
