@@ -1,5 +1,618 @@
 {
   "entries": {
+      "who (instrumental)|australia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Australia",
+    "lastRank": 18,
+    "peakRank": 18,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|austria": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Austria",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|bahrain": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Bahrain",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|barbados": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Barbados",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|belarus": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Belarus",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|belgium": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Belgium",
+    "lastRank": 98,
+    "peakRank": 98,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|bolivia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|brazil": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Brazil",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|brunei": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Brunei",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|bulgaria": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Bulgaria",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|canada": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Canada",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|chile": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|colombia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|costa rica": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|czechia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Czechia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|dominican republic": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Dominican Republic",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|ecuador": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Ecuador",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|el salvador": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "El Salvador",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|estonia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Estonia",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|eswatini": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Eswatini",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|finland": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Finland",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|france": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "France",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|germany": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Germany",
+    "lastRank": 16,
+    "peakRank": 16,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|greece": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Greece",
+    "lastRank": 11,
+    "peakRank": 11,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|guatemala": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Guatemala",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|honduras": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Honduras",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|hong kong": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Hong Kong",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|hungary": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Hungary",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|india": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "India",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|indonesia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Indonesia",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|ireland": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Ireland",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|israel": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Israel",
+    "lastRank": 10,
+    "peakRank": 10,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|italy": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Italy",
+    "lastRank": 10,
+    "peakRank": 10,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|japan": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Japan",
+    "lastRank": 14,
+    "peakRank": 14,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|kazakhstan": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Kazakhstan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|kenya": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Kenya",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|kyrgyzstan": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Kyrgyzstan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|lithuania": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Lithuania",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|luxembourg": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Luxembourg",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|macao": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Macao",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|malaysia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Malaysia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|malta": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Malta",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|mexico": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Mexico",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|moldova": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Moldova",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|new zealand": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "New Zealand",
+    "lastRank": 14,
+    "peakRank": 14,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|norway": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Norway",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|oman": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Oman",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|paraguay": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Paraguay",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|peru": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Peru",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|philippines": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Philippines",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|qatar": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Qatar",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|romania": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Romania",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|russia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Russia",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|saudi arabia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Saudi Arabia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|singapore": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Singapore",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|slovenia": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Slovenia",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|south africa": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "South Africa",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|spain": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Spain",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|sri lanka": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Sri Lanka",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|sweden": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Sweden",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|switzerland": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Switzerland",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|taiwan": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Taiwan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|thailand": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Thailand",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|ukraine": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Ukraine",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|united arab emirates": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "United Arab Emirates",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|united kingdom": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "United Kingdom",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (instrumental)|united states": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "United States",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (instrumental)|vietnam": {
+    "title": "Who (Instrumental)",
+    "artist": "Jimin",
+    "region": "Vietnam",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+    
       "who (shibuyakei remix)|argentina": {
     "title": "Who (Shibuyakei Remix)",
     "artist": "Jimin",
