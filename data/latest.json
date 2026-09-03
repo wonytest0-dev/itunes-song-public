@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:41:10.943Z",
+  "generatedAt": "2026-09-03T18:02:21.930Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -189,7 +189,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -231,7 +231,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -245,7 +245,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -259,7 +259,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -321,14 +321,25 @@
     }
   ],
   "lifetimeTotalsBySong": {
-    "Who": 119,
-    "Smeraldo Garden Marching Band": 119,
-    "Like Crazy": 119,
+    "Who": 128,
+    "Smeraldo Garden Marching Band": 121,
+    "Like Crazy": 121,
     "With You": 119,
-    "Closer Than This": 119
+    "Closer Than This": 120,
+    "Set Me Free, Pt. 2": 2,
+    "Like Crazy (English Version)": 2,
+    "VIBE": 1,
+    "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)": 3,
+    "Promise": 1,
+    "Slow Dance": 1,
+    "Interlude: Showtime": 1,
+    "Who (Instrumental)": 1,
+    "Christmas Love": 1,
+    "Be Mine": 2,
+    "Rebirth (Intro)": 1
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 595,
-    "uniqueSongsWithNumberOne": 5
+    "totalNumberOneEvents": 625,
+    "uniqueSongsWithNumberOne": 16
   }
 }
