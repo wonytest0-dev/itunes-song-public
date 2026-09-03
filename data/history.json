@@ -1,5 +1,645 @@
 {
   "entries": {
+      "who (rock remix)|argentina": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Argentina",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|australia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Australia",
+    "lastRank": 9,
+    "peakRank": 9,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|austria": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Austria",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|azerbaijan": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Azerbaijan",
+    "lastRank": 26,
+    "peakRank": 26,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|bahrain": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Bahrain",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|barbados": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Barbados",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|belarus": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Belarus",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|belgium": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Belgium",
+    "lastRank": 69,
+    "peakRank": 69,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|bolivia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Bolivia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|brazil": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Brazil",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|bulgaria": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Bulgaria",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|cambodia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Cambodia",
+    "lastRank": 45,
+    "peakRank": 45,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|canada": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Canada",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|cayman islands": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Cayman Islands",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|chile": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Chile",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|colombia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Colombia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|costa rica": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Costa Rica",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|czechia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Czechia",
+    "lastRank": 7,
+    "peakRank": 7,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|denmark": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Denmark",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|el salvador": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "El Salvador",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|estonia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Estonia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|finland": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Finland",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|france": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "France",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|greece": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Greece",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|guatemala": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Guatemala",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|honduras": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Honduras",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|hong kong": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Hong Kong",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|hungary": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Hungary",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|india": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "India",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|ireland": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Ireland",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|israel": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Israel",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|italy": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Italy",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|japan": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Japan",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|kazakhstan": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Kazakhstan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|kenya": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Kenya",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|kyrgyzstan": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Kyrgyzstan",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|latvia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Latvia",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|lithuania": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Lithuania",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|luxembourg": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Luxembourg",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|macao": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Macao",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|malaysia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Malaysia",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|malta": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Malta",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|mexico": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Mexico",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|moldova": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Moldova",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|netherlands": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Netherlands",
+    "lastRank": 8,
+    "peakRank": 8,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|new zealand": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "New Zealand",
+    "lastRank": 6,
+    "peakRank": 6,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|norway": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Norway",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|panama": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Panama",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|paraguay": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Paraguay",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|peru": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Peru",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|philippines": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Philippines",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|poland": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Poland",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|portugal": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Portugal",
+    "lastRank": 5,
+    "peakRank": 5,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|qatar": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Qatar",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|singapore": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Singapore",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|slovakia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Slovakia",
+    "lastRank": 14,
+    "peakRank": 14,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|slovenia": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Slovenia",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|south africa": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "South Africa",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|spain": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Spain",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|sri lanka": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Sri Lanka",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|sweden": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Sweden",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|switzerland": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Switzerland",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|taiwan": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Taiwan",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|thailand": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Thailand",
+    "lastRank": 4,
+    "peakRank": 4,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|turkey": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Turkey",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|uganda": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Uganda",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|ukraine": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Ukraine",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|united arab emirates": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "United Arab Emirates",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|united kingdom": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "United Kingdom",
+    "lastRank": 1,
+    "peakRank": 1,
+    "everHitNumberOne": true,
+    "inChart": true
+  },
+  "who (rock remix)|united states": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "United States",
+    "lastRank": 2,
+    "peakRank": 2,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+  "who (rock remix)|vietnam": {
+    "title": "Who (Rock Remix)",
+    "artist": "Jimin",
+    "region": "Vietnam",
+    "lastRank": 3,
+    "peakRank": 3,
+    "everHitNumberOne": false,
+    "inChart": true
+  },
+    
       "interlude : showtime|australia": {
     "title": "Interlude : Showtime",
     "artist": "Jimin",
