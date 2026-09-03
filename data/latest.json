@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:33:10.901Z",
+  "generatedAt": "2026-09-03T21:01:08.854Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -143,18 +143,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 45,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -167,25 +155,25 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Gambia",
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Ukraine",
       "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 45,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
       "region": "Gambia",
       "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 49,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -201,6 +189,18 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 51,
+      "previousRank": 50,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy (English Version)",
@@ -227,18 +227,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -249,6 +237,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 54,
+      "previousRank": 53,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
