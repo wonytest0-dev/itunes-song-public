@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T19:01:10.830Z",
+  "generatedAt": "2026-09-04T20:01:05.443Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -143,18 +143,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Malaysia",
-      "rank": 44,
-      "previousRank": 44,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -263,6 +251,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Malaysia",
+      "rank": 57,
+      "previousRank": 44,
+      "rankChange": "-13",
+      "rankDelta": -13,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -278,11 +278,11 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Switzerland",
-      "rank": 73,
+      "rank": 100,
       "previousRank": 73,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 7,
+      "rankChange": "-27",
+      "rankDelta": -27,
+      "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 1
     }
