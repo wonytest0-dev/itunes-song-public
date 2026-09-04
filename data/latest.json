@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T22:01:01.169Z",
+  "generatedAt": "2026-09-04T23:01:14.997Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -26,18 +26,6 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Guinea-Bissau",
-      "rank": 12,
-      "previousRank": 12,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Ukraine",
       "rank": 12,
       "previousRank": 12,
       "rankChange": "=",
@@ -78,6 +66,18 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 15,
+      "previousRank": 12,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -278,10 +278,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Malaysia",
-      "rank": 65,
+      "rank": 68,
       "previousRank": 65,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
