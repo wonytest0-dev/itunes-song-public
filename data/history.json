@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-04T12:02:50.280Z",
+  "lastRunAt": "2026-09-04T13:01:15.483Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -3425,7 +3425,7 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Ukraine",
-      "lastRank": 99,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -3809,7 +3809,7 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "lastRank": 32,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -6082,7 +6082,7 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Switzerland",
-      "lastRank": 36,
+      "lastRank": 45,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T10:26:29.828Z",

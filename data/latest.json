@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T12:02:50.280Z",
+  "generatedAt": "2026-09-04T13:01:15.483Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 119,
-  "regionsFailed": 0,
-  "jiminEntriesFound": 23,
+  "regionsSucceeded": 109,
+  "regionsFailed": 10,
+  "jiminEntriesFound": 21,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -131,26 +131,14 @@
       "numberOneCount": 0
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Niger",
-      "rank": 32,
-      "previousRank": 32,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Switzerland",
-      "rank": 36,
+      "rank": 45,
       "previousRank": 36,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 11,
+      "rankChange": "-9",
+      "rankDelta": -9,
+      "sales": 9,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -273,18 +261,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 99,
-      "previousRank": 99,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
