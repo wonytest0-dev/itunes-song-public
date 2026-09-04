@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T14:01:05.978Z",
+  "generatedAt": "2026-09-04T15:01:13.246Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -18,7 +18,7 @@
       "previousRank": 12,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -135,22 +135,22 @@
       "artist": "Jimin",
       "region": "Niger",
       "rank": 32,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 32,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Switzerland",
-      "rank": 45,
-      "previousRank": 45,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 9,
+      "region": "Malaysia",
+      "rank": 39,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -174,7 +174,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -273,6 +273,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Switzerland",
+      "rank": 61,
+      "previousRank": 45,
+      "rankChange": "-16",
+      "rankDelta": -16,
+      "sales": 8,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
