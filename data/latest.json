@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T10:01:10.247Z",
+  "generatedAt": "2026-09-04T11:08:08.637Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -145,6 +145,18 @@
     {
       "title": "Closer Than This",
       "artist": "Jimin",
+      "region": "Switzerland",
+      "rank": 36,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 11,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
       "region": "Micronesia",
       "rank": 46,
       "previousRank": 46,
@@ -186,7 +198,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -266,10 +278,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Ukraine",
-      "rank": 87,
+      "rank": 99,
       "previousRank": 87,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-12",
+      "rankDelta": -12,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
