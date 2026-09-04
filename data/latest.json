@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T06:07:03.126Z",
+  "generatedAt": "2026-09-04T07:08:12.802Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -266,10 +266,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Ukraine",
-      "rank": 79,
+      "rank": 83,
       "previousRank": 79,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
