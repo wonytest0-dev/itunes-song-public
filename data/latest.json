@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:01:05.443Z",
+  "generatedAt": "2026-09-04T21:01:07.580Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -30,6 +30,18 @@
       "previousRank": 12,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 12,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -155,18 +167,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Gambia",
-      "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
@@ -179,13 +179,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
       "region": "Gambia",
       "rank": 51,
-      "previousRank": 51,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 50,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -201,6 +201,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 52,
+      "previousRank": 51,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
@@ -230,10 +242,10 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
-      "rank": 54,
+      "rank": 55,
       "previousRank": 54,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -251,18 +263,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Malaysia",
-      "rank": 57,
-      "previousRank": 44,
-      "rankChange": "-13",
-      "rankDelta": -13,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -275,14 +275,14 @@
       "numberOneCount": 0
     },
     {
-      "title": "Closer Than This",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Switzerland",
-      "rank": 100,
-      "previousRank": 73,
-      "rankChange": "-27",
-      "rankDelta": -27,
-      "sales": 6,
+      "region": "Malaysia",
+      "rank": 65,
+      "previousRank": 57,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     }
