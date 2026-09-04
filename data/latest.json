@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:01:05.026Z",
+  "generatedAt": "2026-09-04T17:01:11.796Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -146,10 +146,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Malaysia",
-      "rank": 39,
+      "rank": 44,
       "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -278,11 +278,11 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Switzerland",
-      "rank": 61,
+      "rank": 73,
       "previousRank": 61,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 8,
+      "rankChange": "-12",
+      "rankDelta": -12,
+      "sales": 7,
       "everHitNumberOne": true,
       "numberOneCount": 1
     }
