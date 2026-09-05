@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T18:01:09.265Z",
+  "generatedAt": "2026-09-05T19:01:05.313Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -266,10 +266,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Greece",
-      "rank": 76,
+      "rank": 84,
       "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
