@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T00:01:14.215Z",
+  "generatedAt": "2026-09-05T01:01:12.242Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -71,18 +71,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -93,6 +81,18 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 17,
+      "previousRank": 15,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -278,10 +278,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Malaysia",
-      "rank": 68,
+      "rank": 69,
       "previousRank": 68,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
