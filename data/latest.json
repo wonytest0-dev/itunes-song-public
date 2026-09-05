@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:01:12.669Z",
+  "generatedAt": "2026-09-05T09:01:10.973Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -119,18 +119,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 22,
-      "previousRank": 22,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -141,6 +129,18 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 26,
+      "previousRank": 22,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
