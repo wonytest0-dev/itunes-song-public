@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T20:01:05.114Z",
+  "generatedAt": "2026-09-05T21:01:02.582Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 21,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -261,18 +261,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Greece",
-      "rank": 84,
-      "previousRank": 84,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
