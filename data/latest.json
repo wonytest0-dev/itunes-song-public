@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:01:08.420Z",
+  "generatedAt": "2026-09-05T14:01:07.517Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -138,7 +138,7 @@
       "previousRank": 32,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -267,9 +267,9 @@
       "artist": "Jimin",
       "region": "Ukraine",
       "rank": 69,
-      "previousRank": 46,
-      "rankChange": "-23",
-      "rankDelta": -23,
+      "previousRank": 69,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
