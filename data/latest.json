@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:01:12.851Z",
+  "generatedAt": "2026-09-08T13:01:10.123Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -146,10 +146,10 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Philippines",
-      "rank": 34,
+      "rank": 36,
       "previousRank": 34,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
