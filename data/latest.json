@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:01:04.086Z",
+  "generatedAt": "2026-09-08T11:01:08.881Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -131,18 +131,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Promise",
-      "artist": "Jimin",
-      "region": "Philippines",
-      "rank": 28,
-      "previousRank": 28,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -150,6 +138,18 @@
       "previousRank": 32,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Philippines",
+      "rank": 34,
+      "previousRank": 28,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
