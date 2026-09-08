@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T00:01:14.737Z",
+  "generatedAt": "2026-09-08T01:01:08.248Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 21,
+  "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -14,10 +14,22 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 11,
+      "rank": 9,
       "previousRank": 11,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+2",
+      "rankDelta": 2,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 11,
+      "previousRank": 13,
+      "rankChange": "+2",
+      "rankDelta": 2,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -28,18 +40,6 @@
       "region": "Guinea-Bissau",
       "rank": 12,
       "previousRank": 12,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 13,
-      "previousRank": 13,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 2,
@@ -122,10 +122,10 @@
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 22,
+      "rank": 21,
       "previousRank": 22,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -227,6 +227,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Cape Verde",
+      "rank": 55,
+      "previousRank": 56,
+      "rankChange": "+1",
+      "rankDelta": 1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
@@ -239,28 +251,28 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Cape Verde",
-      "rank": 56,
-      "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 60,
+      "rank": 59,
       "previousRank": 60,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Laos",
+      "rank": 85,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
