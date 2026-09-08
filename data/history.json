@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-08T18:01:07.940Z",
+  "lastRunAt": "2026-09-08T19:01:09.676Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -389,7 +389,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Philippines",
-      "lastRank": 94,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -11745,7 +11745,7 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Philippines",
-      "lastRank": 51,
+      "lastRank": 59,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
