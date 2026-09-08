@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T04:01:07.339Z",
+  "generatedAt": "2026-09-08T05:01:09.119Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -66,6 +66,18 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Philippines",
+      "rank": 16,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
