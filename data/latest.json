@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:01:11.129Z",
+  "generatedAt": "2026-09-08T17:01:09.136Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -155,18 +155,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Promise",
-      "artist": "Jimin",
-      "region": "Philippines",
-      "rank": 47,
-      "previousRank": 47,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
@@ -201,6 +189,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Philippines",
+      "rank": 51,
+      "previousRank": 47,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Who",
@@ -290,10 +290,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Philippines",
-      "rank": 86,
+      "rank": 94,
       "previousRank": 86,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
