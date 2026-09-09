@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:01:03.844Z",
+  "generatedAt": "2026-09-09T05:01:23.035Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -18,6 +18,18 @@
       "previousRank": 9,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Chile",
+      "rank": 10,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -124,18 +136,6 @@
       "region": "Guinea-Bissau",
       "rank": 20,
       "previousRank": 20,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Philippines",
-      "rank": 24,
-      "previousRank": 24,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
@@ -263,6 +263,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Philippines",
+      "rank": 55,
+      "previousRank": 24,
+      "rankChange": "-31",
+      "rankDelta": -31,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -280,18 +292,6 @@
       "region": "Laos",
       "rank": 65,
       "previousRank": 65,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Promise",
-      "artist": "Jimin",
-      "region": "Philippines",
-      "rank": 71,
-      "previousRank": 71,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
