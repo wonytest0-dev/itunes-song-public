@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T01:01:09.524Z",
+  "generatedAt": "2026-09-09T02:01:07.811Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -107,6 +107,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 20,
+      "previousRank": 21,
+      "rankChange": "+1",
+      "rankDelta": 1,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -117,18 +129,6 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 21,
-      "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Who",
@@ -246,7 +246,7 @@
       "previousRank": 55,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -275,25 +275,25 @@
       "numberOneCount": 0
     },
     {
-      "title": "Promise",
-      "artist": "Jimin",
-      "region": "Philippines",
-      "rank": 69,
-      "previousRank": 69,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Laos",
+      "rank": 65,
+      "previousRank": 85,
+      "rankChange": "+20",
+      "rankDelta": 20,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Laos",
-      "rank": 85,
-      "previousRank": 85,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Philippines",
+      "rank": 71,
+      "previousRank": 69,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
