@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T04:01:04.294Z",
+  "generatedAt": "2026-09-10T05:01:12.243Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -239,18 +239,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Chile",
-      "rank": 56,
-      "previousRank": 47,
-      "rankChange": "-9",
-      "rankDelta": -9,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -282,6 +270,18 @@
       "previousRank": 69,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Chile",
+      "rank": 86,
+      "previousRank": 56,
+      "rankChange": "-30",
+      "rankDelta": -30,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
