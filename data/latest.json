@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T14:01:12.048Z",
+  "generatedAt": "2026-09-13T15:01:13.796Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 23,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -146,10 +146,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Chile",
-      "rank": 43,
+      "rank": 45,
       "previousRank": 43,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -162,7 +162,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -282,6 +282,18 @@
       "previousRank": 81,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Indonesia",
+      "rank": 89,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
