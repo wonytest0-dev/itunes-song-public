@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T00:01:12.389Z",
+  "generatedAt": "2026-09-14T01:01:09.004Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -263,18 +263,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Chile",
-      "rank": 73,
-      "previousRank": 73,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -282,6 +270,18 @@
       "previousRank": 81,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Chile",
+      "rank": 88,
+      "previousRank": 73,
+      "rankChange": "-15",
+      "rankDelta": -15,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
