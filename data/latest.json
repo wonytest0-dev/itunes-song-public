@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T18:01:13.665Z",
+  "generatedAt": "2026-09-14T19:01:16.506Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 21,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -30,7 +30,7 @@
       "previousRank": 13,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -261,18 +261,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Laos",
-      "rank": 83,
-      "previousRank": 83,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
