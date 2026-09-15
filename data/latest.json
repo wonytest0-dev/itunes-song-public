@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-09-15T05:01:13.692Z",
+  "generatedAt": "2026-09-15T06:01:11.114Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Brazil",
+      "rank": 7,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 9,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
@@ -271,6 +283,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Brazil",
+      "rank": 97,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     }
