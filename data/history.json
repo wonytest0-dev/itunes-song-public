@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-16T08:00:57.872Z",
+  "lastRunAt": "2026-09-16T09:01:01.232Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -16978,6 +16978,17 @@
       "firstNumberOneAt": "2026-09-04T00:00:00.000Z",
       "lastNumberOneAt": "2026-09-04T00:00:00.000Z",
       "source": "backfill"
+    },
+    "slow dance (feat. sofia carson)|israel": {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Israel",
+      "lastRank": 25,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-16T09:01:01.232Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
     }
   },
   "totals": {
