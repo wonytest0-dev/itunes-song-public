@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:01:05.005Z",
+  "generatedAt": "2026-09-16T03:01:03.268Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -227,18 +227,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Brazil",
-      "rank": 57,
-      "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
@@ -247,6 +235,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Brazil",
+      "rank": 61,
+      "previousRank": 57,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
