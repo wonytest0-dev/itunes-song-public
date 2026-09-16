@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:03:14.670Z",
+  "generatedAt": "2026-09-16T11:01:04.871Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -119,18 +119,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Slow Dance (feat. Sofia Carson)",
-      "artist": "Jimin",
-      "region": "Israel",
-      "rank": 25,
-      "previousRank": 25,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -138,6 +126,18 @@
       "previousRank": 27,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Israel",
+      "rank": 33,
+      "previousRank": 25,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
