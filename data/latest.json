@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:01:04.418Z",
+  "generatedAt": "2026-09-16T17:01:04.968Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -263,18 +263,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Slow Dance (feat. Sofia Carson)",
-      "artist": "Jimin",
-      "region": "Israel",
-      "rank": 71,
-      "previousRank": 71,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -285,6 +273,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Israel",
+      "rank": 90,
+      "previousRank": 71,
+      "rankChange": "-19",
+      "rankDelta": -19,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     }
   ],
   "lifetimeTotalsBySong": {
