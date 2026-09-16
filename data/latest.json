@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T23:01:57.204Z",
+  "generatedAt": "2026-09-16T00:01:09.373Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -54,7 +54,7 @@
       "previousRank": 16,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -155,18 +155,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Brazil",
-      "rank": 47,
-      "previousRank": 47,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 3,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
@@ -199,6 +187,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Brazil",
+      "rank": 53,
+      "previousRank": 47,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -280,18 +280,6 @@
       "region": "Laos",
       "rank": 88,
       "previousRank": 88,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Vietnam",
-      "rank": 96,
-      "previousRank": 96,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
