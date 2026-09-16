@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-09-16T09:01:01.232Z",
+  "generatedAt": "2026-09-16T10:03:14.670Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
-  "newSongsDetected": [
-    {
-      "title": "Slow Dance (feat. Sofia Carson)",
-      "firstRegionSeen": "Israel",
-      "rank": 25
-    }
-  ],
+  "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
@@ -129,9 +123,9 @@
       "artist": "Jimin",
       "region": "Israel",
       "rank": 25,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 25,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
