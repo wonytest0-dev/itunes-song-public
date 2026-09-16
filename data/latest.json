@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:01:07.257Z",
+  "generatedAt": "2026-09-16T13:01:08.965Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -131,18 +131,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Slow Dance (feat. Sofia Carson)",
-      "artist": "Jimin",
-      "region": "Israel",
-      "rank": 33,
-      "previousRank": 33,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -162,7 +150,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -174,7 +162,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -186,7 +174,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -198,7 +186,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -210,7 +198,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -237,6 +225,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Israel",
+      "rank": 57,
+      "previousRank": 33,
+      "rankChange": "-24",
+      "rankDelta": -24,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
