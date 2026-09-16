@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T15:01:06.224Z",
+  "generatedAt": "2026-09-16T16:01:04.418Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -267,9 +267,9 @@
       "artist": "Jimin",
       "region": "Israel",
       "rank": 71,
-      "previousRank": 57,
-      "rankChange": "-14",
-      "rankDelta": -14,
+      "previousRank": 71,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
