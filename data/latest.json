@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:01:01.370Z",
+  "generatedAt": "2026-09-19T11:01:12.228Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -143,18 +143,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Malaysia",
-      "rank": 41,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -246,6 +234,18 @@
       "previousRank": 57,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Malaysia",
+      "rank": 60,
+      "previousRank": 41,
+      "rankChange": "-19",
+      "rankDelta": -19,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
