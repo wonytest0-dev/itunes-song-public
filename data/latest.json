@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T18:01:14.642Z",
+  "generatedAt": "2026-09-21T19:01:10.288Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -30,7 +30,7 @@
       "previousRank": 13,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -227,18 +227,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Acoustic Remix)",
-      "artist": "Jimin",
-      "region": "Colombia",
-      "rank": 57,
-      "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
@@ -258,6 +246,18 @@
       "previousRank": 62,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who (Acoustic Remix)",
+      "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 65,
+      "previousRank": 57,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
