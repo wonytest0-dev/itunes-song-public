@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T14:01:13.328Z",
+  "generatedAt": "2026-09-21T15:01:14.978Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -18,7 +18,7 @@
       "previousRank": 12,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -211,6 +211,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who (Acoustic Remix)",
+      "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 54,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
