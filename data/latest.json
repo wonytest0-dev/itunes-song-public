@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T03:01:11.275Z",
+  "generatedAt": "2026-09-22T04:01:08.397Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -278,10 +278,10 @@
       "title": "Who (Acoustic Remix)",
       "artist": "Jimin",
       "region": "Colombia",
-      "rank": 84,
+      "rank": 92,
       "previousRank": 84,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
