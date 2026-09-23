@@ -1,15 +1,33 @@
 {
-  "generatedAt": "2026-09-23T06:01:14.781Z",
+  "generatedAt": "2026-09-23T07:01:12.638Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
-  "totalNumberOneRegionsCurrent": 0,
+  "jiminEntriesFound": 23,
+  "totalNumberOneRegionsCurrent": 1,
   "newSongsDetected": [],
   "newNumberOnes": [],
-  "reEntries": [],
+  "reEntries": [
+    {
+      "title": "Set Me Free, Pt. 2",
+      "region": "El Salvador",
+      "timesAtNumberOne": 2
+    }
+  ],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "El Salvador",
+      "rank": 1,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 10,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
@@ -307,7 +325,7 @@
     "Vibe": 101
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1393,
+    "totalNumberOneEvents": 1394,
     "uniqueSongsWithNumberOne": 29
   }
 }

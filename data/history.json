@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-23T06:01:14.781Z",
+  "lastRunAt": "2026-09-23T07:01:12.638Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -13197,12 +13197,12 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "El Salvador",
-      "lastRank": null,
+      "lastRank": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 1,
+      "numberOneCount": 2,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
       "firstNumberOneAt": "2026-09-03T20:52:15.000Z",
-      "lastNumberOneAt": "2026-09-03T20:52:15.000Z",
+      "lastNumberOneAt": "2026-09-23T07:01:12.638Z",
       "source": "backfill"
     },
     "set me free, pt. 2|uganda": {
@@ -16992,7 +16992,7 @@
     }
   },
   "totals": {
-    "numberOneEvents": 1393,
+    "numberOneEvents": 1394,
     "songsWithNumberOne": 29
   }
 }
