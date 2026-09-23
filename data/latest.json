@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T07:01:12.638Z",
+  "generatedAt": "2026-09-23T08:01:13.859Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -7,23 +7,22 @@
   "totalNumberOneRegionsCurrent": 1,
   "newSongsDetected": [],
   "newNumberOnes": [],
-  "reEntries": [
+  "reEntries": [],
+  "stillNumberOne": [
     {
       "title": "Set Me Free, Pt. 2",
-      "region": "El Salvador",
-      "timesAtNumberOne": 2
+      "region": "El Salvador"
     }
   ],
-  "stillNumberOne": [],
   "currentChart": [
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "El Salvador",
       "rank": 1,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 1,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 10,
       "everHitNumberOne": true,
       "numberOneCount": 2
