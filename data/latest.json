@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T01:01:15.441Z",
+  "generatedAt": "2026-09-23T02:01:00.971Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -134,10 +134,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 33,
+      "rank": 29,
       "previousRank": 33,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+4",
+      "rankDelta": 4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -251,6 +251,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Laos",
+      "rank": 63,
+      "previousRank": 75,
+      "rankChange": "+12",
+      "rankDelta": 12,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -261,18 +273,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Laos",
-      "rank": 75,
-      "previousRank": 75,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
