@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T08:01:08.845Z",
+  "generatedAt": "2026-09-24T09:01:15.216Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,10 +14,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 5,
+      "rank": 6,
       "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -162,7 +162,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -174,7 +174,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -186,7 +186,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -198,7 +198,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -222,7 +222,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -290,10 +290,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Kazakhstan",
-      "rank": 76,
+      "rank": 86,
       "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-10",
+      "rankDelta": -10,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
