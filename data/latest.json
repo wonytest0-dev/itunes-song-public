@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:01:14.215Z",
+  "generatedAt": "2026-09-24T21:01:01.960Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,10 +14,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 10,
+      "rank": 11,
       "previousRank": 10,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -131,18 +131,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 22,
-      "previousRank": 22,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -162,6 +150,18 @@
       "previousRank": 29,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 30,
+      "previousRank": 22,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
