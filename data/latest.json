@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:01:01.960Z",
+  "generatedAt": "2026-09-24T22:01:03.473Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -15,9 +15,9 @@
       "artist": "Jimin",
       "region": "El Salvador",
       "rank": 11,
-      "previousRank": 10,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 11,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -159,9 +159,9 @@
       "artist": "Jimin",
       "region": "Romania",
       "rank": 30,
-      "previousRank": 22,
-      "rankChange": "-8",
-      "rankDelta": -8,
+      "previousRank": 30,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
