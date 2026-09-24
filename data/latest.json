@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T02:01:04.569Z",
+  "generatedAt": "2026-09-24T03:01:11.615Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 119,
-  "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "regionsSucceeded": 118,
+  "regionsFailed": 1,
+  "jiminEntriesFound": 19,
   "totalNumberOneRegionsCurrent": 1,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -71,7 +71,7 @@
       "previousRank": 16,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -160,69 +160,9 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 46,
-      "previousRank": 46,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-      "artist": "Jimin & Fast & Furious: The Fast Saga",
-      "region": "Micronesia",
-      "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 51,
-      "previousRank": 51,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 52,
-      "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Micronesia",
       "rank": 53,
       "previousRank": 53,
       "rankChange": "=",
@@ -244,18 +184,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 56,
-      "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
@@ -263,6 +191,18 @@
       "previousRank": 57,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 57,
+      "previousRank": 56,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
