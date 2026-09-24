@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T12:01:12.328Z",
+  "generatedAt": "2026-09-24T13:01:14.798Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -15,9 +15,9 @@
       "artist": "Jimin",
       "region": "El Salvador",
       "rank": 7,
-      "previousRank": 6,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 7,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -285,18 +285,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 96,
-      "previousRank": 86,
-      "rankChange": "-10",
-      "rankDelta": -10,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
