@@ -1,29 +1,24 @@
 {
-  "generatedAt": "2026-09-24T04:01:05.925Z",
+  "generatedAt": "2026-09-24T05:01:08.880Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 24,
-  "totalNumberOneRegionsCurrent": 1,
+  "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
-  "stillNumberOne": [
-    {
-      "title": "Set Me Free, Pt. 2",
-      "region": "El Salvador"
-    }
-  ],
+  "stillNumberOne": [],
   "currentChart": [
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 1,
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 10,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
@@ -164,9 +159,9 @@
       "artist": "Jimin",
       "region": "Micronesia",
       "rank": 46,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -176,9 +171,9 @@
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
       "rank": 50,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 50,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -188,9 +183,9 @@
       "artist": "Jimin",
       "region": "Micronesia",
       "rank": 51,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 51,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -200,9 +195,9 @@
       "artist": "Jimin",
       "region": "Micronesia",
       "rank": 52,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 52,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -224,9 +219,9 @@
       "artist": "Jimin",
       "region": "Micronesia",
       "rank": 53,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -247,18 +242,6 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
-      "rank": 57,
-      "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
       "rank": 57,
       "previousRank": 57,
       "rankChange": "=",
@@ -302,6 +285,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 67,
+      "previousRank": 57,
+      "rankChange": "-10",
+      "rankDelta": -10,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
