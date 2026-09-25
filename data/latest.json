@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T20:01:14.216Z",
+  "generatedAt": "2026-09-25T21:01:09.919Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 23,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -246,6 +246,18 @@
       "previousRank": 57,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
+      "artist": "Jimin & Fast & Furious: The Fast Saga",
+      "region": "United Arab Emirates (UAE)",
+      "rank": 58,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
