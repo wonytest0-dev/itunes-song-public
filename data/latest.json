@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:01:08.402Z",
+  "generatedAt": "2026-09-25T07:01:11.430Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -71,18 +71,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "El Salvador",
-      "rank": 18,
-      "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -141,6 +129,18 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "El Salvador",
+      "rank": 25,
+      "previousRank": 18,
+      "rankChange": "-7",
+      "rankDelta": -7,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
     },
     {
       "title": "Like Crazy",
@@ -203,18 +203,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 52,
-      "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
@@ -258,6 +246,18 @@
       "previousRank": 57,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 57,
+      "previousRank": 52,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
