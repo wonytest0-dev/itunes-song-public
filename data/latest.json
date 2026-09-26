@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:01:10.433Z",
+  "generatedAt": "2026-09-26T06:01:06.601Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -291,9 +291,9 @@
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "United Arab Emirates (UAE)",
       "rank": 91,
-      "previousRank": 86,
-      "rankChange": "-5",
-      "rankDelta": -5,
+      "previousRank": 91,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
