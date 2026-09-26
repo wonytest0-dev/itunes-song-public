@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T07:01:12.600Z",
+  "generatedAt": "2026-09-26T08:01:10.770Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -263,18 +263,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "El Salvador",
-      "rank": 59,
-      "previousRank": 59,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -287,16 +275,16 @@
       "numberOneCount": 0
     },
     {
-      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-      "artist": "Jimin & Fast & Furious: The Fast Saga",
-      "region": "United Arab Emirates (UAE)",
-      "rank": 91,
-      "previousRank": 91,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "El Salvador",
+      "rank": 65,
+      "previousRank": 59,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "sales": 0,
       "everHitNumberOne": true,
-      "numberOneCount": 1
+      "numberOneCount": 2
     }
   ],
   "lifetimeTotalsBySong": {
