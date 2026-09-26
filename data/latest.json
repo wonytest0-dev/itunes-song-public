@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T08:01:10.770Z",
+  "generatedAt": "2026-09-26T09:01:11.094Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -278,10 +278,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 65,
-      "previousRank": 59,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "rank": 66,
+      "previousRank": 65,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
