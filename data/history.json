@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-27T18:01:06.940Z",
+  "lastRunAt": "2026-09-27T19:01:10.912Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -353,7 +353,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Vietnam",
-      "lastRank": null,
+      "lastRank": 38,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -1781,7 +1781,7 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin Feat. Loco",
       "region": "Vietnam",
-      "lastRank": null,
+      "lastRank": 56,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -12765,7 +12765,7 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Philippines",
-      "lastRank": 91,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
