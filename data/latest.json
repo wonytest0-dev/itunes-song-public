@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T16:01:03.010Z",
+  "generatedAt": "2026-09-27T17:01:05.492Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -277,18 +277,6 @@
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
-      "region": "Philippines",
-      "rank": 73,
-      "previousRank": 73,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
       "region": "El Salvador",
       "rank": 91,
       "previousRank": 91,
@@ -297,6 +285,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Philippines",
+      "rank": 91,
+      "previousRank": 73,
+      "rankChange": "-18",
+      "rankDelta": -18,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
