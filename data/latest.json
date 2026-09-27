@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:01:05.642Z",
+  "generatedAt": "2026-09-27T21:01:07.276Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -146,10 +146,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Vietnam",
-      "rank": 38,
+      "rank": 45,
       "previousRank": 38,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-7",
+      "rankDelta": -7,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -265,18 +265,6 @@
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
-      "region": "Vietnam",
-      "rank": 56,
-      "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
       "region": "Cape Verde",
       "rank": 57,
       "previousRank": 57,
@@ -299,13 +287,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Vietnam",
+      "rank": 70,
+      "previousRank": 56,
+      "rankChange": "-14",
+      "rankDelta": -14,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 91,
+      "rank": 93,
       "previousRank": 91,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
