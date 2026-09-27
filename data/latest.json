@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:01:05.664Z",
+  "generatedAt": "2026-09-27T11:01:03.445Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -143,18 +143,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Philippines",
-      "rank": 43,
-      "previousRank": 43,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -251,6 +239,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Philippines",
+      "rank": 53,
+      "previousRank": 43,
+      "rankChange": "-10",
+      "rankDelta": -10,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
@@ -290,10 +290,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 89,
+      "rank": 91,
       "previousRank": 89,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
