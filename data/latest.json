@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T20:01:11.198Z",
+  "generatedAt": "2026-09-28T21:01:11.757Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 25,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -143,18 +143,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Luxembourg",
-      "rank": 38,
-      "previousRank": 38,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -251,6 +239,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Peru",
+      "rank": 54,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
@@ -287,13 +287,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Luxembourg",
+      "rank": 65,
+      "previousRank": 38,
+      "rankChange": "-27",
+      "rankDelta": -27,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Hungary",
-      "rank": 65,
+      "rank": 80,
       "previousRank": 65,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-15",
+      "rankDelta": -15,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
