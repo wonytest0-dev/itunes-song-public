@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-28T12:01:07.064Z",
+  "lastRunAt": "2026-09-28T13:01:12.394Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -16987,6 +16987,28 @@
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-16T09:01:01.232Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "be mine|luxembourg": {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Luxembourg",
+      "lastRank": 11,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-28T13:01:12.394Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "angel pt. 1 (feat. kodak black, nle choppa, jvke & muni long)|hungary": {
+      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
+      "artist": "Jimin & Fast & Furious: The Fast Saga",
+      "region": "Hungary",
+      "lastRank": 33,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-28T13:01:12.394Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }
