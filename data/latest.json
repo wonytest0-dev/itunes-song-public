@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T06:01:08.541Z",
+  "generatedAt": "2026-09-28T07:01:10.886Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -222,7 +222,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -273,30 +273,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Vietnam",
-      "rank": 66,
-      "previousRank": 66,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Vietnam",
-      "rank": 98,
-      "previousRank": 98,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
