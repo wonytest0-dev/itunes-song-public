@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T04:01:01.581Z",
+  "generatedAt": "2026-09-28T05:01:10.988Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 25,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -179,18 +179,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Vietnam",
-      "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
@@ -287,28 +275,28 @@
       "numberOneCount": 0
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
+      "title": "Who",
+      "artist": "Jimin",
       "region": "Vietnam",
-      "rank": 81,
-      "previousRank": 81,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rank": 66,
+      "previousRank": 50,
+      "rankChange": "-16",
+      "rankDelta": -16,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "El Salvador",
-      "rank": 95,
-      "previousRank": 95,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Vietnam",
+      "rank": 98,
+      "previousRank": 81,
+      "rankChange": "-17",
+      "rankDelta": -17,
       "sales": 0,
       "everHitNumberOne": true,
-      "numberOneCount": 2
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
