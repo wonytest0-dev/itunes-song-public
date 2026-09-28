@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:01:12.394Z",
+  "generatedAt": "2026-09-28T14:01:08.328Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -27,9 +27,9 @@
       "artist": "Jimin",
       "region": "Luxembourg",
       "rank": 11,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 11,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 3,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -159,9 +159,9 @@
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Hungary",
       "rank": 33,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 33,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -210,7 +210,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
