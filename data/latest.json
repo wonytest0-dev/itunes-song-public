@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T03:01:13.324Z",
+  "generatedAt": "2026-09-28T04:01:01.581Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -186,7 +186,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -291,9 +291,9 @@
       "artist": "Jimin & Loco",
       "region": "Vietnam",
       "rank": 81,
-      "previousRank": 80,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 81,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
