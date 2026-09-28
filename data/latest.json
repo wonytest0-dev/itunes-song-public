@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T16:01:07.052Z",
+  "generatedAt": "2026-09-28T17:01:14.775Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -21,18 +21,6 @@
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Luxembourg",
-      "rank": 12,
-      "previousRank": 12,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 3,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
@@ -143,6 +131,18 @@
       "numberOneCount": 0
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Luxembourg",
+      "rank": 23,
+      "previousRank": 12,
+      "rankChange": "-11",
+      "rankDelta": -11,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -155,18 +155,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-      "artist": "Jimin & Fast & Furious: The Fast Saga",
-      "region": "Hungary",
-      "rank": 39,
-      "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -174,7 +162,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -193,12 +181,24 @@
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
+      "region": "Hungary",
+      "rank": 50,
+      "previousRank": 39,
+      "rankChange": "-11",
+      "rankDelta": -11,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
+      "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
       "rank": 50,
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -222,7 +222,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -246,7 +246,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -258,7 +258,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
