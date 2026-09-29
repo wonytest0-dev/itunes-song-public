@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T20:01:08.979Z",
+  "generatedAt": "2026-09-29T21:01:09.095Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -278,10 +278,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Spain",
-      "rank": 75,
+      "rank": 98,
       "previousRank": 75,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-23",
+      "rankDelta": -23,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
