@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T05:01:12.007Z",
+  "generatedAt": "2026-09-29T06:01:11.477Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 25,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -99,9 +99,9 @@
       "artist": "Jimin & HA SUNG WOON",
       "region": "Malaysia",
       "rank": 19,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 19,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -291,12 +291,24 @@
       "artist": "Jimin",
       "region": "Peru",
       "rank": 83,
-      "previousRank": 76,
-      "rankChange": "-7",
-      "rankDelta": -7,
+      "previousRank": 83,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Mexico",
+      "rank": 84,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 6,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
