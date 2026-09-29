@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T06:01:11.477Z",
+  "generatedAt": "2026-09-29T07:01:10.567Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 25,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -95,18 +95,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Malaysia",
-      "rank": 19,
-      "previousRank": 19,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -150,6 +138,18 @@
       "previousRank": 28,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Malaysia",
+      "rank": 38,
+      "previousRank": 19,
+      "rankChange": "-19",
+      "rankDelta": -19,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -289,26 +289,14 @@
     {
       "title": "Be Mine",
       "artist": "Jimin",
-      "region": "Peru",
-      "rank": 83,
-      "previousRank": 83,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Thailand",
+      "rank": 81,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Mexico",
-      "rank": 84,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
-      "sales": 6,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {

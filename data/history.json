@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-29T06:01:11.477Z",
+  "lastRunAt": "2026-09-29T07:01:10.567Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -4661,7 +4661,7 @@
       "title": "With You",
       "artist": "Jimin",
       "region": "Malaysia",
-      "lastRank": 19,
+      "lastRank": 38,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -13605,7 +13605,7 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Mexico",
-      "lastRank": 84,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
@@ -17016,10 +17016,21 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Peru",
-      "lastRank": 83,
+      "lastRank": null,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-28T21:01:11.757Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "be mine|thailand": {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Thailand",
+      "lastRank": 81,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-09-29T07:01:10.567Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
     }
