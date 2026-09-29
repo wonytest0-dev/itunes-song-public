@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T16:01:06.941Z",
+  "generatedAt": "2026-09-29T17:01:12.739Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -179,18 +179,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Spain",
-      "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
@@ -287,16 +275,16 @@
       "numberOneCount": 0
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Malaysia",
-      "rank": 87,
-      "previousRank": 87,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Spain",
+      "rank": 65,
+      "previousRank": 50,
+      "rankChange": "-15",
+      "rankDelta": -15,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     }
   ],
   "lifetimeTotalsBySong": {
