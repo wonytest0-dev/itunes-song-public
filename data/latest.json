@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T22:01:05.948Z",
+  "generatedAt": "2026-09-29T23:01:07.569Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 23,
+  "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -271,18 +271,6 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Spain",
-      "rank": 98,
-      "previousRank": 98,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     }
