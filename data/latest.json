@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T10:01:07.224Z",
+  "generatedAt": "2026-09-30T11:01:11.667Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -251,6 +251,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Austria",
+      "rank": 57,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 4,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -273,6 +285,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Russia",
+      "rank": 82,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
