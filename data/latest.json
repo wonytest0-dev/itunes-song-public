@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T16:01:04.531Z",
+  "generatedAt": "2026-10-01T17:01:10.879Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -246,19 +246,7 @@
       "previousRank": 54,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Finland",
-      "rank": 55,
-      "previousRank": 55,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -285,6 +273,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Finland",
+      "rank": 68,
+      "previousRank": 55,
+      "rankChange": "-13",
+      "rankDelta": -13,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
