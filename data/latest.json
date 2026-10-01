@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T05:01:02.524Z",
+  "generatedAt": "2026-10-01T06:01:04.382Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -147,9 +147,9 @@
       "artist": "Jimin & Loco",
       "region": "Laos",
       "rank": 41,
-      "previousRank": 40,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 41,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -304,10 +304,11 @@
     "Be Mine": 17,
     "Like Crazy (English Version)": 14,
     "Face-off": 20,
-    "Vibe": 101
+    "Vibe": 101,
+    "Be Mine (English Version)": 60
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1394,
-    "uniqueSongsWithNumberOne": 29
+    "totalNumberOneEvents": 1454,
+    "uniqueSongsWithNumberOne": 30
   }
 }
