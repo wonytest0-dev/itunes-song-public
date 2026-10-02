@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:01:08.923Z",
+  "generatedAt": "2026-10-02T02:01:03.950Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -135,9 +135,9 @@
       "artist": "Jimin",
       "region": "Niger",
       "rank": 28,
-      "previousRank": 29,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 28,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -147,9 +147,9 @@
       "artist": "Jimin & Loco",
       "region": "Laos",
       "rank": 39,
-      "previousRank": 41,
-      "rankChange": "+2",
-      "rankDelta": 2,
+      "previousRank": 39,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
