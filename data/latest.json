@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T22:01:02.774Z",
+  "generatedAt": "2026-10-03T23:01:04.440Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -167,18 +167,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Brazil",
-      "rank": 48,
-      "previousRank": 48,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
@@ -263,6 +251,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Brazil",
+      "rank": 56,
+      "previousRank": 48,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -290,10 +290,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Colombia",
-      "rank": 64,
+      "rank": 78,
       "previousRank": 64,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-14",
+      "rankDelta": -14,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -302,10 +302,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Colombia",
-      "rank": 67,
+      "rank": 82,
       "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-15",
+      "rankDelta": -15,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -314,10 +314,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Colombia",
-      "rank": 75,
+      "rank": 94,
       "previousRank": 75,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-19",
+      "rankDelta": -19,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
