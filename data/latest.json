@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:01:07.325Z",
+  "generatedAt": "2026-10-03T21:01:10.181Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -155,18 +155,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Brazil",
-      "rank": 42,
-      "previousRank": 42,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -175,6 +163,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Brazil",
+      "rank": 48,
+      "previousRank": 42,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -263,35 +263,11 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Colombia",
-      "rank": 55,
-      "previousRank": 55,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
       "rank": 57,
       "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Colombia",
-      "rank": 58,
-      "previousRank": 58,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
@@ -311,13 +287,37 @@
       "numberOneCount": 0
     },
     {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 64,
+      "previousRank": 55,
+      "rankChange": "-9",
+      "rankDelta": -9,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 67,
+      "previousRank": 58,
+      "rankChange": "-9",
+      "rankDelta": -9,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Colombia",
-      "rank": 66,
+      "rank": 75,
       "previousRank": 66,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-9",
+      "rankDelta": -9,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
