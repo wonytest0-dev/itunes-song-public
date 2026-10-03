@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T12:01:07.266Z",
+  "generatedAt": "2026-10-03T13:01:09.512Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 119,
-  "regionsFailed": 0,
+  "regionsSucceeded": 117,
+  "regionsFailed": 2,
   "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
