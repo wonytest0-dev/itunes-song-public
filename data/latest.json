@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:01:09.475Z",
+  "generatedAt": "2026-10-03T01:01:08.793Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,10 +14,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 11,
+      "rank": 10,
       "previousRank": 11,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -26,10 +26,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 13,
+      "rank": 12,
       "previousRank": 13,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -95,6 +95,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 21,
+      "previousRank": 22,
+      "rankChange": "+1",
+      "rankDelta": 1,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -105,18 +117,6 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 22,
-      "previousRank": 22,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Set Me Free, Pt. 2",
@@ -150,7 +150,7 @@
       "previousRank": 39,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -254,10 +254,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
-      "rank": 57,
+      "rank": 56,
       "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -266,10 +266,10 @@
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 61,
+      "rank": 60,
       "previousRank": 61,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
