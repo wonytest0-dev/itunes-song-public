@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T14:01:06.266Z",
+  "generatedAt": "2026-10-03T15:01:08.911Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 119,
-  "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "regionsSucceeded": 118,
+  "regionsFailed": 1,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -127,6 +127,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Brazil",
+      "rank": 27,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
