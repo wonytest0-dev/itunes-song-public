@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T16:01:02.596Z",
+  "generatedAt": "2026-10-04T17:01:10.754Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -146,10 +146,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 38,
+      "rank": 39,
       "previousRank": 38,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
