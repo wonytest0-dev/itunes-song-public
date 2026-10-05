@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-05T04:01:08.060Z",
+  "lastRunAt": "2026-10-05T05:01:23.852Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -17764,6 +17764,17 @@
       "firstNumberOneAt": "2026-09-03T20:52:15.000Z",
       "lastNumberOneAt": "2026-09-03T20:52:15.000Z",
       "source": "backfill"
+    },
+    "like crazy (english version)|indonesia": {
+      "title": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "region": "Indonesia",
+      "lastRank": 44,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-05T05:01:23.852Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
     }
   },
   "totals": {

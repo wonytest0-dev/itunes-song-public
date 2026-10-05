@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T04:01:08.060Z",
+  "generatedAt": "2026-10-05T05:01:23.852Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -153,6 +153,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "region": "Indonesia",
+      "rank": 44,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
