@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:01:14.318Z",
+  "generatedAt": "2026-10-05T07:01:07.194Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -155,18 +155,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "region": "Indonesia",
-      "rank": 44,
-      "previousRank": 44,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -234,7 +222,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -282,6 +270,18 @@
       "previousRank": 64,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "region": "Indonesia",
+      "rank": 86,
+      "previousRank": 44,
+      "rankChange": "-42",
+      "rankDelta": -42,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
