@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T06:01:10.896Z",
+  "generatedAt": "2026-10-07T07:01:13.856Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 23,
+  "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -273,18 +273,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Malaysia",
-      "rank": 99,
-      "previousRank": 99,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
