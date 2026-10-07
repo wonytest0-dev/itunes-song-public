@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:01:10.525Z",
+  "generatedAt": "2026-10-07T05:01:16.940Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -278,10 +278,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Malaysia",
-      "rank": 76,
+      "rank": 99,
       "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-23",
+      "rankDelta": -23,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
