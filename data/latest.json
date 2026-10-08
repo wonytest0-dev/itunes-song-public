@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T16:01:14.929Z",
+  "generatedAt": "2026-10-08T17:01:26.632Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -278,10 +278,10 @@
       "title": "With You",
       "artist": "Jimin & HA SUNG WOON",
       "region": "Egypt",
-      "rank": 67,
+      "rank": 90,
       "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-23",
+      "rankDelta": -23,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
