@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:01:08.312Z",
+  "generatedAt": "2026-10-09T10:01:08.174Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -147,9 +147,9 @@
       "artist": "Jimin & Loco",
       "region": "Laos",
       "rank": 46,
-      "previousRank": 45,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
