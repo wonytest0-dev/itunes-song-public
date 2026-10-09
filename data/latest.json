@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T20:01:08.043Z",
+  "generatedAt": "2026-10-09T21:01:07.961Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -179,9 +179,9 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Laos",
+      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
+      "artist": "Jimin & Fast & Furious: The Fast Saga",
+      "region": "Micronesia",
       "rank": 50,
       "previousRank": 50,
       "rankChange": "=",
@@ -191,13 +191,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
-      "artist": "Jimin & Fast & Furious: The Fast Saga",
-      "region": "Micronesia",
-      "rank": 50,
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Laos",
+      "rank": 51,
       "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
