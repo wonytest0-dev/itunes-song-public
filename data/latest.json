@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:01:12.867Z",
+  "generatedAt": "2026-10-09T19:01:10.545Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -143,18 +143,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Laos",
-      "rank": 46,
-      "previousRank": 46,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -174,7 +162,7 @@
       "previousRank": 48,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -186,6 +174,18 @@
       "previousRank": 49,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Laos",
+      "rank": 50,
+      "previousRank": 46,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
