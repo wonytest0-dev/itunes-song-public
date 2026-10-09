@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-09T11:01:10.585Z",
+  "generatedAt": "2026-10-09T12:01:05.940Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 119,
-  "regionsFailed": 0,
+  "regionsSucceeded": 109,
+  "regionsFailed": 10,
   "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
@@ -162,7 +162,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
