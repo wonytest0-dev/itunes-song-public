@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T05:01:09.106Z",
+  "generatedAt": "2026-10-09T06:01:13.298Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -279,9 +279,9 @@
       "artist": "Jimin",
       "region": "Thailand",
       "rank": 100,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 100,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
