@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T06:01:13.298Z",
+  "generatedAt": "2026-10-09T07:01:09.759Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 23,
+  "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -222,7 +222,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -273,18 +273,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Thailand",
-      "rank": 100,
-      "previousRank": 100,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
