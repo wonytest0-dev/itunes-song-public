@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T08:01:07.109Z",
+  "generatedAt": "2026-10-11T09:01:06.457Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -138,18 +138,6 @@
       "previousRank": 32,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Singapore",
-      "rank": 36,
-      "previousRank": 36,
-      "rankChange": "=",
-      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -275,6 +263,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Singapore",
+      "rank": 63,
+      "previousRank": 36,
+      "rankChange": "-27",
+      "rankDelta": -27,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -290,10 +290,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Colombia",
-      "rank": 72,
+      "rank": 96,
       "previousRank": 72,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-24",
+      "rankDelta": -24,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
