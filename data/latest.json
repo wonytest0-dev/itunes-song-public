@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T06:01:09.406Z",
+  "generatedAt": "2026-10-11T07:01:12.610Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 119,
-  "regionsFailed": 0,
-  "jiminEntriesFound": 23,
+  "regionsSucceeded": 118,
+  "regionsFailed": 1,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -143,6 +143,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Singapore",
+      "rank": 36,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -242,22 +254,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 56,
+      "rank": 55,
       "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Colombia",
-      "rank": 57,
-      "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -285,6 +285,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 72,
+      "previousRank": 57,
+      "rankChange": "-15",
+      "rankDelta": -15,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
