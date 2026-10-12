@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-12T22:01:05.400Z",
+  "generatedAt": "2026-10-12T23:01:18.655Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 28,
-  "totalNumberOneRegionsCurrent": 2,
+  "jiminEntriesFound": 31,
+  "totalNumberOneRegionsCurrent": 3,
   "newSongsDetected": [],
   "newNumberOnes": [],
-  "reEntries": [],
+  "reEntries": [
+    {
+      "title": "Who",
+      "region": "Uzbekistan",
+      "timesAtNumberOne": 2
+    }
+  ],
   "stillNumberOne": [
     {
       "title": "Rebirth (Intro)",
@@ -44,16 +50,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine (English Version)",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 2,
-      "previousRank": 2,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 5,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "region": "Uzbekistan",
+      "rank": 1,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 9,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
     },
     {
       "title": "Who",
@@ -68,26 +74,50 @@
       "numberOneCount": 1
     },
     {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 2,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 5,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 3,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 4,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "rank": 3,
+      "rank": 4,
       "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 4,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 3,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
     {
-      "title": "Slow Dance (feat. Sofia Carson)",
+      "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 11,
-      "previousRank": 11,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
+      "region": "Gambia",
+      "rank": 4,
+      "previousRank": 2,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 3,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -126,6 +156,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 14,
+      "previousRank": 11,
+      "rankChange": "-3",
+      "rankDelta": -3,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
@@ -236,35 +278,11 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Gambia",
-      "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
       "rank": 50,
       "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 51,
-      "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
@@ -296,6 +314,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Gambia",
+      "rank": 53,
+      "previousRank": 50,
+      "rankChange": "-3",
+      "rankDelta": -3,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -308,13 +338,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
+      "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 54,
-      "previousRank": 54,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 51,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -327,6 +357,18 @@
       "previousRank": 56,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 57,
+      "previousRank": 54,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -389,7 +431,7 @@
     "Be Mine (English Version)": 60
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1456,
+    "totalNumberOneEvents": 1457,
     "uniqueSongsWithNumberOne": 30
   }
 }

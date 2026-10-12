@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-12T22:01:05.400Z",
+  "lastRunAt": "2026-10-12T23:01:18.655Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -1205,12 +1205,12 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "lastRank": null,
+      "lastRank": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 1,
+      "numberOneCount": 2,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
       "firstNumberOneAt": "2026-09-02T01:14:15.138Z",
-      "lastNumberOneAt": "2026-09-02T01:14:15.138Z",
+      "lastNumberOneAt": "2026-10-12T23:01:18.655Z",
       "source": "backfill"
     },
     "who|azerbaijan": {
@@ -1289,7 +1289,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
-      "lastRank": 51,
+      "lastRank": 54,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -2717,7 +2717,7 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin Feat. Loco",
       "region": "Gambia",
-      "lastRank": 50,
+      "lastRank": 53,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -4061,7 +4061,7 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "lastRank": null,
+      "lastRank": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -5832,7 +5832,7 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
-      "lastRank": 54,
+      "lastRank": 57,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
@@ -13725,7 +13725,7 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "lastRank": null,
+      "lastRank": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
@@ -17791,7 +17791,7 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Gambia",
-      "lastRank": 2,
+      "lastRank": 4,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-12T21:01:06.875Z",
@@ -17802,7 +17802,7 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "lastRank": 3,
+      "lastRank": 4,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-12T21:01:06.875Z",
@@ -17813,7 +17813,7 @@
       "title": "Slow Dance (feat. Sofia Carson)",
       "artist": "Jimin",
       "region": "Kazakhstan",
-      "lastRank": 11,
+      "lastRank": 14,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-12T21:01:06.875Z",
@@ -17822,7 +17822,7 @@
     }
   },
   "totals": {
-    "numberOneEvents": 1456,
+    "numberOneEvents": 1457,
     "songsWithNumberOne": 30
   }
 }
