@@ -1,15 +1,98 @@
 {
-  "generatedAt": "2026-10-12T20:01:09.301Z",
+  "generatedAt": "2026-10-12T21:01:06.875Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 118,
-  "regionsFailed": 1,
-  "jiminEntriesFound": 22,
-  "totalNumberOneRegionsCurrent": 0,
+  "regionsSucceeded": 119,
+  "regionsFailed": 0,
+  "jiminEntriesFound": 28,
+  "totalNumberOneRegionsCurrent": 2,
   "newSongsDetected": [],
-  "newNumberOnes": [],
-  "reEntries": [],
+  "newNumberOnes": [
+    {
+      "title": "Be Mine",
+      "region": "Panama"
+    }
+  ],
+  "reEntries": [
+    {
+      "title": "Rebirth (Intro)",
+      "region": "Argentina",
+      "timesAtNumberOne": 2
+    }
+  ],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "Rebirth (Intro)",
+      "artist": "Jimin",
+      "region": "Argentina",
+      "rank": 1,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 7,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Panama",
+      "rank": 1,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 7,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 2,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 5,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 2,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 5,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Botswana",
+      "rank": 3,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 4,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 11,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
@@ -134,10 +217,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 32,
+      "rank": 33,
       "previousRank": 32,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -158,22 +241,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
-      "rank": 48,
+      "rank": 50,
       "previousRank": 48,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -191,6 +262,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 51,
+      "previousRank": 49,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -201,18 +284,6 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 52,
-      "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
@@ -235,6 +306,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 54,
+      "previousRank": 52,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -301,14 +384,14 @@
     "Slow Dance": 16,
     "Promise": 56,
     "Alone": 18,
-    "Be Mine": 17,
+    "Be Mine": 18,
     "Like Crazy (English Version)": 14,
     "Face-off": 20,
     "Vibe": 101,
     "Be Mine (English Version)": 60
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1454,
+    "totalNumberOneEvents": 1456,
     "uniqueSongsWithNumberOne": 30
   }
 }

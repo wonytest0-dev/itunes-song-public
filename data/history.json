@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-12T20:01:09.301Z",
+  "lastRunAt": "2026-10-12T21:01:06.875Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -533,7 +533,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Romania",
-      "lastRank": null,
+      "lastRank": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -1289,7 +1289,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
-      "lastRank": 49,
+      "lastRank": 51,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -2717,7 +2717,7 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin Feat. Loco",
       "region": "Gambia",
-      "lastRank": 48,
+      "lastRank": 50,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -3809,7 +3809,7 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "lastRank": 32,
+      "lastRank": 33,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -5832,7 +5832,7 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
-      "lastRank": 52,
+      "lastRank": 54,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:34:34.176Z",
@@ -7305,12 +7305,12 @@
       "title": "Rebirth (Intro)",
       "artist": "Jimin",
       "region": "Argentina",
-      "lastRank": null,
+      "lastRank": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 1,
+      "numberOneCount": 2,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
       "firstNumberOneAt": "2026-09-03T20:52:15.000Z",
-      "lastNumberOneAt": "2026-09-03T20:52:15.000Z",
+      "lastNumberOneAt": "2026-10-12T21:01:06.875Z",
       "source": "backfill"
     },
     "rebirth (intro)|austria": {
@@ -17775,10 +17775,54 @@
       "firstSeenAt": "2026-10-05T05:01:23.852Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
+    },
+    "be mine|panama": {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Panama",
+      "lastRank": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1,
+      "firstSeenAt": "2026-10-12T21:01:06.875Z",
+      "firstNumberOneAt": "2026-10-12T21:01:06.875Z",
+      "lastNumberOneAt": "2026-10-12T21:01:06.875Z"
+    },
+    "be mine (english version)|gambia": {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "lastRank": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-12T21:01:06.875Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "be mine (english version)|botswana": {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Botswana",
+      "lastRank": 3,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-12T21:01:06.875Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
+    },
+    "slow dance (feat. sofia carson)|kazakhstan": {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "lastRank": 11,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-12T21:01:06.875Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
     }
   },
   "totals": {
-    "numberOneEvents": 1454,
+    "numberOneEvents": 1456,
     "songsWithNumberOne": 30
   }
 }
