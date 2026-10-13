@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:01:18.655Z",
+  "generatedAt": "2026-10-13T00:01:12.267Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -7,13 +7,7 @@
   "totalNumberOneRegionsCurrent": 3,
   "newSongsDetected": [],
   "newNumberOnes": [],
-  "reEntries": [
-    {
-      "title": "Who",
-      "region": "Uzbekistan",
-      "timesAtNumberOne": 2
-    }
-  ],
+  "reEntries": [],
   "stillNumberOne": [
     {
       "title": "Rebirth (Intro)",
@@ -22,6 +16,10 @@
     {
       "title": "Be Mine",
       "region": "Panama"
+    },
+    {
+      "title": "Who",
+      "region": "Uzbekistan"
     }
   ],
   "currentChart": [
@@ -54,9 +52,9 @@
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 1,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 1,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 9,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -78,9 +76,9 @@
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 2,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 2,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 5,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -90,9 +88,9 @@
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 3,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 3,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -102,9 +100,9 @@
       "artist": "Jimin",
       "region": "Botswana",
       "rank": 4,
-      "previousRank": 3,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 4,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 3,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -114,9 +112,9 @@
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 4,
-      "previousRank": 2,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 4,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 3,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -162,9 +160,9 @@
       "artist": "Jimin",
       "region": "Kazakhstan",
       "rank": 14,
-      "previousRank": 11,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 14,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -318,9 +316,9 @@
       "artist": "Jimin & Loco",
       "region": "Gambia",
       "rank": 53,
-      "previousRank": 50,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -342,9 +340,9 @@
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 54,
-      "previousRank": 51,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 54,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -366,9 +364,9 @@
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 57,
-      "previousRank": 54,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 57,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
