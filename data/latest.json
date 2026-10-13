@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T12:01:12.780Z",
+  "generatedAt": "2026-10-13T13:01:06.951Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 41,
+  "jiminEntriesFound": 38,
   "totalNumberOneRegionsCurrent": 3,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -67,7 +67,7 @@
       "previousRank": 2,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 5,
+      "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
@@ -123,10 +123,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "rank": 5,
+      "rank": 6,
       "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 3,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -228,18 +228,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 18,
-      "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -264,30 +252,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Guatemala",
-      "rank": 21,
-      "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who (Acoustic Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 24,
-      "previousRank": 24,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -300,6 +264,30 @@
       "numberOneCount": 0
     },
     {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 25,
+      "previousRank": 18,
+      "rankChange": "-7",
+      "rankDelta": -7,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Guatemala",
+      "rank": 27,
+      "previousRank": 21,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -310,6 +298,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who (Acoustic Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 33,
+      "previousRank": 24,
+      "rankChange": "-9",
+      "rankDelta": -9,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -444,37 +444,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Philippines",
+      "rank": 78,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Who (Rock Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 87,
+      "rank": 95,
       "previousRank": 87,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Slow Dance (feat. Sofia Carson)",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 88,
-      "previousRank": 88,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Shibuyakei Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 90,
-      "previousRank": 90,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -483,34 +471,10 @@
       "title": "Who (Funky Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 91,
+      "rank": 99,
       "previousRank": 91,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Beautiful Mind Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 94,
-      "previousRank": 94,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who (Instrumental)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 98,
-      "previousRank": 98,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
