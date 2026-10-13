@@ -1,12 +1,17 @@
 {
-  "generatedAt": "2026-10-13T16:01:08.967Z",
+  "generatedAt": "2026-10-13T17:01:11.326Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 36,
-  "totalNumberOneRegionsCurrent": 3,
+  "jiminEntriesFound": 41,
+  "totalNumberOneRegionsCurrent": 4,
   "newSongsDetected": [],
-  "newNumberOnes": [],
+  "newNumberOnes": [
+    {
+      "title": "Be Mine (English Version)",
+      "region": "Botswana"
+    }
+  ],
   "reEntries": [],
   "stillNumberOne": [
     {
@@ -34,6 +39,18 @@
       "sales": 9,
       "everHitNumberOne": true,
       "numberOneCount": 2
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Botswana",
+      "rank": 1,
+      "previousRank": 6,
+      "rankChange": "+5",
+      "rankDelta": 5,
+      "sales": 9,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Be Mine",
@@ -72,6 +89,18 @@
       "numberOneCount": 2
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 2,
+      "previousRank": 3,
+      "rankChange": "+1",
+      "rankDelta": 1,
+      "sales": 6,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Uzbekistan",
@@ -84,13 +113,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Romania",
+      "title": "Slow Dance",
+      "artist": "Jimin & Sofia Carson",
+      "region": "Kazakhstan",
       "rank": 3,
-      "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -120,14 +149,14 @@
       "numberOneCount": 0
     },
     {
-      "title": "Be Mine (English Version)",
+      "title": "Who (Acoustic Remix)",
       "artist": "Jimin",
-      "region": "Botswana",
-      "rank": 6,
-      "previousRank": 6,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 3,
+      "region": "Romania",
+      "rank": 9,
+      "previousRank": 53,
+      "rankChange": "+44",
+      "rankDelta": 44,
+      "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -144,6 +173,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who (Rock Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 12,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -154,6 +195,18 @@
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who (Shibuyakei Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 13,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Set Me Free, Pt. 2",
@@ -168,6 +221,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who (Funky Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 14,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -175,6 +240,18 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 15,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -202,6 +279,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who (Instrumental)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 16,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
@@ -264,18 +353,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 32,
-      "previousRank": 32,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -283,6 +360,18 @@
       "previousRank": 33,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 37,
+      "previousRank": 32,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -372,18 +461,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Acoustic Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
@@ -442,18 +519,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Philippines",
-      "rank": 92,
-      "previousRank": 92,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
@@ -486,10 +551,10 @@
     "Like Crazy (English Version)": 14,
     "Face-off": 20,
     "Vibe": 101,
-    "Be Mine (English Version)": 60
+    "Be Mine (English Version)": 61
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1458,
+    "totalNumberOneEvents": 1459,
     "uniqueSongsWithNumberOne": 30
   }
 }
