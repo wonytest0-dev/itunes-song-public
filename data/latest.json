@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T04:01:07.141Z",
+  "generatedAt": "2026-10-13T05:01:08.998Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -67,7 +67,7 @@
       "previousRank": 2,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 5,
+      "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -435,10 +435,10 @@
       "title": "Who (Funky Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 70,
+      "rank": 69,
       "previousRank": 70,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -447,10 +447,10 @@
       "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 71,
+      "rank": 70,
       "previousRank": 71,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
