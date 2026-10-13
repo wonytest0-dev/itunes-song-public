@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T10:01:05.380Z",
+  "generatedAt": "2026-10-13T11:01:07.309Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 40,
+  "jiminEntriesFound": 41,
   "totalNumberOneRegionsCurrent": 3,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -72,9 +72,9 @@
       "numberOneCount": 2
     },
     {
-      "title": "Who",
+      "title": "Like Crazy",
       "artist": "Jimin",
-      "region": "Romania",
+      "region": "Uzbekistan",
       "rank": 2,
       "previousRank": 2,
       "rankChange": "=",
@@ -84,14 +84,14 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 2,
+      "region": "Romania",
+      "rank": 3,
       "previousRank": 2,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 6,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -132,18 +132,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Guatemala",
-      "rank": 10,
-      "previousRank": 6,
-      "rankChange": "-4",
-      "rankDelta": -4,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Guinea-Bissau",
@@ -154,18 +142,6 @@
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Interlude : Dive",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 12,
-      "previousRank": 12,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Who",
@@ -190,6 +166,18 @@
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Interlude : Dive",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 14,
+      "previousRank": 12,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -240,6 +228,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 18,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -264,11 +264,23 @@
       "numberOneCount": 1
     },
     {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Guatemala",
+      "rank": 21,
+      "previousRank": 10,
+      "rankChange": "-11",
+      "rankDelta": -11,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Who (Acoustic Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 20,
-      "previousRank": 16,
+      "rank": 24,
+      "previousRank": 20,
       "rankChange": "-4",
       "rankDelta": -4,
       "sales": 1,
@@ -310,18 +322,6 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Slow Dance (feat. Sofia Carson)",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 49,
-      "previousRank": 22,
-      "rankChange": "-27",
-      "rankDelta": -27,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -447,30 +447,6 @@
       "title": "Who (Rock Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 83,
-      "previousRank": 79,
-      "rankChange": "-4",
-      "rankDelta": -4,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Funky Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 86,
-      "previousRank": 85,
-      "rankChange": "-1",
-      "rankDelta": -1,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Shibuyakei Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
       "rank": 87,
       "previousRank": 83,
       "rankChange": "-4",
@@ -480,11 +456,47 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who (Beautiful Mind Remix)",
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 88,
+      "previousRank": 49,
+      "rankChange": "-39",
+      "rankDelta": -39,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 90,
+      "previousRank": 87,
+      "rankChange": "-3",
+      "rankDelta": -3,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Funky Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 91,
       "previousRank": 86,
+      "rankChange": "-5",
+      "rankDelta": -5,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 94,
+      "previousRank": 90,
       "rankChange": "-4",
       "rankDelta": -4,
       "sales": 0,
@@ -495,8 +507,8 @@
       "title": "Who (Instrumental)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 94,
-      "previousRank": 90,
+      "rank": 98,
+      "previousRank": 94,
       "rankChange": "-4",
       "rankDelta": -4,
       "sales": 0,
