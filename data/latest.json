@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:01:08.862Z",
+  "generatedAt": "2026-10-13T19:01:05.491Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -172,18 +172,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Rock Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 12,
-      "previousRank": 12,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -196,13 +184,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Shibuyakei Remix)",
+      "title": "Who (Rock Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 13,
-      "previousRank": 13,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 12,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -244,25 +232,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Beautiful Mind Remix)",
+      "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Interlude : Dive",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 13,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -280,14 +256,26 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Instrumental)",
+      "title": "Who (Beautiful Mind Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 16,
-      "previousRank": 16,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 15,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Interlude : Dive",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 16,
+      "previousRank": 15,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -299,6 +287,18 @@
       "previousRank": 17,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Instrumental)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 17,
+      "previousRank": 16,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -367,10 +367,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Kazakhstan",
-      "rank": 37,
+      "rank": 41,
       "previousRank": 37,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -379,10 +379,10 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guatemala",
-      "rank": 42,
+      "rank": 45,
       "previousRank": 42,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
