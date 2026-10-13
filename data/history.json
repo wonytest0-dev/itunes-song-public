@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-13T06:01:22.168Z",
+  "lastRunAt": "2026-10-13T07:01:07.582Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -6526,7 +6526,7 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guatemala",
-      "lastRank": null,
+      "lastRank": 6,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T10:26:29.828Z",
@@ -7305,7 +7305,7 @@
       "title": "Rebirth (Intro)",
       "artist": "Jimin",
       "region": "Argentina",
-      "lastRank": 1,
+      "lastRank": 2,
       "everHitNumberOne": true,
       "numberOneCount": 2,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
@@ -10101,7 +10101,7 @@
       "title": "Who (Beautiful Mind Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "lastRank": 73,
+      "lastRank": 86,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
@@ -11625,12 +11625,12 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Argentina",
-      "lastRank": null,
+      "lastRank": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 1,
+      "numberOneCount": 2,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
       "firstNumberOneAt": "2026-09-03T20:52:15.000Z",
-      "lastNumberOneAt": "2026-09-03T20:52:15.000Z",
+      "lastNumberOneAt": "2026-10-13T07:01:07.582Z",
       "source": "backfill"
     },
     "promise|sweden": {
@@ -17813,7 +17813,7 @@
       "title": "Slow Dance (feat. Sofia Carson)",
       "artist": "Jimin",
       "region": "Kazakhstan",
-      "lastRank": 17,
+      "lastRank": 22,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-12T21:01:06.875Z",
@@ -17824,7 +17824,7 @@
       "title": "Who (Acoustic Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "lastRank": 11,
+      "lastRank": 16,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-13T03:01:14.522Z",
@@ -17846,7 +17846,7 @@
       "title": "Who (Rock Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "lastRank": 66,
+      "lastRank": 79,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-13T03:01:14.522Z",
@@ -17857,7 +17857,7 @@
       "title": "Who (Funky Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "lastRank": 69,
+      "lastRank": 85,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-13T03:01:14.522Z",
@@ -17868,7 +17868,7 @@
       "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "lastRank": 70,
+      "lastRank": 83,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-13T03:01:14.522Z",
@@ -17879,7 +17879,7 @@
       "title": "Who (Instrumental)",
       "artist": "Jimin",
       "region": "Romania",
-      "lastRank": 77,
+      "lastRank": 90,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-13T03:01:14.522Z",
@@ -17888,7 +17888,7 @@
     }
   },
   "totals": {
-    "numberOneEvents": 1457,
+    "numberOneEvents": 1458,
     "songsWithNumberOne": 30
   }
 }

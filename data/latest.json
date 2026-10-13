@@ -1,18 +1,20 @@
 {
-  "generatedAt": "2026-10-13T06:01:22.168Z",
+  "generatedAt": "2026-10-13T07:01:07.582Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 38,
+  "jiminEntriesFound": 40,
   "totalNumberOneRegionsCurrent": 3,
   "newSongsDetected": [],
   "newNumberOnes": [],
-  "reEntries": [],
-  "stillNumberOne": [
+  "reEntries": [
     {
-      "title": "Rebirth (Intro)",
-      "region": "Argentina"
-    },
+      "title": "Promise",
+      "region": "Argentina",
+      "timesAtNumberOne": 2
+    }
+  ],
+  "stillNumberOne": [
     {
       "title": "Be Mine",
       "region": "Panama"
@@ -24,13 +26,13 @@
   ],
   "currentChart": [
     {
-      "title": "Rebirth (Intro)",
+      "title": "Promise",
       "artist": "Jimin",
       "region": "Argentina",
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 8,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -56,6 +58,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 9,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
+      "title": "Rebirth (Intro)",
+      "artist": "Jimin",
+      "region": "Argentina",
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 5,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
@@ -103,7 +117,7 @@
       "previousRank": 4,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 3,
+      "sales": 4,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -120,16 +134,16 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who (Acoustic Remix)",
+      "title": "Closer Than This",
       "artist": "Jimin",
-      "region": "Romania",
-      "rank": 11,
-      "previousRank": 11,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Guatemala",
+      "rank": 6,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -204,21 +218,21 @@
       "numberOneCount": 1
     },
     {
-      "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
-      "artist": "Jimin & Fast & Furious: The Fast Saga",
-      "region": "Guinea-Bissau",
-      "rank": 17,
-      "previousRank": 17,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Who (Acoustic Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 16,
+      "previousRank": 11,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
     {
-      "title": "Slow Dance (feat. Sofia Carson)",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
+      "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
+      "artist": "Jimin & Fast & Furious: The Fast Saga",
+      "region": "Guinea-Bissau",
       "rank": 17,
       "previousRank": 17,
       "rankChange": "=",
@@ -262,6 +276,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 22,
+      "previousRank": 17,
+      "rankChange": "-5",
+      "rankDelta": -5,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy (English Version)",
@@ -367,7 +393,7 @@
       "previousRank": 54,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -423,22 +449,10 @@
       "title": "Who (Rock Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 66,
+      "rank": 79,
       "previousRank": 66,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Funky Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 69,
-      "previousRank": 69,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-13",
+      "rankDelta": -13,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -447,10 +461,22 @@
       "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 70,
+      "rank": 83,
       "previousRank": 70,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-13",
+      "rankDelta": -13,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Funky Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 85,
+      "previousRank": 69,
+      "rankChange": "-16",
+      "rankDelta": -16,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -459,10 +485,10 @@
       "title": "Who (Beautiful Mind Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 73,
+      "rank": 86,
       "previousRank": 73,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-13",
+      "rankDelta": -13,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -471,10 +497,10 @@
       "title": "Who (Instrumental)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 77,
+      "rank": 90,
       "previousRank": 77,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-13",
+      "rankDelta": -13,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -513,7 +539,7 @@
     "Be Mine (English Version)": 60
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1457,
+    "totalNumberOneEvents": 1458,
     "uniqueSongsWithNumberOne": 30
   }
 }
