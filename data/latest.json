@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:01:12.267Z",
+  "generatedAt": "2026-10-13T01:01:07.747Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -31,7 +31,7 @@
       "previousRank": 1,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 7,
+      "sales": 8,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
@@ -43,7 +43,7 @@
       "previousRank": 1,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 7,
+      "sales": 8,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -151,7 +151,7 @@
       "previousRank": 14,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
