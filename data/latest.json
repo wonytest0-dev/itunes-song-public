@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-13T21:01:16.099Z",
+  "generatedAt": "2026-10-13T22:01:02.407Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 41,
-  "totalNumberOneRegionsCurrent": 4,
+  "jiminEntriesFound": 44,
+  "totalNumberOneRegionsCurrent": 5,
   "newSongsDetected": [],
   "newNumberOnes": [],
-  "reEntries": [],
+  "reEntries": [
+    {
+      "title": "Closer Than This",
+      "region": "Guatemala",
+      "timesAtNumberOne": 2
+    }
+  ],
   "stillNumberOne": [
     {
       "title": "Promise",
@@ -50,6 +56,18 @@
       "sales": 10,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Guatemala",
+      "rank": 1,
+      "previousRank": 45,
+      "rankChange": "+44",
+      "rankDelta": 44,
+      "sales": 9,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
     },
     {
       "title": "Be Mine",
@@ -124,6 +142,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Sri Lanka",
+      "rank": 3,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 4,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Uzbekistan",
@@ -148,13 +178,37 @@
       "numberOneCount": 0
     },
     {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Sri Lanka",
+      "rank": 5,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 3,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Sri Lanka",
+      "rank": 6,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 3,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Who (Acoustic Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 9,
+      "rank": 10,
       "previousRank": 9,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -184,18 +238,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Rock Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 13,
-      "previousRank": 13,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -208,13 +250,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Funky Remix)",
+      "title": "Who (Rock Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 14,
-      "previousRank": 14,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 13,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -232,13 +274,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Shibuyakei Remix)",
+      "title": "Who (Funky Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 14,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -256,25 +298,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Beautiful Mind Remix)",
+      "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 16,
-      "previousRank": 16,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Interlude : Dive",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 16,
-      "previousRank": 16,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 15,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -292,13 +322,25 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who (Instrumental)",
+      "title": "Who (Beautiful Mind Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 17,
-      "previousRank": 17,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 16,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Interlude : Dive",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 17,
+      "previousRank": 16,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -314,6 +356,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who (Instrumental)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 18,
+      "previousRank": 17,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
@@ -364,30 +418,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 41,
-      "previousRank": 41,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Guatemala",
-      "rank": 45,
-      "previousRank": 45,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -408,6 +438,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 51,
+      "previousRank": 41,
+      "rankChange": "-10",
+      "rankDelta": -10,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -553,7 +595,7 @@
     "Be Mine (English Version)": 61
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1459,
+    "totalNumberOneEvents": 1460,
     "uniqueSongsWithNumberOne": 30
   }
 }
