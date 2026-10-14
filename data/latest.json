@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T10:01:07.120Z",
+  "generatedAt": "2026-10-14T11:01:07.370Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 43,
-  "totalNumberOneRegionsCurrent": 2,
+  "jiminEntriesFound": 42,
+  "totalNumberOneRegionsCurrent": 1,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
@@ -12,10 +12,6 @@
     {
       "title": "Promise",
       "region": "Argentina"
-    },
-    {
-      "title": "Who",
-      "region": "Uzbekistan"
     }
   ],
   "currentChart": [
@@ -32,30 +28,6 @@
       "numberOneCount": 2
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 1,
-      "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 10,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
-      "title": "Rebirth (Intro)",
-      "artist": "Jimin",
-      "region": "Argentina",
-      "rank": 2,
-      "previousRank": 2,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 6,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guatemala",
@@ -68,37 +40,37 @@
       "numberOneCount": 2
     },
     {
-      "title": "Like Crazy",
+      "title": "Who",
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 2,
-      "previousRank": 2,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 1,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 6,
       "everHitNumberOne": true,
-      "numberOneCount": 1
+      "numberOneCount": 2
     },
     {
-      "title": "Who",
+      "title": "Rebirth (Intro)",
       "artist": "Jimin",
-      "region": "Romania",
+      "region": "Argentina",
       "rank": 3,
-      "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 2,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 4,
       "everHitNumberOne": true,
-      "numberOneCount": 1
+      "numberOneCount": 2
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 3,
-      "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 2,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -116,16 +88,40 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy (English Version)",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Hungary",
-      "rank": 5,
-      "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 3,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "region": "Romania",
+      "rank": 4,
+      "previousRank": 3,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 4,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Singapore",
+      "rank": 4,
+      "previousRank": 23,
+      "rankChange": "+19",
+      "rankDelta": 19,
+      "sales": 4,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 4,
+      "previousRank": 3,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 4,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Set Me Free, Pt. 2",
@@ -164,18 +160,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Slow Dance",
-      "artist": "Jimin & Sofia Carson",
-      "region": "Kazakhstan",
-      "rank": 10,
-      "previousRank": 10,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Panama",
@@ -195,6 +179,18 @@
       "previousRank": 12,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Slow Dance",
+      "artist": "Jimin & Sofia Carson",
+      "region": "Kazakhstan",
+      "rank": 12,
+      "previousRank": 10,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -234,6 +230,18 @@
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "region": "Hungary",
+      "rank": 15,
+      "previousRank": 5,
+      "rankChange": "-10",
+      "rankDelta": -10,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
@@ -308,18 +316,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Singapore",
-      "rank": 23,
-      "previousRank": 23,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -335,10 +331,10 @@
       "title": "Interlude : Dive",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 26,
+      "rank": 27,
       "previousRank": 26,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -359,70 +355,10 @@
       "title": "Who (Acoustic Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 32,
+      "rank": 44,
       "previousRank": 32,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Rock Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 38,
-      "previousRank": 38,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Funky Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 39,
-      "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Shibuyakei Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 40,
-      "previousRank": 40,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Beautiful Mind Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 41,
-      "previousRank": 41,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who (Instrumental)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 42,
-      "previousRank": 42,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-12",
+      "rankDelta": -12,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -452,6 +388,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who (Rock Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 50,
+      "previousRank": 38,
+      "rankChange": "-12",
+      "rankDelta": -12,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -460,6 +408,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Funky Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 51,
+      "previousRank": 39,
+      "rankChange": "-12",
+      "rankDelta": -12,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -476,6 +436,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who (Shibuyakei Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 52,
+      "previousRank": 40,
+      "rankChange": "-12",
+      "rankDelta": -12,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -484,6 +456,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 53,
+      "previousRank": 41,
+      "rankChange": "-12",
+      "rankDelta": -12,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -498,6 +482,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who (Instrumental)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 54,
+      "previousRank": 42,
+      "rankChange": "-12",
+      "rankDelta": -12,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -522,18 +518,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 91,
-      "previousRank": 91,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
