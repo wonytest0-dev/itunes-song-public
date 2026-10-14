@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:01:08.286Z",
+  "generatedAt": "2026-10-14T01:01:07.669Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -167,11 +167,11 @@
       "title": "Slow Dance",
       "artist": "Jimin & Sofia Carson",
       "region": "Kazakhstan",
-      "rank": 4,
+      "rank": 5,
       "previousRank": 4,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 4,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -272,13 +272,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Shibuyakei Remix)",
+      "title": "Who (Funky Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 16,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -296,13 +296,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Funky Remix)",
+      "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 16,
-      "previousRank": 16,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 15,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -368,18 +368,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Interlude : Dive",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 19,
-      "previousRank": 19,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -390,6 +378,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Interlude : Dive",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 20,
+      "previousRank": 19,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy (English Version)",
@@ -407,10 +407,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 33,
+      "rank": 32,
       "previousRank": 33,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -500,25 +500,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 54,
-      "previousRank": 54,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 55,
+      "rank": 54,
       "previousRank": 55,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -531,6 +519,18 @@
       "previousRank": 57,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 57,
+      "previousRank": 54,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
