@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T06:01:13.355Z",
+  "generatedAt": "2026-10-14T07:01:13.050Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 41,
-  "totalNumberOneRegionsCurrent": 3,
+  "jiminEntriesFound": 42,
+  "totalNumberOneRegionsCurrent": 2,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
@@ -12,10 +12,6 @@
     {
       "title": "Promise",
       "region": "Argentina"
-    },
-    {
-      "title": "Closer Than This",
-      "region": "Guatemala"
     },
     {
       "title": "Who",
@@ -27,18 +23,6 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Argentina",
-      "rank": 1,
-      "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 10,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Guatemala",
       "rank": 1,
       "previousRank": 1,
       "rankChange": "=",
@@ -84,6 +68,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Guatemala",
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 6,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Romania",
@@ -110,7 +106,7 @@
     {
       "title": "Be Mine",
       "artist": "Jimin",
-      "region": "Panama",
+      "region": "Uzbekistan",
       "rank": 3,
       "previousRank": 3,
       "rankChange": "=",
@@ -123,23 +119,23 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 3,
+      "rank": 5,
       "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 4,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
     {
       "title": "Be Mine",
       "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 3,
+      "region": "Panama",
+      "rank": 7,
       "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 4,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -147,11 +143,11 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 5,
+      "rank": 7,
       "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 3,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -159,11 +155,11 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 6,
+      "rank": 8,
       "previousRank": 6,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 3,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -171,10 +167,10 @@
       "title": "Slow Dance",
       "artist": "Jimin & Sofia Carson",
       "region": "Kazakhstan",
-      "rank": 8,
+      "rank": 9,
       "previousRank": 8,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -228,18 +224,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Acoustic Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -288,6 +272,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Singapore",
+      "rank": 19,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -298,30 +294,6 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Who (Rock Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 21,
-      "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Shibuyakei Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 22,
-      "previousRank": 22,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Be Mine (English Version)",
@@ -336,45 +308,21 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who (Funky Remix)",
+      "title": "Who (Acoustic Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 23,
-      "previousRank": 23,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 15,
+      "rankChange": "-8",
+      "rankDelta": -8,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Who (Beautiful Mind Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 24,
-      "previousRank": 24,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     },
     {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 25,
-      "previousRank": 25,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Instrumental)",
-      "artist": "Jimin",
-      "region": "Romania",
       "rank": 25,
       "previousRank": 25,
       "rankChange": "=",
@@ -396,6 +344,42 @@
       "numberOneCount": 0
     },
     {
+      "title": "Who (Rock Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 29,
+      "previousRank": 21,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Shibuyakei Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 30,
+      "previousRank": 22,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Funky Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 31,
+      "previousRank": 23,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -406,6 +390,30 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 32,
+      "previousRank": 24,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who (Instrumental)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 33,
+      "previousRank": 25,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -507,10 +515,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Kazakhstan",
-      "rank": 70,
+      "rank": 82,
       "previousRank": 70,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-12",
+      "rankDelta": -12,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
