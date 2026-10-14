@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T04:01:08.148Z",
+  "generatedAt": "2026-10-14T05:01:11.023Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 44,
-  "totalNumberOneRegionsCurrent": 4,
+  "jiminEntriesFound": 41,
+  "totalNumberOneRegionsCurrent": 3,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
@@ -16,10 +16,6 @@
     {
       "title": "Closer Than This",
       "region": "Guatemala"
-    },
-    {
-      "title": "Be Mine",
-      "region": "Panama"
     },
     {
       "title": "Who",
@@ -35,7 +31,7 @@
       "previousRank": 1,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 9,
+      "sales": 10,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
@@ -47,21 +43,9 @@
       "previousRank": 1,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 9,
+      "sales": 10,
       "everHitNumberOne": true,
       "numberOneCount": 2
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Panama",
-      "rank": 1,
-      "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 9,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     },
     {
       "title": "Who",
@@ -124,6 +108,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Panama",
+      "rank": 3,
+      "previousRank": 1,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 4,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
@@ -146,18 +142,6 @@
       "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 4,
-      "previousRank": 4,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 4,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Be Mine (English Version)",
@@ -187,10 +171,10 @@
       "title": "Slow Dance",
       "artist": "Jimin & Sofia Carson",
       "region": "Kazakhstan",
-      "rank": 7,
+      "rank": 8,
       "previousRank": 7,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -232,18 +216,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Acoustic Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 14,
-      "previousRank": 14,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -254,6 +226,18 @@
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who (Acoustic Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 15,
+      "previousRank": 14,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 2,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
@@ -319,22 +303,10 @@
       "title": "Who (Rock Remix)",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 20,
-      "previousRank": 20,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who (Funky Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
       "rank": 21,
-      "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 20,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -352,28 +324,40 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who (Beautiful Mind Remix)",
+      "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Romania",
+      "region": "Gambia",
       "rank": 23,
-      "previousRank": 23,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who (Instrumental)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 24,
-      "previousRank": 24,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 4,
+      "rankChange": "-19",
+      "rankDelta": -19,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who (Funky Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 23,
+      "previousRank": 21,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 24,
+      "previousRank": 23,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy (English Version)",
@@ -383,6 +367,18 @@
       "previousRank": 25,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Instrumental)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 25,
+      "previousRank": 24,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -460,18 +456,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Gambia",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -484,18 +468,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 54,
-      "previousRank": 54,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -504,18 +476,6 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 57,
-      "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -547,10 +507,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Kazakhstan",
-      "rank": 67,
+      "rank": 70,
       "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
