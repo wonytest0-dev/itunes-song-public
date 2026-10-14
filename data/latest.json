@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T02:01:04.345Z",
+  "generatedAt": "2026-10-14T03:01:08.842Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 44,
-  "totalNumberOneRegionsCurrent": 5,
+  "totalNumberOneRegionsCurrent": 4,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
@@ -12,10 +12,6 @@
     {
       "title": "Promise",
       "region": "Argentina"
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "region": "Botswana"
     },
     {
       "title": "Closer Than This",
@@ -42,18 +38,6 @@
       "sales": 9,
       "everHitNumberOne": true,
       "numberOneCount": 2
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Botswana",
-      "rank": 1,
-      "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 10,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     },
     {
       "title": "Closer Than This",
@@ -102,6 +86,18 @@
       "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 2
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Botswana",
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 6,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Who",
@@ -164,18 +160,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Slow Dance",
-      "artist": "Jimin & Sofia Carson",
-      "region": "Kazakhstan",
-      "rank": 5,
-      "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 3,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
@@ -200,16 +184,16 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who (Acoustic Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 10,
-      "previousRank": 10,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Slow Dance",
+      "artist": "Jimin & Sofia Carson",
+      "region": "Kazakhstan",
+      "rank": 7,
+      "previousRank": 5,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -248,13 +232,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Rock Remix)",
+      "title": "Who (Acoustic Remix)",
       "artist": "Jimin",
       "region": "Romania",
       "rank": 14,
-      "previousRank": 14,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 10,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 2,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -272,18 +256,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Funky Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -294,18 +266,6 @@
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Who (Shibuyakei Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 16,
-      "previousRank": 16,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
@@ -320,18 +280,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who (Beautiful Mind Remix)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 17,
-      "previousRank": 17,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -342,18 +290,6 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Who (Instrumental)",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 18,
-      "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
@@ -380,13 +316,61 @@
       "numberOneCount": 1
     },
     {
-      "title": "Interlude : Dive",
+      "title": "Who (Rock Remix)",
       "artist": "Jimin",
-      "region": "Uzbekistan",
+      "region": "Romania",
       "rank": 20,
-      "previousRank": 20,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 14,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Funky Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 21,
+      "previousRank": 15,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Shibuyakei Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 22,
+      "previousRank": 16,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 23,
+      "previousRank": 17,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who (Instrumental)",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 24,
+      "previousRank": 18,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -399,6 +383,18 @@
       "previousRank": 25,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Interlude : Dive",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 26,
+      "previousRank": 20,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -524,18 +520,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Kazakhstan",
-      "rank": 57,
-      "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -558,6 +542,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Kazakhstan",
+      "rank": 67,
+      "previousRank": 57,
+      "rankChange": "-10",
+      "rankDelta": -10,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
