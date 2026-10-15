@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T10:01:08.996Z",
+  "generatedAt": "2026-10-15T11:01:08.716Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 35,
+  "jiminEntriesFound": 34,
   "totalNumberOneRegionsCurrent": 2,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -47,25 +47,13 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "rank": 8,
+      "rank": 9,
       "previousRank": 8,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Guatemala",
-      "rank": 12,
-      "previousRank": 12,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -104,18 +92,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 14,
-      "previousRank": 14,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -128,16 +104,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
+      "title": "Who",
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 14,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
-      "numberOneCount": 1
+      "numberOneCount": 2
     },
     {
       "title": "Like Crazy",
@@ -152,13 +128,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 16,
-      "previousRank": 16,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 15,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -176,6 +152,18 @@
       "numberOneCount": 0
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 17,
+      "previousRank": 16,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -186,6 +174,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Guatemala",
+      "rank": 19,
+      "previousRank": 12,
+      "rankChange": "-7",
+      "rankDelta": -7,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
     },
     {
       "title": "Like Crazy",
@@ -212,18 +212,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Sri Lanka",
-      "rank": 24,
-      "previousRank": 24,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -236,37 +224,25 @@
       "numberOneCount": 0
     },
     {
-      "title": "Be Mine (English Version)",
+      "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 26,
-      "previousRank": 26,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rank": 28,
+      "previousRank": 24,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
     {
-      "title": "Promise",
+      "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 27,
-      "previousRank": 27,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 28,
-      "previousRank": 28,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rank": 30,
+      "previousRank": 26,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -284,6 +260,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Sri Lanka",
+      "rank": 31,
+      "previousRank": 27,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -294,18 +282,6 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Promise",
-      "artist": "Jimin",
-      "region": "Argentina",
-      "rank": 39,
-      "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
     },
     {
       "title": "Interlude : Dive",
@@ -320,13 +296,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Argentina",
+      "rank": 43,
+      "previousRank": 39,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
       "title": "Rebirth (Intro)",
       "artist": "Jimin",
       "region": "Argentina",
-      "rank": 40,
+      "rank": 44,
       "previousRank": 40,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -339,7 +327,19 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 47,
+      "previousRank": 28,
+      "rankChange": "-19",
+      "rankDelta": -19,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -351,7 +351,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -363,7 +363,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -375,7 +375,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -387,7 +387,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -407,18 +407,6 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
-      "rank": 60,
-      "previousRank": 60,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Slow Dance",
-      "artist": "Jimin & Sofia Carson",
-      "region": "Kazakhstan",
       "rank": 60,
       "previousRank": 60,
       "rankChange": "=",
