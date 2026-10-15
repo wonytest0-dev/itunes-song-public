@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:01:07.556Z",
+  "generatedAt": "2026-10-15T17:01:12.989Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -52,9 +52,9 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine (English Version)",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Botswana",
+      "region": "Guinea-Bissau",
       "rank": 13,
       "previousRank": 13,
       "rankChange": "=",
@@ -64,13 +64,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
+      "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Guinea-Bissau",
-      "rank": 13,
+      "region": "Botswana",
+      "rank": 14,
       "previousRank": 13,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -136,18 +136,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 18,
-      "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guatemala",
@@ -172,18 +160,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 19,
-      "previousRank": 19,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -196,13 +172,37 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 22,
+      "previousRank": 18,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 23,
+      "previousRank": 19,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 20,
+      "rank": 24,
       "previousRank": 20,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -271,25 +271,13 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Panama",
-      "rank": 33,
+      "rank": 35,
       "previousRank": 33,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Interlude : Dive",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 42,
-      "previousRank": 42,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -304,28 +292,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Promise",
+      "title": "Interlude : Dive",
       "artist": "Jimin",
-      "region": "Argentina",
-      "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Uzbekistan",
+      "rank": 46,
+      "previousRank": 42,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
-      "title": "Rebirth (Intro)",
-      "artist": "Jimin",
-      "region": "Argentina",
-      "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -379,10 +355,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 56,
+      "rank": 57,
       "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -412,13 +388,37 @@
       "numberOneCount": 0
     },
     {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Argentina",
+      "rank": 72,
+      "previousRank": 49,
+      "rankChange": "-23",
+      "rankDelta": -23,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
+      "title": "Rebirth (Intro)",
+      "artist": "Jimin",
+      "region": "Argentina",
+      "rank": 73,
+      "previousRank": 50,
+      "rankChange": "-23",
+      "rankDelta": -23,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Romania",
-      "rank": 77,
+      "rank": 94,
       "previousRank": 77,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-17",
+      "rankDelta": -17,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
