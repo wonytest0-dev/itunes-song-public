@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T12:01:13.009Z",
+  "generatedAt": "2026-10-15T13:01:14.326Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -47,10 +47,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "rank": 9,
+      "rank": 12,
       "previousRank": 9,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -299,10 +299,10 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Argentina",
-      "rank": 43,
+      "rank": 45,
       "previousRank": 43,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -311,10 +311,10 @@
       "title": "Rebirth (Intro)",
       "artist": "Jimin",
       "region": "Argentina",
-      "rank": 44,
+      "rank": 46,
       "previousRank": 44,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -325,18 +325,6 @@
       "region": "Micronesia",
       "rank": 46,
       "previousRank": 46,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Romania",
-      "rank": 47,
-      "previousRank": 47,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
@@ -426,6 +414,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Romania",
+      "rank": 65,
+      "previousRank": 47,
+      "rankChange": "-18",
+      "rankDelta": -18,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
