@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T13:01:14.326Z",
+  "generatedAt": "2026-10-15T14:01:15.335Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 34,
-  "totalNumberOneRegionsCurrent": 2,
+  "totalNumberOneRegionsCurrent": 1,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
@@ -12,10 +12,6 @@
     {
       "title": "Be Mine (English Version)",
       "region": "Gambia"
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "region": "Jordan"
     }
   ],
   "currentChart": [
@@ -35,11 +31,11 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
-      "rank": 1,
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 9,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -48,9 +44,9 @@
       "artist": "Jimin",
       "region": "Botswana",
       "rank": 12,
-      "previousRank": 9,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 12,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -111,7 +107,7 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
@@ -300,9 +296,9 @@
       "artist": "Jimin",
       "region": "Argentina",
       "rank": 45,
-      "previousRank": 43,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 45,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -312,9 +308,9 @@
       "artist": "Jimin",
       "region": "Argentina",
       "rank": 46,
-      "previousRank": 44,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -327,7 +323,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -339,7 +335,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -351,7 +347,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -363,7 +359,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -375,7 +371,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -420,9 +416,9 @@
       "artist": "Jimin",
       "region": "Romania",
       "rank": 65,
-      "previousRank": 47,
-      "rankChange": "-18",
-      "rankDelta": -18,
+      "previousRank": 65,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
