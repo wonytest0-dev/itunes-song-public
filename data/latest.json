@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:01:05.025Z",
+  "generatedAt": "2026-10-15T23:01:18.130Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -31,11 +31,11 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
-      "rank": 5,
+      "rank": 6,
       "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 3,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -76,18 +76,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Botswana",
-      "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -95,7 +83,7 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -160,16 +148,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
+      "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Guatemala",
-      "rank": 24,
-      "previousRank": 24,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Botswana",
+      "rank": 21,
+      "previousRank": 15,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "sales": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 2
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy (English Version)",
@@ -184,64 +172,40 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
+      "title": "Closer Than This",
       "artist": "Jimin",
-      "region": "Uzbekistan",
+      "region": "Guatemala",
       "rank": 27,
-      "previousRank": 27,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 24,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 28,
-      "previousRank": 28,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 29,
+      "rank": 31,
       "previousRank": 29,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
+      "title": "Who",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 29,
-      "previousRank": 29,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Sri Lanka",
       "rank": 31,
-      "previousRank": 31,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 27,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 1
+      "numberOneCount": 2
     },
     {
       "title": "Like Crazy",
@@ -256,13 +220,49 @@
       "numberOneCount": 1
     },
     {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 32,
+      "previousRank": 28,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Sri Lanka",
+      "rank": 33,
+      "previousRank": 31,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 33,
+      "previousRank": 29,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Promise",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 32,
+      "rank": 34,
       "previousRank": 32,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -271,10 +271,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Panama",
-      "rank": 39,
+      "rank": 43,
       "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -316,18 +316,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Interlude : Dive",
-      "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 51,
-      "previousRank": 51,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -350,6 +338,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Interlude : Dive",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 55,
+      "previousRank": 51,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -391,10 +391,10 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Argentina",
-      "rank": 82,
+      "rank": 85,
       "previousRank": 82,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -403,10 +403,10 @@
       "title": "Rebirth (Intro)",
       "artist": "Jimin",
       "region": "Argentina",
-      "rank": 83,
+      "rank": 86,
       "previousRank": 83,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
