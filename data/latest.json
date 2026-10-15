@@ -1,22 +1,21 @@
 {
-  "generatedAt": "2026-10-14T23:01:11.867Z",
+  "generatedAt": "2026-10-15T00:01:14.597Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 37,
   "totalNumberOneRegionsCurrent": 2,
   "newSongsDetected": [],
-  "newNumberOnes": [
-    {
-      "title": "Be Mine (English Version)",
-      "region": "Jordan"
-    }
-  ],
+  "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [
     {
       "title": "Be Mine (English Version)",
       "region": "Gambia"
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "region": "Jordan"
     }
   ],
   "currentChart": [
@@ -37,10 +36,10 @@
       "artist": "Jimin",
       "region": "Jordan",
       "rank": 1,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
-      "sales": 10,
+      "previousRank": 1,
+      "rankChange": "=",
+      "rankDelta": 0,
+      "sales": 9,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -49,9 +48,9 @@
       "artist": "Jimin",
       "region": "Argentina",
       "rank": 2,
-      "previousRank": 1,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 2,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -97,9 +96,9 @@
       "artist": "Jimin",
       "region": "Singapore",
       "rank": 10,
-      "previousRank": 9,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 10,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -133,9 +132,9 @@
       "artist": "Jimin",
       "region": "Romania",
       "rank": 13,
-      "previousRank": 8,
-      "rankChange": "-5",
-      "rankDelta": -5,
+      "previousRank": 13,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -145,9 +144,9 @@
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 13,
-      "previousRank": 11,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 13,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -169,9 +168,9 @@
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 14,
-      "previousRank": 12,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 14,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -205,9 +204,9 @@
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 15,
-      "previousRank": 13,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 15,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -301,9 +300,9 @@
       "artist": "Jimin",
       "region": "Panama",
       "rank": 20,
-      "previousRank": 16,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 20,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -325,9 +324,9 @@
       "artist": "Jimin & Sofia Carson",
       "region": "Kazakhstan",
       "rank": 27,
-      "previousRank": 23,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 27,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -349,9 +348,9 @@
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 38,
-      "previousRank": 36,
-      "rankChange": "-2",
-      "rankDelta": -2,
+      "previousRank": 38,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -457,9 +456,9 @@
       "artist": "Jimin",
       "region": "Hungary",
       "rank": 92,
-      "previousRank": 72,
-      "rankChange": "-20",
-      "rankDelta": -20,
+      "previousRank": 92,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
