@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:01:10.004Z",
+  "generatedAt": "2026-10-16T19:01:07.986Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -133,18 +133,6 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Jordan",
-      "rank": 20,
-      "previousRank": 20,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
       "region": "Botswana",
       "rank": 24,
       "previousRank": 24,
@@ -174,6 +162,18 @@
       "previousRank": 32,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Jordan",
+      "rank": 34,
+      "previousRank": 20,
+      "rankChange": "-14",
+      "rankDelta": -14,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -299,18 +299,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Panama",
-      "rank": 62,
-      "previousRank": 62,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -323,13 +311,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Panama",
+      "rank": 66,
+      "previousRank": 62,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guatemala",
-      "rank": 77,
+      "rank": 80,
       "previousRank": 77,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -338,10 +338,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 82,
+      "rank": 84,
       "previousRank": 82,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -350,10 +350,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 83,
+      "rank": 85,
       "previousRank": 83,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -362,10 +362,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 84,
+      "rank": 86,
       "previousRank": 84,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
