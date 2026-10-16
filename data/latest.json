@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T10:01:05.670Z",
+  "generatedAt": "2026-10-16T11:01:10.322Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 34,
+  "jiminEntriesFound": 33,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -182,10 +182,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 37,
+      "rank": 38,
       "previousRank": 37,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -194,10 +194,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 39,
+      "rank": 40,
       "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -206,10 +206,10 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 40,
+      "rank": 41,
       "previousRank": 40,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -287,18 +287,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Panama",
-      "rank": 59,
-      "previousRank": 59,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -311,13 +299,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Vietnam",
-      "rank": 63,
-      "previousRank": 63,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Panama",
+      "rank": 61,
+      "previousRank": 59,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -335,40 +323,16 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Vietnam",
-      "rank": 64,
-      "previousRank": 64,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guatemala",
-      "rank": 68,
+      "rank": 71,
       "previousRank": 68,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Vietnam",
-      "rank": 75,
-      "previousRank": 75,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Who",
@@ -383,16 +347,16 @@
       "numberOneCount": 2
     },
     {
-      "title": "Rebirth (Intro)",
-      "artist": "Jimin",
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
       "region": "Vietnam",
       "rank": 79,
-      "previousRank": 79,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 63,
+      "rankChange": "-16",
+      "rankDelta": -16,
       "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
@@ -417,6 +381,30 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Vietnam",
+      "rank": 81,
+      "previousRank": 64,
+      "rankChange": "-17",
+      "rankDelta": -17,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Vietnam",
+      "rank": 97,
+      "previousRank": 75,
+      "rankChange": "-22",
+      "rankDelta": -22,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     }
   ],
   "lifetimeTotalsBySong": {
