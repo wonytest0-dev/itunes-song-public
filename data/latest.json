@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:01:14.780Z",
+  "generatedAt": "2026-10-16T09:01:03.643Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -146,10 +146,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "rank": 21,
+      "rank": 22,
       "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -227,30 +227,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Vietnam",
-      "rank": 46,
-      "previousRank": 46,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Vietnam",
-      "rank": 47,
-      "previousRank": 47,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
@@ -273,18 +249,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Guatemala",
-      "rank": 52,
-      "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
     },
     {
       "title": "Like Crazy",
@@ -311,18 +275,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Vietnam",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -335,25 +287,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Rebirth (Intro)",
-      "artist": "Jimin",
-      "region": "Vietnam",
-      "rank": 56,
-      "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Panama",
-      "rank": 58,
+      "rank": 59,
       "previousRank": 58,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -366,6 +306,18 @@
       "previousRank": 60,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Vietnam",
+      "rank": 63,
+      "previousRank": 46,
+      "rankChange": "-17",
+      "rankDelta": -17,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -385,23 +337,71 @@
     {
       "title": "Who",
       "artist": "Jimin",
-      "region": "Uzbekistan",
-      "rank": 78,
-      "previousRank": 78,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Vietnam",
+      "rank": 64,
+      "previousRank": 47,
+      "rankChange": "-17",
+      "rankDelta": -17,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Guatemala",
+      "rank": 68,
+      "previousRank": 52,
+      "rankChange": "-16",
+      "rankDelta": -16,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Vietnam",
+      "rank": 75,
+      "previousRank": 53,
+      "rankChange": "-22",
+      "rankDelta": -22,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Who",
       "artist": "Jimin",
       "region": "Uzbekistan",
       "rank": 79,
+      "previousRank": 78,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
+      "title": "Rebirth (Intro)",
+      "artist": "Jimin",
+      "region": "Vietnam",
+      "rank": 79,
+      "previousRank": 56,
+      "rankChange": "-23",
+      "rankDelta": -23,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Uzbekistan",
+      "rank": 80,
       "previousRank": 79,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -410,10 +410,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 80,
+      "rank": 81,
       "previousRank": 80,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
