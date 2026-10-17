@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T14:01:03.839Z",
+  "generatedAt": "2026-10-17T15:01:11.289Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -155,18 +155,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Botswana",
-      "rank": 31,
-      "previousRank": 31,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -174,6 +162,18 @@
       "previousRank": 32,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Botswana",
+      "rank": 33,
+      "previousRank": 31,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -203,18 +203,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Sri Lanka",
-      "rank": 48,
-      "previousRank": 48,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
@@ -227,13 +215,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine (English Version)",
+      "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 48,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -242,18 +230,6 @@
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Micronesia",
-      "rank": 51,
-      "previousRank": 51,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Promise",
-      "artist": "Jimin",
-      "region": "Sri Lanka",
       "rank": 51,
       "previousRank": 51,
       "rankChange": "=",
@@ -275,13 +251,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Laos",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Sri Lanka",
+      "rank": 52,
+      "previousRank": 50,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -294,6 +270,30 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Sri Lanka",
+      "rank": 53,
+      "previousRank": 51,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Laos",
+      "rank": 55,
+      "previousRank": 53,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
