@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T06:01:04.297Z",
+  "generatedAt": "2026-10-17T07:01:06.373Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -19,6 +19,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 3,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "El Salvador",
+      "rank": 4,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -357,18 +369,6 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Guatemala",
-      "rank": 97,
-      "previousRank": 97,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
     }
   ],
   "lifetimeTotalsBySong": {
