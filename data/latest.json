@@ -1,15 +1,48 @@
 {
-  "generatedAt": "2026-10-17T20:01:10.247Z",
+  "generatedAt": "2026-10-17T21:01:12.119Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 30,
-  "totalNumberOneRegionsCurrent": 0,
+  "jiminEntriesFound": 33,
+  "totalNumberOneRegionsCurrent": 2,
   "newSongsDetected": [],
-  "newNumberOnes": [],
+  "newNumberOnes": [
+    {
+      "title": "Be Mine (English Version)",
+      "region": "Niger"
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "region": "Saint Kitts and Nevis"
+    }
+  ],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Niger",
+      "rank": 1,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Saint Kitts and Nevis",
+      "rank": 1,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
@@ -155,13 +188,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Who (Shibuyakei Remix)",
+      "artist": "Jimin",
+      "region": "Bulgaria",
+      "rank": 26,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 32,
+      "rank": 33,
       "previousRank": 32,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -170,10 +215,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
-      "rank": 42,
+      "rank": 45,
       "previousRank": 42,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -242,10 +287,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 53,
+      "rank": 54,
       "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -254,10 +299,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 55,
+      "rank": 56,
       "previousRank": 55,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -266,10 +311,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 55,
+      "rank": 56,
       "previousRank": 55,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -278,10 +323,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "rank": 56,
+      "rank": 57,
       "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -290,10 +335,10 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 56,
+      "rank": 57,
       "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -326,10 +371,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Panama",
-      "rank": 85,
+      "rank": 88,
       "previousRank": 85,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -338,10 +383,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 96,
+      "rank": 97,
       "previousRank": 96,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -350,10 +395,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 97,
+      "rank": 98,
       "previousRank": 97,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -362,10 +407,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 98,
+      "rank": 99,
       "previousRank": 98,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -401,10 +446,10 @@
     "Like Crazy (English Version)": 14,
     "Face-off": 20,
     "Vibe": 101,
-    "Be Mine (English Version)": 63
+    "Be Mine (English Version)": 65
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1462,
+    "totalNumberOneEvents": 1464,
     "uniqueSongsWithNumberOne": 30
   }
 }
