@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:01:04.963Z",
+  "generatedAt": "2026-10-17T17:01:06.822Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -169,18 +169,6 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Botswana",
-      "rank": 33,
-      "previousRank": 33,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
       "region": "Jordan",
       "rank": 42,
       "previousRank": 42,
@@ -287,6 +275,18 @@
       "numberOneCount": 0
     },
     {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Botswana",
+      "rank": 54,
+      "previousRank": 33,
+      "rankChange": "-21",
+      "rankDelta": -21,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -338,10 +338,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 94,
+      "rank": 96,
       "previousRank": 94,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -350,10 +350,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 95,
+      "rank": 97,
       "previousRank": 95,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -362,10 +362,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Uzbekistan",
-      "rank": 96,
+      "rank": 98,
       "previousRank": 96,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
