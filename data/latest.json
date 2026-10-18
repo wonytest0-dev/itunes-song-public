@@ -1,17 +1,12 @@
 {
-  "generatedAt": "2026-10-18T01:01:08.333Z",
+  "generatedAt": "2026-10-18T02:01:02.459Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 31,
   "totalNumberOneRegionsCurrent": 3,
   "newSongsDetected": [],
-  "newNumberOnes": [
-    {
-      "title": "Be Mine (English Version)",
-      "region": "Uganda"
-    }
-  ],
+  "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [
     {
@@ -21,6 +16,10 @@
     {
       "title": "Be Mine (English Version)",
       "region": "Saint Kitts and Nevis"
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "region": "Uganda"
     }
   ],
   "currentChart": [
@@ -53,9 +52,9 @@
       "artist": "Jimin",
       "region": "Uganda",
       "rank": 1,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 1,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -221,9 +220,9 @@
       "artist": "Jimin",
       "region": "Bulgaria",
       "rank": 43,
-      "previousRank": 40,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 43,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -281,9 +280,9 @@
       "artist": "Jimin",
       "region": "Jordan",
       "rank": 53,
-      "previousRank": 49,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -293,9 +292,9 @@
       "artist": "Jimin & Loco",
       "region": "Laos",
       "rank": 53,
-      "previousRank": 56,
-      "rankChange": "+3",
-      "rankDelta": 3,
+      "previousRank": 53,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -317,9 +316,9 @@
       "artist": "Jimin",
       "region": "Botswana",
       "rank": 58,
-      "previousRank": 57,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 58,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -329,9 +328,9 @@
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
       "rank": 58,
-      "previousRank": 59,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 58,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -341,9 +340,9 @@
       "artist": "Jimin",
       "region": "Cape Verde",
       "rank": 62,
-      "previousRank": 63,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 62,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -353,9 +352,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 62,
-      "previousRank": 56,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "previousRank": 62,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -365,9 +364,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 64,
-      "previousRank": 58,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "previousRank": 64,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -377,9 +376,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 65,
-      "previousRank": 59,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "previousRank": 65,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -389,9 +388,9 @@
       "artist": "Jimin",
       "region": "Panama",
       "rank": 92,
-      "previousRank": 91,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 92,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
