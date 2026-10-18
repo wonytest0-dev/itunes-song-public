@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-18T16:01:01.562Z",
+  "lastRunAt": "2026-10-18T17:01:08.711Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -12969,7 +12969,7 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "lastRank": 67,
+      "lastRank": 70,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
@@ -17361,7 +17361,7 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "lastRank": 69,
+      "lastRank": 72,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-03T20:52:15.000Z",
@@ -17890,7 +17890,7 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "lastRank": 70,
+      "lastRank": 73,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-13T22:01:02.407Z",
@@ -17912,7 +17912,7 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
-      "lastRank": 57,
+      "lastRank": 58,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-10-14T23:01:11.867Z",
@@ -17967,7 +17967,7 @@
       "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Bulgaria",
-      "lastRank": 64,
+      "lastRank": 70,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-17T21:01:12.119Z",
@@ -17978,7 +17978,7 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "lastRank": 6,
+      "lastRank": 7,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-10-18T01:01:08.333Z",
@@ -17989,16 +17989,16 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Antigua & Barbuda",
-      "lastRank": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0,
+      "lastRank": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1,
       "firstSeenAt": "2026-10-18T03:01:08.456Z",
-      "firstNumberOneAt": null,
-      "lastNumberOneAt": null
+      "firstNumberOneAt": "2026-10-18T17:01:08.711Z",
+      "lastNumberOneAt": "2026-10-18T17:01:08.711Z"
     }
   },
   "totals": {
-    "numberOneEvents": 1465,
+    "numberOneEvents": 1466,
     "songsWithNumberOne": 30
   }
 }

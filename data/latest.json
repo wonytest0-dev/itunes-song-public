@@ -1,12 +1,17 @@
 {
-  "generatedAt": "2026-10-18T16:01:01.562Z",
+  "generatedAt": "2026-10-18T17:01:08.711Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 31,
-  "totalNumberOneRegionsCurrent": 1,
+  "totalNumberOneRegionsCurrent": 2,
   "newSongsDetected": [],
-  "newNumberOnes": [],
+  "newNumberOnes": [
+    {
+      "title": "Be Mine (English Version)",
+      "region": "Antigua & Barbuda"
+    }
+  ],
   "reEntries": [],
   "stillNumberOne": [
     {
@@ -15,6 +20,18 @@
     }
   ],
   "currentChart": [
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Antigua & Barbuda",
+      "rank": 1,
+      "previousRank": 2,
+      "rankChange": "+1",
+      "rankDelta": 1,
+      "sales": 3,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
@@ -30,24 +47,12 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Antigua & Barbuda",
-      "rank": 2,
-      "previousRank": 2,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
       "region": "Gambia",
       "rank": 2,
       "previousRank": 2,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
+      "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -67,10 +72,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 6,
+      "rank": 7,
       "previousRank": 6,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -283,10 +288,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
-      "rank": 57,
+      "rank": 58,
       "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -328,18 +333,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who (Shibuyakei Remix)",
-      "artist": "Jimin",
-      "region": "Bulgaria",
-      "rank": 64,
-      "previousRank": 64,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -352,13 +345,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Who (Shibuyakei Remix)",
+      "artist": "Jimin",
+      "region": "Bulgaria",
+      "rank": 70,
+      "previousRank": 64,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 67,
+      "rank": 70,
       "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -367,10 +372,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 69,
+      "rank": 72,
       "previousRank": 69,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -379,10 +384,10 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 70,
+      "rank": 73,
       "previousRank": 70,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -418,10 +423,10 @@
     "Like Crazy (English Version)": 14,
     "Face-off": 20,
     "Vibe": 101,
-    "Be Mine (English Version)": 66
+    "Be Mine (English Version)": 67
   },
   "lifetimeTotals": {
-    "totalNumberOneEvents": 1465,
+    "totalNumberOneEvents": 1466,
     "uniqueSongsWithNumberOne": 30
   }
 }
