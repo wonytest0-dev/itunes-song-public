@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T04:01:03.828Z",
+  "generatedAt": "2026-10-18T05:01:06.399Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 32,
-  "totalNumberOneRegionsCurrent": 3,
+  "totalNumberOneRegionsCurrent": 2,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
@@ -16,10 +16,6 @@
     {
       "title": "Be Mine (English Version)",
       "region": "Saint Kitts and Nevis"
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "region": "Uganda"
     }
   ],
   "currentChart": [
@@ -39,18 +35,6 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Saint Kitts and Nevis",
-      "rank": 1,
-      "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Uganda",
       "rank": 1,
       "previousRank": 1,
       "rankChange": "=",
@@ -84,13 +68,25 @@
       "numberOneCount": 1
     },
     {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Uganda",
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 5,
+      "rank": 8,
       "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -120,18 +116,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -144,13 +128,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
+      "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Cape Verde",
       "rank": 17,
-      "previousRank": 17,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 15,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -166,6 +150,18 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 19,
+      "previousRank": 17,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -207,11 +203,11 @@
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 26,
+      "rank": 28,
       "previousRank": 26,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -231,10 +227,10 @@
       "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Bulgaria",
-      "rank": 44,
+      "rank": 46,
       "previousRank": 44,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -288,18 +284,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Jordan",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -326,6 +310,18 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
+      "region": "Jordan",
+      "rank": 54,
+      "previousRank": 53,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
       "region": "Botswana",
       "rank": 58,
       "previousRank": 58,
@@ -339,10 +335,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
-      "rank": 60,
+      "rank": 62,
       "previousRank": 60,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -360,18 +356,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Face-off",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 64,
-      "previousRank": 64,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
@@ -382,6 +366,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Face-off",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 66,
+      "previousRank": 64,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Promise",
@@ -399,10 +395,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Panama",
-      "rank": 94,
+      "rank": 99,
       "previousRank": 94,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
