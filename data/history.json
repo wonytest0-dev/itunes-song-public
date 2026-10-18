@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-18T20:01:04.068Z",
+  "lastRunAt": "2026-10-18T21:01:09.835Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -701,7 +701,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "El Salvador",
-      "lastRank": 32,
+      "lastRank": 31,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -17967,7 +17967,7 @@
       "title": "Who (Shibuyakei Remix)",
       "artist": "Jimin",
       "region": "Bulgaria",
-      "lastRank": 89,
+      "lastRank": 97,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-10-17T21:01:12.119Z",
@@ -17995,6 +17995,17 @@
       "firstSeenAt": "2026-10-18T03:01:08.456Z",
       "firstNumberOneAt": "2026-10-18T17:01:08.711Z",
       "lastNumberOneAt": "2026-10-18T17:01:08.711Z"
+    },
+    "be mine (english version)|namibia": {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Namibia",
+      "lastRank": 7,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-18T21:01:09.835Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
     }
   },
   "totals": {
