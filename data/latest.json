@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:01:06.854Z",
+  "generatedAt": "2026-10-19T07:01:09.371Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -188,18 +188,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Chile",
-      "rank": 20,
-      "previousRank": 20,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -238,11 +226,23 @@
     {
       "title": "Who",
       "artist": "Jimin",
+      "region": "Chile",
+      "rank": 40,
+      "previousRank": 20,
+      "rankChange": "-20",
+      "rankDelta": -20,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 41,
+      "rank": 44,
       "previousRank": 41,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -291,7 +291,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -322,7 +322,7 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Botswana",
+      "region": "Jordan",
       "rank": 60,
       "previousRank": 60,
       "rankChange": "=",
@@ -334,11 +334,11 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Jordan",
-      "rank": 60,
+      "region": "Botswana",
+      "rank": 61,
       "previousRank": 60,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -371,10 +371,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 72,
+      "rank": 71,
       "previousRank": 72,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -383,10 +383,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 74,
+      "rank": 73,
       "previousRank": 74,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -395,10 +395,10 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 75,
+      "rank": 74,
       "previousRank": 75,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
