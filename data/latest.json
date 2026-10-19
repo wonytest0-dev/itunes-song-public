@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:01:11.100Z",
+  "generatedAt": "2026-10-19T18:01:07.935Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -27,7 +27,7 @@
       "previousRank": 1,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 3,
+      "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -39,7 +39,7 @@
       "previousRank": 1,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 7,
+      "sales": 8,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -63,7 +63,7 @@
       "previousRank": 4,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 3,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -231,7 +231,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -240,9 +240,9 @@
       "artist": "Jimin",
       "region": "El Salvador",
       "rank": 49,
-      "previousRank": 46,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 49,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -255,7 +255,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -267,7 +267,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -279,7 +279,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -291,7 +291,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -324,9 +324,9 @@
       "artist": "Jimin",
       "region": "Chile",
       "rank": 66,
-      "previousRank": 58,
-      "rankChange": "-8",
-      "rankDelta": -8,
+      "previousRank": 66,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -396,9 +396,9 @@
       "artist": "Jimin",
       "region": "Botswana",
       "rank": 81,
-      "previousRank": 78,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 81,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
