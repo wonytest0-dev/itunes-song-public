@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:01:07.935Z",
+  "generatedAt": "2026-10-19T19:01:23.525Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -71,10 +71,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 8,
+      "rank": 11,
       "previousRank": 8,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -99,7 +99,7 @@
       "previousRank": 13,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -298,18 +298,6 @@
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
-      "region": "Laos",
-      "rank": 58,
-      "previousRank": 58,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
       "region": "Cape Verde",
       "rank": 63,
       "previousRank": 63,
@@ -320,13 +308,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Chile",
-      "rank": 66,
-      "previousRank": 66,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Laos",
+      "rank": 63,
+      "previousRank": 58,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -351,6 +339,18 @@
       "previousRank": 67,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Chile",
+      "rank": 71,
+      "previousRank": 66,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -395,10 +395,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "rank": 81,
+      "rank": 84,
       "previousRank": 81,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
