@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:01:25.258Z",
+  "generatedAt": "2026-10-19T12:01:11.340Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -27,7 +27,7 @@
       "previousRank": 1,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 6,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -51,7 +51,7 @@
       "previousRank": 2,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 4,
+      "sales": 5,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -231,7 +231,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -255,7 +255,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -267,7 +267,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -279,7 +279,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -300,9 +300,9 @@
       "artist": "Jimin",
       "region": "Chile",
       "rank": 56,
-      "previousRank": 52,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 56,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -372,9 +372,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 73,
-      "previousRank": 72,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 73,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -384,9 +384,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 75,
-      "previousRank": 74,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 75,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -396,9 +396,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 76,
-      "previousRank": 75,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 76,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
