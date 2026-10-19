@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:00:58.506Z",
+  "generatedAt": "2026-10-19T03:01:07.408Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -39,7 +39,7 @@
       "previousRank": 1,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 5,
+      "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -227,10 +227,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 35,
+      "rank": 39,
       "previousRank": 35,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -267,7 +267,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
