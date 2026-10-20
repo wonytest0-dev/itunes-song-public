@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:01:04.976Z",
+  "generatedAt": "2026-10-20T23:01:16.197Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -71,11 +71,11 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Saint Kitts and Nevis",
-      "rank": 5,
+      "rank": 6,
       "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -104,18 +104,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Singapore",
-      "rank": 14,
-      "previousRank": 14,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -135,6 +123,18 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Singapore",
+      "rank": 16,
+      "previousRank": 14,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -248,18 +248,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Peru",
-      "rank": 49,
-      "previousRank": 47,
-      "rankChange": "-2",
-      "rankDelta": -2,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
@@ -308,6 +296,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Peru",
+      "rank": 55,
+      "previousRank": 49,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -330,18 +330,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Chile",
-      "rank": 65,
-      "previousRank": 63,
-      "rankChange": "-2",
-      "rankDelta": -2,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     },
     {
       "title": "Be Mine (English Version)",
@@ -368,13 +356,25 @@
       "numberOneCount": 1
     },
     {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Chile",
+      "rank": 73,
+      "previousRank": 65,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 87,
-      "previousRank": 83,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "rank": 89,
+      "previousRank": 87,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -383,10 +383,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 89,
+      "rank": 90,
       "previousRank": 89,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -395,10 +395,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 91,
+      "rank": 92,
       "previousRank": 91,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -407,10 +407,10 @@
       "title": "Promise",
       "artist": "Jimin",
       "region": "Sri Lanka",
-      "rank": 92,
+      "rank": 93,
       "previousRank": 92,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -420,9 +420,9 @@
       "artist": "Jimin",
       "region": "Botswana",
       "rank": 100,
-      "previousRank": 97,
-      "rankChange": "-3",
-      "rankDelta": -3,
+      "previousRank": 100,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
