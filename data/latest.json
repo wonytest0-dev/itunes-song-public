@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:01:06.892Z",
+  "generatedAt": "2026-10-20T17:01:11.725Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -59,6 +59,18 @@
       "previousRank": 5,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 2,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Singapore",
+      "rank": 10,
+      "previousRank": 69,
+      "rankChange": "+59",
+      "rankDelta": 59,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -175,25 +187,13 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 21,
+      "rank": 22,
       "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Namibia",
-      "rank": 25,
-      "previousRank": 24,
       "rankChange": "-1",
       "rankDelta": -1,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy (English Version)",
@@ -208,13 +208,13 @@
       "numberOneCount": 0
     },
     {
-      "title": "Be Mine",
+      "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Peru",
+      "region": "Namibia",
       "rank": 28,
-      "previousRank": 27,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 25,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -230,6 +230,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Peru",
+      "rank": 34,
+      "previousRank": 28,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -316,18 +328,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Singapore",
-      "rank": 69,
-      "previousRank": 61,
-      "rankChange": "-8",
-      "rankDelta": -8,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
@@ -355,8 +355,8 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "El Salvador",
-      "rank": 80,
-      "previousRank": 79,
+      "rank": 81,
+      "previousRank": 80,
       "rankChange": "-1",
       "rankDelta": -1,
       "sales": 0,
@@ -368,9 +368,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 84,
-      "previousRank": 83,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 84,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -380,9 +380,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 86,
-      "previousRank": 85,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 86,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -392,9 +392,9 @@
       "artist": "Jimin",
       "region": "Sri Lanka",
       "rank": 87,
-      "previousRank": 86,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 87,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -403,10 +403,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Botswana",
-      "rank": 95,
+      "rank": 96,
       "previousRank": 95,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
