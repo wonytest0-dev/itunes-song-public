@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T19:02:20.470Z",
+  "generatedAt": "2026-10-21T20:01:10.176Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 116,
-  "regionsFailed": 3,
-  "jiminEntriesFound": 28,
+  "regionsSucceeded": 109,
+  "regionsFailed": 10,
+  "jiminEntriesFound": 27,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -55,18 +55,6 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Saint Kitts and Nevis",
-      "rank": 10,
-      "previousRank": 10,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -191,18 +179,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Slovakia",
-      "rank": 28,
-      "previousRank": 28,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
@@ -222,6 +198,18 @@
       "previousRank": 34,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Slovakia",
+      "rank": 35,
+      "previousRank": 28,
+      "rankChange": "-7",
+      "rankDelta": -7,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -326,10 +314,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
-      "rank": 79,
+      "rank": 81,
       "previousRank": 79,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
