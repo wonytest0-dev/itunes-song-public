@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T10:01:31.259Z",
+  "generatedAt": "2026-10-21T11:01:13.704Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 115,
-  "regionsFailed": 4,
-  "jiminEntriesFound": 31,
+  "regionsSucceeded": 119,
+  "regionsFailed": 0,
+  "jiminEntriesFound": 30,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -37,7 +37,7 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Namibia",
+      "region": "Niger",
       "rank": 2,
       "previousRank": 2,
       "rankChange": "=",
@@ -49,12 +49,12 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Niger",
-      "rank": 2,
+      "region": "Namibia",
+      "rank": 3,
       "previousRank": 2,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 6,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -299,18 +299,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who (Beautiful Mind Remix)",
-      "artist": "Jimin",
-      "region": "Vietnam",
-      "rank": 66,
-      "previousRank": 66,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -326,13 +314,25 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
-      "rank": 75,
+      "rank": 78,
       "previousRank": 75,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Vietnam",
+      "rank": 89,
+      "previousRank": 66,
+      "rankChange": "-23",
+      "rankDelta": -23,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Set Me Free, Pt. 2",
@@ -369,18 +369,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "El Salvador",
-      "rank": 100,
-      "previousRank": 100,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
