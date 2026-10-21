@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-21T08:01:08.415Z",
+  "lastRunAt": "2026-10-21T09:01:10.164Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -17016,7 +17016,7 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Peru",
-      "lastRank": 98,
+      "lastRank": null,
       "everHitNumberOne": false,
       "numberOneCount": 0,
       "firstSeenAt": "2026-09-28T21:01:11.757Z",
@@ -18006,6 +18006,17 @@
       "firstSeenAt": "2026-10-18T21:01:09.835Z",
       "firstNumberOneAt": "2026-10-20T20:01:11.038Z",
       "lastNumberOneAt": "2026-10-20T20:01:11.038Z"
+    },
+    "who (beautiful mind remix)|vietnam": {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Vietnam",
+      "lastRank": 66,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-10-21T09:01:10.164Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
     }
   },
   "totals": {

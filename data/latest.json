@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:01:08.415Z",
+  "generatedAt": "2026-10-21T09:01:10.164Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -299,6 +299,18 @@
       "numberOneCount": 0
     },
     {
+      "title": "Who (Beautiful Mind Remix)",
+      "artist": "Jimin",
+      "region": "Vietnam",
+      "rank": 66,
+      "previousRank": null,
+      "rankChange": "NEW",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -345,18 +357,6 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Peru",
-      "rank": 98,
-      "previousRank": 98,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Promise",
