@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:01:05.380Z",
+  "generatedAt": "2026-10-21T03:01:12.133Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -71,10 +71,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Saint Kitts and Nevis",
-      "rank": 7,
+      "rank": 8,
       "previousRank": 7,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -164,18 +164,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Singapore",
-      "rank": 18,
-      "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -183,6 +171,18 @@
       "previousRank": 19,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Singapore",
+      "rank": 19,
+      "previousRank": 18,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -308,18 +308,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Peru",
-      "rank": 61,
-      "previousRank": 61,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -344,6 +332,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Peru",
+      "rank": 69,
+      "previousRank": 61,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Jordan",
@@ -359,22 +359,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Chile",
-      "rank": 76,
+      "rank": 87,
       "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "El Salvador",
-      "rank": 90,
-      "previousRank": 90,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-11",
+      "rankDelta": -11,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -414,6 +402,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "El Salvador",
+      "rank": 96,
+      "previousRank": 90,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
