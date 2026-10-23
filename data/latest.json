@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:01:02.056Z",
+  "generatedAt": "2026-10-23T11:01:08.015Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -30,7 +30,7 @@
       "previousRank": 3,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 4,
+      "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -215,18 +215,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Philippines",
-      "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
@@ -302,10 +290,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 67,
+      "rank": 71,
       "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -318,6 +306,18 @@
       "previousRank": 72,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Philippines",
+      "rank": 74,
+      "previousRank": 49,
+      "rankChange": "-25",
+      "rankDelta": -25,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
