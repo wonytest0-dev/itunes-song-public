@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:01:02.674Z",
+  "generatedAt": "2026-10-23T03:01:02.980Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -194,22 +194,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 33,
+      "rank": 38,
       "previousRank": 33,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Namibia",
-      "rank": 39,
-      "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -306,6 +294,18 @@
       "previousRank": 66,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Namibia",
+      "rank": 71,
+      "previousRank": 39,
+      "rankChange": "-32",
+      "rankDelta": -32,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
