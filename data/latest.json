@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:01:06.931Z",
+  "generatedAt": "2026-10-23T18:01:20.979Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -54,7 +54,7 @@
       "previousRank": 12,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -207,9 +207,9 @@
       "artist": "Jimin",
       "region": "Greece",
       "rank": 46,
-      "previousRank": 35,
-      "rankChange": "-11",
-      "rankDelta": -11,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -327,9 +327,9 @@
       "artist": "Jimin",
       "region": "Jordan",
       "rank": 99,
-      "previousRank": 98,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 99,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
