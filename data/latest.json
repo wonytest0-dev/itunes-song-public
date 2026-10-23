@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:01:04.231Z",
+  "generatedAt": "2026-10-23T21:01:02.739Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -194,10 +194,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 38,
+      "rank": 39,
       "previousRank": 38,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -251,18 +251,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Greece",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -282,6 +270,18 @@
       "previousRank": 62,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Greece",
+      "rank": 65,
+      "previousRank": 53,
+      "rankChange": "-12",
+      "rankDelta": -12,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -314,10 +314,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 76,
+      "rank": 81,
       "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
