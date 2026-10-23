@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:01:02.541Z",
+  "generatedAt": "2026-10-23T00:01:03.004Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -195,9 +195,9 @@
       "artist": "Jimin",
       "region": "Namibia",
       "rank": 34,
-      "previousRank": 33,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 34,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -246,7 +246,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -315,9 +315,9 @@
       "artist": "Jimin",
       "region": "Jordan",
       "rank": 89,
-      "previousRank": 88,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 89,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
