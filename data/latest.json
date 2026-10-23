@@ -1,27 +1,15 @@
 {
-  "generatedAt": "2026-10-23T22:01:02.881Z",
+  "generatedAt": "2026-10-23T23:01:00.881Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 26,
+  "jiminEntriesFound": 28,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Antigua & Barbuda",
-      "rank": 2,
-      "previousRank": 2,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
@@ -42,6 +30,18 @@
       "previousRank": 3,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 3,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Antigua & Barbuda",
+      "rank": 4,
+      "previousRank": 2,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -194,10 +194,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 39,
+      "rank": 41,
       "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -275,18 +275,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Greece",
-      "rank": 65,
-      "previousRank": 65,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -299,13 +287,37 @@
       "numberOneCount": 0
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Singapore",
+      "rank": 73,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Namibia",
-      "rank": 73,
+      "rank": 75,
       "previousRank": 73,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Greece",
+      "rank": 81,
+      "previousRank": 65,
+      "rankChange": "-16",
+      "rankDelta": -16,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -318,6 +330,18 @@
       "previousRank": 81,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Russia",
+      "rank": 84,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
