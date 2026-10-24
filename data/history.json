@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-24T04:01:00.104Z",
+  "lastRunAt": "2026-10-24T05:00:59.430Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -293,7 +293,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Singapore",
-      "lastRank": 77,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -329,7 +329,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Russia",
-      "lastRank": 92,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -17989,7 +17989,7 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Antigua & Barbuda",
-      "lastRank": 5,
+      "lastRank": 6,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-10-18T03:01:08.456Z",
