@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T02:01:01.307Z",
+  "generatedAt": "2026-10-24T03:01:04.912Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 28,
+  "jiminEntriesFound": 27,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -18,7 +18,7 @@
       "previousRank": 3,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 3,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -198,7 +198,7 @@
       "previousRank": 41,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -328,18 +328,6 @@
       "region": "Russia",
       "rank": 92,
       "previousRank": 92,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Greece",
-      "rank": 98,
-      "previousRank": 98,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
