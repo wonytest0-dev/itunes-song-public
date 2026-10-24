@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:00:57.010Z",
+  "generatedAt": "2026-10-24T20:00:59.579Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -207,9 +207,9 @@
       "artist": "Jimin & HA SUNG WOON",
       "region": "Luxembourg",
       "rank": 43,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 43,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
