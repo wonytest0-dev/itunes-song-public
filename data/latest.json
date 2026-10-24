@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:01:00.261Z",
+  "generatedAt": "2026-10-24T23:00:56.859Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -263,18 +263,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Luxembourg",
-      "rank": 58,
-      "previousRank": 58,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -299,6 +287,18 @@
       "numberOneCount": 0
     },
     {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Luxembourg",
+      "rank": 76,
+      "previousRank": 58,
+      "rankChange": "-18",
+      "rankDelta": -18,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -314,10 +314,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Namibia",
-      "rank": 94,
+      "rank": 98,
       "previousRank": 94,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
