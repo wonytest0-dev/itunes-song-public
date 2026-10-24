@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:00:59.791Z",
+  "generatedAt": "2026-10-24T08:00:57.302Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -111,9 +111,9 @@
       "artist": "Jimin",
       "region": "Saint Kitts and Nevis",
       "rank": 17,
-      "previousRank": 16,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 17,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
