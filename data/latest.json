@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T18:00:59.995Z",
+  "generatedAt": "2026-10-24T19:00:57.010Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 25,
+  "jiminEntriesFound": 26,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -199,6 +199,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Luxembourg",
+      "rank": 43,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
