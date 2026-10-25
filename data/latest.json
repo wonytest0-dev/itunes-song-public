@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T17:00:58.992Z",
+  "generatedAt": "2026-10-25T18:01:00.849Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -30,7 +30,7 @@
       "previousRank": 6,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -195,10 +195,10 @@
       "artist": "Jimin",
       "region": "Colombia",
       "rank": 34,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
-      "sales": 0,
+      "previousRank": 34,
+      "rankChange": "=",
+      "rankDelta": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -207,9 +207,9 @@
       "artist": "Jimin",
       "region": "Uganda",
       "rank": 44,
-      "previousRank": 43,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 44,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
