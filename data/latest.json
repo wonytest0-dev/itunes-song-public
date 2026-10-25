@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T07:01:00.205Z",
+  "generatedAt": "2026-10-25T08:01:02.662Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -39,9 +39,9 @@
       "artist": "Jimin",
       "region": "Antigua & Barbuda",
       "rank": 8,
-      "previousRank": 7,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 8,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -186,7 +186,7 @@
       "previousRank": 31,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
