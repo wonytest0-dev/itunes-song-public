@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:00:56.859Z",
+  "generatedAt": "2026-10-25T00:01:02.546Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -291,9 +291,9 @@
       "artist": "Jimin & HA SUNG WOON",
       "region": "Luxembourg",
       "rank": 76,
-      "previousRank": 58,
-      "rankChange": "-18",
-      "rankDelta": -18,
+      "previousRank": 76,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -315,9 +315,9 @@
       "artist": "Jimin",
       "region": "Namibia",
       "rank": 98,
-      "previousRank": 94,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 98,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
