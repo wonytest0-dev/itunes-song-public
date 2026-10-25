@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:00:58.867Z",
+  "generatedAt": "2026-10-25T07:01:00.205Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -38,10 +38,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Antigua & Barbuda",
-      "rank": 7,
+      "rank": 8,
       "previousRank": 7,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
