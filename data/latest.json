@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:00:58.834Z",
+  "generatedAt": "2026-10-25T21:00:59.073Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -191,18 +191,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Colombia",
-      "rank": 44,
-      "previousRank": 44,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
@@ -223,18 +211,6 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -277,11 +253,35 @@
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 53,
+      "previousRank": 44,
+      "rankChange": "-9",
+      "rankDelta": -9,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
       "region": "Micronesia",
       "rank": 53,
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 60,
+      "previousRank": 49,
+      "rankChange": "-11",
+      "rankDelta": -11,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
