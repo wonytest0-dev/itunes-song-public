@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:00:58.515Z",
+  "generatedAt": "2026-10-25T15:00:59.344Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,10 +14,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 3,
+      "rank": 4,
       "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -182,10 +182,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 31,
+      "rank": 32,
       "previousRank": 31,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -210,7 +210,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
