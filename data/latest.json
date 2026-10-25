@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T16:00:57.863Z",
+  "generatedAt": "2026-10-25T17:00:58.992Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 25,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -191,13 +191,25 @@
       "numberOneCount": 1
     },
     {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 34,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 43,
+      "rank": 44,
       "previousRank": 43,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
