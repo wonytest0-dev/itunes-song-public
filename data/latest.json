@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:01:02.546Z",
+  "generatedAt": "2026-10-25T01:00:58.998Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -13,7 +13,7 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Gambia",
+      "region": "Niger",
       "rank": 3,
       "previousRank": 3,
       "rankChange": "=",
@@ -25,11 +25,11 @@
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
-      "region": "Niger",
-      "rank": 3,
+      "region": "Gambia",
+      "rank": 5,
       "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -182,10 +182,10 @@
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 32,
+      "rank": 31,
       "previousRank": 32,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -287,18 +287,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Luxembourg",
-      "rank": 76,
-      "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -311,13 +299,25 @@
       "numberOneCount": 1
     },
     {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Luxembourg",
+      "rank": 86,
+      "previousRank": 76,
+      "rankChange": "-10",
+      "rankDelta": -10,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Namibia",
-      "rank": 98,
+      "rank": 99,
       "previousRank": 98,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
