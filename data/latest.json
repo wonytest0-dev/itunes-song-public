@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:01:00.046Z",
+  "generatedAt": "2026-10-25T14:00:58.515Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -27,9 +27,9 @@
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 6,
-      "previousRank": 5,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 6,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
