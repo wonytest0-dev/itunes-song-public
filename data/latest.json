@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:00:58.693Z",
+  "generatedAt": "2026-10-25T23:01:00.733Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -38,10 +38,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Antigua & Barbuda",
-      "rank": 8,
+      "rank": 10,
       "previousRank": 8,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -253,7 +253,7 @@
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
-      "region": "Colombia",
+      "region": "Micronesia",
       "rank": 53,
       "previousRank": 53,
       "rankChange": "=",
@@ -265,23 +265,11 @@
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 53,
+      "region": "Colombia",
+      "rank": 59,
       "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 60,
-      "previousRank": 60,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -309,6 +297,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 74,
+      "previousRank": 60,
+      "rankChange": "-14",
+      "rankDelta": -14,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
