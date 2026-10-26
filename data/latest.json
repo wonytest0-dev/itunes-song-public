@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:01:01.139Z",
+  "generatedAt": "2026-10-26T03:01:01.398Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -234,7 +234,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -290,22 +290,10 @@
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Colombia",
-      "rank": 67,
+      "rank": 78,
       "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Ukraine",
-      "rank": 80,
-      "previousRank": 80,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-11",
+      "rankDelta": -11,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -318,6 +306,18 @@
       "previousRank": 82,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Ukraine",
+      "rank": 87,
+      "previousRank": 80,
+      "rankChange": "-7",
+      "rankDelta": -7,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
