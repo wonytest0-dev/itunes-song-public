@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:01:11.189Z",
+  "generatedAt": "2026-10-26T21:01:26.433Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -27,9 +27,9 @@
       "artist": "Jimin",
       "region": "Antigua & Barbuda",
       "rank": 11,
-      "previousRank": 10,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 11,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -179,18 +179,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Saudi Arabia",
-      "rank": 30,
-      "previousRank": 26,
-      "rankChange": "-4",
-      "rankDelta": -4,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -198,6 +186,18 @@
       "previousRank": 32,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Saudi Arabia",
+      "rank": 37,
+      "previousRank": 30,
+      "rankChange": "-7",
+      "rankDelta": -7,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -219,9 +219,9 @@
       "artist": "Jimin",
       "region": "Uganda",
       "rank": 47,
-      "previousRank": 46,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 47,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -275,18 +275,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Promise",
-      "artist": "Jimin",
-      "region": "Hungary",
-      "rank": 61,
-      "previousRank": 48,
-      "rankChange": "-13",
-      "rankDelta": -13,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -294,18 +282,6 @@
       "previousRank": 64,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Hungary",
-      "rank": 64,
-      "previousRank": 50,
-      "rankChange": "-14",
-      "rankDelta": -14,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -321,6 +297,30 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Promise",
+      "artist": "Jimin",
+      "region": "Hungary",
+      "rank": 71,
+      "previousRank": 61,
+      "rankChange": "-10",
+      "rankDelta": -10,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Hungary",
+      "rank": 74,
+      "previousRank": 64,
+      "rankChange": "-10",
+      "rankDelta": -10,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
