@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:01:06.659Z",
+  "generatedAt": "2026-10-26T01:00:58.114Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -18,19 +18,7 @@
       "previousRank": 4,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 6,
-      "previousRank": 6,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
+      "sales": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -42,6 +30,18 @@
       "previousRank": 10,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 11,
+      "previousRank": 6,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -131,18 +131,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Saint Kitts and Nevis",
-      "rank": 18,
-      "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -150,6 +138,18 @@
       "previousRank": 19,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Saint Kitts and Nevis",
+      "rank": 19,
+      "previousRank": 18,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -263,18 +263,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Colombia",
-      "rank": 59,
-      "previousRank": 59,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -299,13 +287,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 67,
+      "previousRank": 59,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Ukraine",
-      "rank": 74,
+      "rank": 80,
       "previousRank": 74,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-6",
+      "rankDelta": -6,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -314,10 +314,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 83,
+      "rank": 82,
       "previousRank": 83,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
