@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:00:58.778Z",
+  "generatedAt": "2026-10-26T05:01:01.847Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -287,18 +287,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Colombia",
-      "rank": 78,
-      "previousRank": 78,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -314,10 +302,22 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Ukraine",
-      "rank": 87,
+      "rank": 88,
       "previousRank": 87,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Colombia",
+      "rank": 94,
+      "previousRank": 78,
+      "rankChange": "-16",
+      "rankDelta": -16,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
