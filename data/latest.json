@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T10:01:08.080Z",
+  "generatedAt": "2026-10-27T11:01:09.825Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -191,18 +191,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Singapore",
-      "rank": 39,
-      "previousRank": 39,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -222,6 +210,18 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Singapore",
+      "rank": 50,
+      "previousRank": 39,
+      "rankChange": "-11",
+      "rankDelta": -11,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -268,18 +268,6 @@
       "region": "Micronesia",
       "rank": 53,
       "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Malaysia",
-      "rank": 54,
-      "previousRank": 54,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
@@ -347,6 +335,18 @@
       "numberOneCount": 0
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Malaysia",
+      "rank": 70,
+      "previousRank": 54,
+      "rankChange": "-16",
+      "rankDelta": -16,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -362,10 +362,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Saudi Arabia",
-      "rank": 82,
+      "rank": 86,
       "previousRank": 82,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
