@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:01:10.531Z",
+  "generatedAt": "2026-10-27T14:01:07.256Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -147,9 +147,9 @@
       "artist": "Jimin",
       "region": "Saint Kitts and Nevis",
       "rank": 22,
-      "previousRank": 21,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 22,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -198,7 +198,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -210,7 +210,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -234,7 +234,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -246,7 +246,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -258,7 +258,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -303,9 +303,9 @@
       "artist": "Jimin & HA SUNG WOON",
       "region": "Singapore",
       "rank": 61,
-      "previousRank": 50,
-      "rankChange": "-11",
-      "rankDelta": -11,
+      "previousRank": 61,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -351,9 +351,9 @@
       "artist": "Jimin",
       "region": "Saudi Arabia",
       "rank": 92,
-      "previousRank": 86,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "previousRank": 92,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -363,9 +363,9 @@
       "artist": "Jimin",
       "region": "Malaysia",
       "rank": 98,
-      "previousRank": 70,
-      "rankChange": "-28",
-      "rankDelta": -28,
+      "previousRank": 98,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
