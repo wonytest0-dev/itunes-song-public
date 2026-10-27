@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T08:01:09.297Z",
+  "generatedAt": "2026-10-27T09:01:08.825Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 31,
+  "jiminEntriesFound": 30,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -66,7 +66,7 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -179,30 +179,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Singapore",
-      "rank": 30,
-      "previousRank": 30,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Malaysia",
-      "rank": 31,
-      "previousRank": 31,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
@@ -210,6 +186,18 @@
       "previousRank": 32,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Singapore",
+      "rank": 39,
+      "previousRank": 30,
+      "rankChange": "-9",
+      "rankDelta": -9,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -287,6 +275,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Malaysia",
+      "rank": 54,
+      "previousRank": 31,
+      "rankChange": "-23",
+      "rankDelta": -23,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
@@ -347,18 +347,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Saudi Arabia",
-      "rank": 79,
-      "previousRank": 79,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -371,13 +359,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Hong Kong",
-      "rank": 87,
-      "previousRank": 87,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Saudi Arabia",
+      "rank": 82,
+      "previousRank": 79,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
