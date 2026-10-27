@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:01:11.839Z",
+  "generatedAt": "2026-10-27T13:01:10.531Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -146,10 +146,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Saint Kitts and Nevis",
-      "rank": 21,
+      "rank": 22,
       "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -206,18 +206,6 @@
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
-      "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Singapore",
       "rank": 50,
       "previousRank": 50,
       "rankChange": "=",
@@ -311,6 +299,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Singapore",
+      "rank": 61,
+      "previousRank": 50,
+      "rankChange": "-11",
+      "rankDelta": -11,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -335,18 +335,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Malaysia",
-      "rank": 70,
-      "previousRank": 70,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -362,10 +350,22 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Saudi Arabia",
-      "rank": 86,
+      "rank": 92,
       "previousRank": 86,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-6",
+      "rankDelta": -6,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Malaysia",
+      "rank": 98,
+      "previousRank": 70,
+      "rankChange": "-28",
+      "rankDelta": -28,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
