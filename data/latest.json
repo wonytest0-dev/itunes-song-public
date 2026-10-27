@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T02:01:01.445Z",
+  "generatedAt": "2026-10-27T03:01:16.503Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 30,
+  "jiminEntriesFound": 28,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -119,18 +119,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Saint Kitts and Nevis",
-      "rank": 19,
-      "previousRank": 19,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -150,6 +138,18 @@
       "previousRank": 20,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Saint Kitts and Nevis",
+      "rank": 21,
+      "previousRank": 19,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -191,18 +191,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Saudi Arabia",
-      "rank": 43,
-      "previousRank": 43,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -218,10 +206,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 47,
+      "rank": 48,
       "previousRank": 47,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -258,6 +246,18 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Saudi Arabia",
+      "rank": 52,
+      "previousRank": 43,
+      "rankChange": "-9",
+      "rankDelta": -9,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -340,30 +340,6 @@
       "region": "Laos",
       "rank": 82,
       "previousRank": 82,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Promise",
-      "artist": "Jimin",
-      "region": "Hungary",
-      "rank": 93,
-      "previousRank": 93,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Hungary",
-      "rank": 97,
-      "previousRank": 97,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
