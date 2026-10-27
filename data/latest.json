@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T16:01:14.361Z",
+  "generatedAt": "2026-10-27T17:01:14.673Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 29,
+  "jiminEntriesFound": 28,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -155,18 +155,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine (English Version)",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 28,
-      "previousRank": 28,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -177,6 +165,18 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Be Mine (English Version)",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 29,
+      "previousRank": 28,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
@@ -266,10 +266,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
-      "rank": 55,
+      "rank": 56,
       "previousRank": 55,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -278,10 +278,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
-      "rank": 56,
+      "rank": 57,
       "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -290,10 +290,10 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
-      "rank": 59,
+      "rank": 60,
       "previousRank": 59,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -323,18 +323,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "With You",
-      "artist": "Jimin & HA SUNG WOON",
-      "region": "Singapore",
-      "rank": 71,
-      "previousRank": 71,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -347,13 +335,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Saudi Arabia",
-      "rank": 96,
-      "previousRank": 96,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "title": "With You",
+      "artist": "Jimin & HA SUNG WOON",
+      "region": "Singapore",
+      "rank": 84,
+      "previousRank": 71,
+      "rankChange": "-13",
+      "rankDelta": -13,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
