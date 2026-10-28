@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-10-28T14:01:09.600Z",
+  "generatedAt": "2026-10-28T15:01:14.428Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 25,
+  "jiminEntriesFound": 26,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bulgaria",
+      "rank": 3,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 4,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
     {
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
