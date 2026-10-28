@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T08:01:11.509Z",
+  "generatedAt": "2026-10-28T09:01:15.848Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -242,10 +242,10 @@
       "title": "Be Mine (English Version)",
       "artist": "Jimin",
       "region": "Uganda",
-      "rank": 64,
+      "rank": 65,
       "previousRank": 64,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
