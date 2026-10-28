@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T06:01:16.465Z",
+  "generatedAt": "2026-10-28T07:01:16.822Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 25,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -263,6 +263,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Gambia",
+      "rank": 69,
+      "previousRank": 70,
+      "rankChange": "+1",
+      "rankDelta": 1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -275,13 +287,13 @@
       "numberOneCount": 0
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
+      "title": "Who",
+      "artist": "Jimin",
       "region": "Gambia",
       "rank": 70,
-      "previousRank": 70,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
