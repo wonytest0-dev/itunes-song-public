@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T15:01:16.675Z",
+  "generatedAt": "2026-10-29T16:01:12.499Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -147,9 +147,9 @@
       "artist": "Jimin",
       "region": "Bulgaria",
       "rank": 31,
-      "previousRank": 24,
-      "rankChange": "-7",
-      "rankDelta": -7,
+      "previousRank": 31,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
