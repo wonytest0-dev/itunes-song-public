@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:01:20.717Z",
+  "generatedAt": "2026-10-29T18:01:16.023Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -63,9 +63,9 @@
       "artist": "Jimin",
       "region": "Antigua & Barbuda",
       "rank": 17,
-      "previousRank": 16,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 17,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -171,9 +171,9 @@
       "artist": "Jimin",
       "region": "Bulgaria",
       "rank": 37,
-      "previousRank": 31,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "previousRank": 37,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -186,7 +186,7 @@
       "previousRank": 46,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -198,7 +198,7 @@
       "previousRank": 50,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -210,7 +210,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -222,7 +222,7 @@
       "previousRank": 52,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
