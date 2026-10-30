@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:01:10.328Z",
+  "generatedAt": "2026-10-30T19:01:08.956Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -146,10 +146,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bulgaria",
-      "rank": 37,
+      "rank": 42,
       "previousRank": 37,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-5",
+      "rankDelta": -5,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -263,18 +263,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Chile",
-      "rank": 76,
-      "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -282,6 +270,18 @@
       "previousRank": 77,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Chile",
+      "rank": 86,
+      "previousRank": 76,
+      "rankChange": "-10",
+      "rankDelta": -10,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
