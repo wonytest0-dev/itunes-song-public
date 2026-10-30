@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T22:01:02.988Z",
+  "generatedAt": "2026-10-30T23:01:14.316Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 23,
+  "jiminEntriesFound": 22,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -179,18 +179,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Bulgaria",
-      "rank": 52,
-      "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -210,6 +198,18 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bulgaria",
+      "rank": 63,
+      "previousRank": 52,
+      "rankChange": "-11",
+      "rankDelta": -11,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -268,18 +268,6 @@
       "region": "Laos",
       "rank": 77,
       "previousRank": 77,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Chile",
-      "rank": 96,
-      "previousRank": 96,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
