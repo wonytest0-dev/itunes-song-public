@@ -1,27 +1,15 @@
 {
-  "generatedAt": "2026-10-30T12:01:11.150Z",
+  "generatedAt": "2026-10-30T13:01:12.138Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 24,
+  "jiminEntriesFound": 23,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Bulgaria",
-      "rank": 10,
-      "previousRank": 10,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
@@ -81,6 +69,18 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bulgaria",
+      "rank": 18,
+      "previousRank": 10,
+      "rankChange": "-8",
+      "rankDelta": -8,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -280,18 +280,6 @@
       "region": "Laos",
       "rank": 77,
       "previousRank": 77,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Russia",
-      "rank": 96,
-      "previousRank": 96,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,

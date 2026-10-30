@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-30T12:01:11.150Z",
+  "lastRunAt": "2026-10-30T13:01:12.138Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -329,7 +329,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Russia",
-      "lastRank": 96,
+      "lastRank": null,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -905,7 +905,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bulgaria",
-      "lastRank": 10,
+      "lastRank": 18,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
