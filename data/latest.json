@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T15:01:09.723Z",
+  "generatedAt": "2026-10-30T16:01:05.381Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -71,18 +71,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Bulgaria",
-      "rank": 18,
-      "previousRank": 18,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -150,6 +138,18 @@
       "previousRank": 30,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bulgaria",
+      "rank": 33,
+      "previousRank": 18,
+      "rankChange": "-15",
+      "rankDelta": -15,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -251,9 +251,9 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Chile",
+      "region": "Gambia",
       "rank": 69,
       "previousRank": 69,
       "rankChange": "=",
@@ -263,13 +263,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
+      "title": "Closer Than This",
       "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 69,
+      "region": "Chile",
+      "rank": 70,
       "previousRank": 69,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
