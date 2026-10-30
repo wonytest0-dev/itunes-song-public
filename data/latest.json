@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T08:01:14.436Z",
+  "generatedAt": "2026-10-30T09:01:11.832Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -157,6 +157,18 @@
     {
       "title": "Closer Than This",
       "artist": "Jimin",
+      "region": "Chile",
+      "rank": 37,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
       "region": "Micronesia",
       "rank": 46,
       "previousRank": 46,
@@ -271,6 +283,18 @@
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Luxembourg",
+      "rank": 94,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     }
