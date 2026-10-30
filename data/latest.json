@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:01:06.016Z",
+  "generatedAt": "2026-10-30T11:01:11.884Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,10 +14,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bulgaria",
-      "rank": 6,
+      "rank": 10,
       "previousRank": 6,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -157,18 +157,6 @@
     {
       "title": "Closer Than This",
       "artist": "Jimin",
-      "region": "Chile",
-      "rank": 37,
-      "previousRank": 37,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
       "region": "Micronesia",
       "rank": 46,
       "previousRank": 46,
@@ -263,6 +251,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Chile",
+      "rank": 69,
+      "previousRank": 37,
+      "rankChange": "-32",
+      "rankDelta": -32,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
@@ -289,12 +289,12 @@
     {
       "title": "Who",
       "artist": "Jimin",
-      "region": "Luxembourg",
-      "rank": 94,
-      "previousRank": 94,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
+      "region": "Russia",
+      "rank": 96,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     }
