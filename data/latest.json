@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T18:01:18.674Z",
+  "generatedAt": "2026-10-31T19:01:16.208Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 22,
+  "jiminEntriesFound": 21,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -261,18 +261,6 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Christmas Love",
-      "artist": "Jimin",
-      "region": "Finland",
-      "rank": 91,
-      "previousRank": 91,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     }
   ],
   "lifetimeTotalsBySong": {
