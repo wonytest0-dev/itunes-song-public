@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:01:15.406Z",
+  "generatedAt": "2026-10-31T07:01:12.999Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -266,8 +266,8 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bulgaria",
-      "rank": 84,
-      "previousRank": 83,
+      "rank": 85,
+      "previousRank": 84,
       "rankChange": "-1",
       "rankDelta": -1,
       "sales": 0,
