@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:01:12.757Z",
+  "generatedAt": "2026-11-01T22:01:10.333Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -147,9 +147,9 @@
       "artist": "Jimin",
       "region": "Chile",
       "rank": 44,
-      "previousRank": 35,
-      "rankChange": "-9",
-      "rankDelta": -9,
+      "previousRank": 44,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
