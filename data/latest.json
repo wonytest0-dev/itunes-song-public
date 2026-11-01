@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:01:15.955Z",
+  "generatedAt": "2026-11-01T01:01:13.726Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -205,11 +205,11 @@
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
-      "region": "Cape Verde",
-      "rank": 62,
-      "previousRank": 62,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Laos",
+      "rank": 59,
+      "previousRank": 63,
+      "rankChange": "+4",
+      "rankDelta": 4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -217,9 +217,9 @@
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
-      "region": "Laos",
-      "rank": 63,
-      "previousRank": 63,
+      "region": "Cape Verde",
+      "rank": 62,
+      "previousRank": 62,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
