@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:01:12.335Z",
+  "generatedAt": "2026-11-02T08:01:13.353Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -267,9 +267,9 @@
       "artist": "Jimin",
       "region": "India",
       "rank": 89,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 89,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
