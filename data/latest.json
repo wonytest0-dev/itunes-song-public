@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:01:12.783Z",
+  "generatedAt": "2026-11-02T23:01:09.055Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -47,18 +47,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 17,
-      "previousRank": 17,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -85,7 +73,7 @@
     {
       "title": "Like Crazy",
       "artist": "Jimin",
-      "region": "Cape Verde",
+      "region": "Guinea-Bissau",
       "rank": 19,
       "previousRank": 19,
       "rankChange": "=",
@@ -95,13 +83,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
+      "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
-      "region": "Guinea-Bissau",
-      "rank": 19,
-      "previousRank": 19,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Cape Verde",
+      "rank": 20,
+      "previousRank": 17,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -119,16 +107,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy (English Version)",
+      "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 28,
-      "previousRank": 28,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rank": 22,
+      "previousRank": 19,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
@@ -141,6 +129,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 31,
+      "previousRank": 28,
+      "rankChange": "-3",
+      "rankDelta": -3,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -218,25 +218,13 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
-      "rank": 63,
+      "rank": 66,
       "previousRank": 63,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Face-off",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 67,
-      "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -261,6 +249,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Face-off",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 70,
+      "previousRank": 67,
+      "rankChange": "-3",
+      "rankDelta": -3,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     }
   ],
   "lifetimeTotalsBySong": {
