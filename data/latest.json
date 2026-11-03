@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T00:01:15.935Z",
+  "generatedAt": "2026-11-03T01:01:15.336Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 21,
+  "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -47,6 +47,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 17,
+      "previousRank": 20,
+      "rankChange": "+3",
+      "rankDelta": 3,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -73,6 +85,18 @@
     {
       "title": "Like Crazy",
       "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 19,
+      "previousRank": 22,
+      "rankChange": "+3",
+      "rankDelta": 3,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
       "region": "Guinea-Bissau",
       "rank": 19,
       "previousRank": 19,
@@ -85,18 +109,6 @@
     {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 20,
-      "previousRank": 20,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
       "region": "Guinea-Bissau",
       "rank": 20,
       "previousRank": 20,
@@ -107,40 +119,28 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
+      "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 22,
-      "previousRank": 22,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rank": 28,
+      "previousRank": 31,
+      "rankChange": "+3",
+      "rankDelta": 3,
       "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Niger",
-      "rank": 30,
+      "rank": 29,
       "previousRank": 30,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+1",
+      "rankDelta": 1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 31,
-      "previousRank": 31,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -206,10 +206,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 61,
+      "rank": 59,
       "previousRank": 61,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+2",
+      "rankDelta": 2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -218,13 +218,25 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
-      "rank": 66,
+      "rank": 63,
       "previousRank": 66,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "+3",
+      "rankDelta": 3,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Face-off",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 67,
+      "previousRank": 70,
+      "rankChange": "+3",
+      "rankDelta": 3,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -251,16 +263,40 @@
       "numberOneCount": 1
     },
     {
-      "title": "Face-off",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 70,
-      "previousRank": 70,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Colombia",
+      "rank": 84,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Luxembourg",
+      "rank": 93,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "France",
+      "rank": 100,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 13,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
