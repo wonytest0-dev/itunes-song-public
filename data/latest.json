@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T08:01:16.359Z",
+  "generatedAt": "2026-11-03T09:01:29.377Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -42,7 +42,7 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
