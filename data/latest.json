@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:01:17.725Z",
+  "generatedAt": "2026-11-03T08:01:16.359Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -243,9 +243,9 @@
       "artist": "Jimin & Loco",
       "region": "Gambia",
       "rank": 69,
-      "previousRank": 68,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 69,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -255,9 +255,9 @@
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 70,
-      "previousRank": 69,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 70,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
