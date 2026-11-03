@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:01:37.847Z",
+  "generatedAt": "2026-11-03T21:01:24.694Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -47,18 +47,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 17,
-      "previousRank": 17,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -69,6 +57,18 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 18,
+      "previousRank": 17,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
@@ -85,7 +85,7 @@
     {
       "title": "Like Crazy",
       "artist": "Jimin",
-      "region": "Cape Verde",
+      "region": "Guinea-Bissau",
       "rank": 19,
       "previousRank": 19,
       "rankChange": "=",
@@ -97,11 +97,11 @@
     {
       "title": "Like Crazy",
       "artist": "Jimin",
-      "region": "Guinea-Bissau",
-      "rank": 19,
+      "region": "Cape Verde",
+      "rank": 20,
       "previousRank": 19,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -122,10 +122,10 @@
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 28,
+      "rank": 29,
       "previousRank": 28,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -218,10 +218,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
-      "rank": 63,
+      "rank": 64,
       "previousRank": 63,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -230,10 +230,10 @@
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 67,
+      "rank": 68,
       "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
