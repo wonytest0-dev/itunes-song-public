@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T20:01:23.184Z",
+  "generatedAt": "2026-11-04T21:01:14.834Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -119,18 +119,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Niger",
-      "rank": 28,
-      "previousRank": 28,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -143,13 +131,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Niger",
+      "rank": 29,
+      "previousRank": 28,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "With You",
       "artist": "Jimin & HA SUNG WOON",
       "region": "United Arab Emirates (UAE)",
-      "rank": 30,
+      "rank": 34,
       "previousRank": 30,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
