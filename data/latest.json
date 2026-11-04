@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:01:16.978Z",
+  "generatedAt": "2026-11-04T20:01:23.184Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -147,9 +147,9 @@
       "artist": "Jimin & HA SUNG WOON",
       "region": "United Arab Emirates (UAE)",
       "rank": 30,
-      "previousRank": 26,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 30,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
