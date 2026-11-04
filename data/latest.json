@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:01:21.518Z",
+  "generatedAt": "2026-11-04T18:02:51.788Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -123,9 +123,9 @@
       "artist": "Jimin & HA SUNG WOON",
       "region": "United Arab Emirates (UAE)",
       "rank": 26,
-      "previousRank": 22,
-      "rankChange": "-4",
-      "rankDelta": -4,
+      "previousRank": 26,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -159,9 +159,9 @@
       "artist": "Jimin & Loco",
       "region": "Laos",
       "rank": 44,
-      "previousRank": 43,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 44,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
