@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:01:20.614Z",
+  "generatedAt": "2026-11-05T03:01:16.193Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -199,10 +199,10 @@
       "title": "With You",
       "artist": "Jimin & HA SUNG WOON",
       "region": "United Arab Emirates (UAE)",
-      "rank": 41,
+      "rank": 43,
       "previousRank": 41,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -215,7 +215,7 @@
       "previousRank": 49,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -227,7 +227,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -239,7 +239,7 @@
       "previousRank": 54,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
