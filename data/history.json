@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-05T00:01:17.452Z",
+  "lastRunAt": "2026-11-05T01:01:17.870Z",
   "entries": {
     "set me free, pt. 2|hong kong": {
       "title": "Set Me Free, Pt. 2",
@@ -1145,7 +1145,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
-      "lastRank": null,
+      "lastRank": 3,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -1289,7 +1289,7 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
-      "lastRank": 70,
+      "lastRank": 69,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -2717,7 +2717,7 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin Feat. Loco",
       "region": "Gambia",
-      "lastRank": 69,
+      "lastRank": 68,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -2753,7 +2753,7 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin Feat. Loco",
       "region": "Laos",
-      "lastRank": 44,
+      "lastRank": 41,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -4745,7 +4745,7 @@
       "title": "With You",
       "artist": "Jimin",
       "region": "United Arab Emirates (UAE)",
-      "lastRank": 40,
+      "lastRank": 41,
       "everHitNumberOne": true,
       "numberOneCount": 1,
       "firstSeenAt": "2026-09-02T01:14:15.138Z",
@@ -6994,12 +6994,12 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "lastRank": null,
+      "lastRank": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 1,
+      "numberOneCount": 2,
       "firstSeenAt": "2026-09-02T10:26:29.828Z",
       "firstNumberOneAt": "2026-09-02T10:26:29.828Z",
-      "lastNumberOneAt": "2026-09-02T10:26:29.828Z",
+      "lastNumberOneAt": "2026-11-05T01:01:17.870Z",
       "source": "backfill"
     },
     "closer than this|brunei": {
@@ -18028,10 +18028,21 @@
       "firstSeenAt": "2026-10-31T15:01:10.079Z",
       "firstNumberOneAt": null,
       "lastNumberOneAt": null
+    },
+    "be mine|bahrain": {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "lastRank": 5,
+      "everHitNumberOne": false,
+      "numberOneCount": 0,
+      "firstSeenAt": "2026-11-05T01:01:17.870Z",
+      "firstNumberOneAt": null,
+      "lastNumberOneAt": null
     }
   },
   "totals": {
-    "numberOneEvents": 1467,
+    "numberOneEvents": 1468,
     "songsWithNumberOne": 30
   }
 }
