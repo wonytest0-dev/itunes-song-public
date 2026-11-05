@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:01:17.870Z",
+  "generatedAt": "2026-11-05T02:01:20.614Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -7,23 +7,22 @@
   "totalNumberOneRegionsCurrent": 1,
   "newSongsDetected": [],
   "newNumberOnes": [],
-  "reEntries": [
+  "reEntries": [],
+  "stillNumberOne": [
     {
       "title": "Closer Than This",
-      "region": "Bahrain",
-      "timesAtNumberOne": 2
+      "region": "Bahrain"
     }
   ],
-  "stillNumberOne": [],
   "currentChart": [
     {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 1,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 1,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 9,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -33,9 +32,9 @@
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 3,
-      "previousRank": null,
-      "rankChange": "RE",
-      "rankDelta": null,
+      "previousRank": 3,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -45,9 +44,9 @@
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 5,
-      "previousRank": null,
-      "rankChange": "NEW",
-      "rankDelta": null,
+      "previousRank": 5,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 3,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -189,9 +188,9 @@
       "artist": "Jimin & Loco",
       "region": "Laos",
       "rank": 41,
-      "previousRank": 44,
-      "rankChange": "+3",
-      "rankDelta": 3,
+      "previousRank": 41,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -201,9 +200,9 @@
       "artist": "Jimin & HA SUNG WOON",
       "region": "United Arab Emirates (UAE)",
       "rank": 41,
-      "previousRank": 40,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 41,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -297,9 +296,9 @@
       "artist": "Jimin & Loco",
       "region": "Gambia",
       "rank": 68,
-      "previousRank": 69,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 68,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -309,9 +308,9 @@
       "artist": "Jimin",
       "region": "Gambia",
       "rank": 69,
-      "previousRank": 70,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 69,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
