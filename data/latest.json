@@ -1,29 +1,24 @@
 {
-  "generatedAt": "2026-11-05T04:01:11.703Z",
+  "generatedAt": "2026-11-05T05:01:07.547Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
   "jiminEntriesFound": 25,
-  "totalNumberOneRegionsCurrent": 1,
+  "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
-  "stillNumberOne": [
-    {
-      "title": "Closer Than This",
-      "region": "Bahrain"
-    }
-  ],
+  "stillNumberOne": [],
   "currentChart": [
     {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 1,
+      "rank": 2,
       "previousRank": 1,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 9,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 6,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
@@ -31,10 +26,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 3,
+      "rank": 4,
       "previousRank": 3,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -43,10 +38,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 5,
+      "rank": 6,
       "previousRank": 5,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 3,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -199,10 +194,10 @@
       "title": "With You",
       "artist": "Jimin & HA SUNG WOON",
       "region": "United Arab Emirates (UAE)",
-      "rank": 43,
+      "rank": 45,
       "previousRank": 43,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
