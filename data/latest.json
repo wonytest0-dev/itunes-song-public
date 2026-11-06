@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:01:13.431Z",
+  "generatedAt": "2026-11-06T22:01:07.229Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,10 +14,10 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 11,
+      "rank": 12,
       "previousRank": 11,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -37,7 +37,7 @@
     {
       "title": "Who",
       "artist": "Jimin",
-      "region": "Bahrain",
+      "region": "Guinea-Bissau",
       "rank": 13,
       "previousRank": 13,
       "rankChange": "=",
@@ -49,26 +49,14 @@
     {
       "title": "Who",
       "artist": "Jimin",
-      "region": "Guinea-Bissau",
-      "rank": 13,
+      "region": "Bahrain",
+      "rank": 14,
       "previousRank": 13,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 15,
-      "previousRank": 15,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -81,6 +69,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 16,
+      "previousRank": 15,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
@@ -186,7 +186,7 @@
       "previousRank": 42,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
