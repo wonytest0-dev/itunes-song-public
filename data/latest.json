@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:01:11.410Z",
+  "generatedAt": "2026-11-06T19:01:11.770Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,25 +14,13 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 10,
+      "rank": 11,
       "previousRank": 10,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 12,
-      "previousRank": 12,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -42,6 +30,18 @@
       "previousRank": 12,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 13,
+      "previousRank": 12,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -62,10 +62,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 14,
+      "rank": 15,
       "previousRank": 14,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
