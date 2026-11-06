@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T14:01:15.375Z",
+  "generatedAt": "2026-11-06T15:01:12.146Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,10 +14,10 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 9,
+      "rank": 10,
       "previousRank": 9,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -26,11 +26,11 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 11,
+      "rank": 12,
       "previousRank": 11,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 2,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -47,18 +47,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 13,
-      "previousRank": 13,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
@@ -69,6 +57,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 14,
+      "previousRank": 13,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
