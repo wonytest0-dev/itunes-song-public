@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:01:09.311Z",
+  "generatedAt": "2026-11-07T19:01:08.642Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -23,35 +23,11 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 13,
-      "previousRank": 13,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Guinea-Bissau",
       "rank": 13,
       "previousRank": 13,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 15,
-      "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 1,
@@ -69,18 +45,6 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 17,
-      "previousRank": 17,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
@@ -143,6 +107,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 22,
+      "previousRank": 13,
+      "rankChange": "-9",
+      "rankDelta": -9,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -153,6 +129,30 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 24,
+      "previousRank": 15,
+      "rankChange": "-9",
+      "rankDelta": -9,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 26,
+      "previousRank": 17,
+      "rankChange": "-9",
+      "rankDelta": -9,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
