@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:01:10.894Z",
+  "generatedAt": "2026-11-07T23:01:02.298Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -107,18 +107,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 22,
-      "previousRank": 22,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -131,13 +119,25 @@
       "numberOneCount": 1
     },
     {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 23,
+      "previousRank": 22,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 24,
+      "rank": 25,
       "previousRank": 24,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -146,10 +146,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 26,
+      "rank": 27,
       "previousRank": 26,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
