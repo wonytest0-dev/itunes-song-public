@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:01:13.062Z",
+  "generatedAt": "2026-11-07T01:01:10.472Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -155,6 +155,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Niger",
+      "rank": 28,
+      "previousRank": 29,
+      "rankChange": "+1",
+      "rankDelta": 1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -165,18 +177,6 @@
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Niger",
-      "rank": 29,
-      "previousRank": 29,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     },
     {
       "title": "Smeraldo Garden Marching Band",
