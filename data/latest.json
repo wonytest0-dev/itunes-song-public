@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T10:02:01.357Z",
+  "generatedAt": "2026-11-08T11:01:03.757Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 26,
+  "jiminEntriesFound": 25,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -309,18 +309,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Belgium",
-      "rank": 97,
-      "previousRank": 97,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 4,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
