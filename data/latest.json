@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:02:06.913Z",
+  "generatedAt": "2026-11-08T10:02:01.357Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -315,9 +315,9 @@
       "artist": "Jimin",
       "region": "Belgium",
       "rank": 97,
-      "previousRank": 90,
-      "rankChange": "-7",
-      "rankDelta": -7,
+      "previousRank": 97,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 4,
       "everHitNumberOne": true,
       "numberOneCount": 1
