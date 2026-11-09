@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T14:01:07.414Z",
+  "generatedAt": "2026-11-09T15:01:10.924Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 29,
+  "jiminEntriesFound": 28,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -18,7 +18,7 @@
       "previousRank": 12,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -119,18 +119,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Hungary",
-      "rank": 21,
-      "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -191,25 +179,13 @@
       "numberOneCount": 0
     },
     {
-      "title": "Set Me Free, Pt. 2",
-      "artist": "Jimin",
-      "region": "Poland",
-      "rank": 36,
-      "previousRank": 36,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Who",
       "artist": "Jimin",
-      "region": "Russia",
-      "rank": 41,
-      "previousRank": 41,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Hungary",
+      "rank": 39,
+      "previousRank": 21,
+      "rankChange": "-18",
+      "rankDelta": -18,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -239,13 +215,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Promise",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Poland",
+      "region": "Russia",
       "rank": 51,
-      "previousRank": 51,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 41,
+      "rankChange": "-10",
+      "rankDelta": -10,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -354,6 +330,18 @@
       "previousRank": 68,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Poland",
+      "rank": 76,
+      "previousRank": 36,
+      "rankChange": "-40",
+      "rankDelta": -40,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
