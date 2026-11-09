@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T17:01:14.721Z",
+  "generatedAt": "2026-11-09T18:01:13.830Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -195,9 +195,9 @@
       "artist": "Jimin",
       "region": "Hungary",
       "rank": 46,
-      "previousRank": 39,
-      "rankChange": "-7",
-      "rankDelta": -7,
+      "previousRank": 46,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -210,7 +210,7 @@
       "previousRank": 49,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -222,7 +222,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -267,9 +267,9 @@
       "artist": "Jimin",
       "region": "Russia",
       "rank": 60,
-      "previousRank": 51,
-      "rankChange": "-9",
-      "rankDelta": -9,
+      "previousRank": 60,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -339,9 +339,9 @@
       "artist": "Jimin",
       "region": "Poland",
       "rank": 98,
-      "previousRank": 76,
-      "rankChange": "-22",
-      "rankDelta": -22,
+      "previousRank": 98,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
