@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T00:01:11.702Z",
+  "generatedAt": "2026-11-09T01:01:15.766Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 25,
+  "jiminEntriesFound": 26,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -47,6 +47,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Set Me Free, Pt. 2",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 17,
+      "previousRank": 19,
+      "rankChange": "+2",
+      "rankDelta": 2,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Angel Pt. 2 (feat. JVKE, Charlie Puth & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Guinea-Bissau",
@@ -71,13 +83,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
+      "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Cape Verde",
       "rank": 19,
-      "previousRank": 19,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 21,
+      "rankChange": "+2",
+      "rankDelta": 2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -107,40 +119,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
+      "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Cape Verde",
-      "rank": 21,
-      "previousRank": 21,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rank": 28,
+      "previousRank": 30,
+      "rankChange": "+2",
+      "rankDelta": 2,
       "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 27,
-      "previousRank": 27,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 29,
-      "previousRank": 29,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy",
@@ -155,25 +143,37 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy (English Version)",
+      "title": "Closer Than This",
       "artist": "Jimin",
-      "region": "Cape Verde",
+      "region": "Bahrain",
       "rank": 30,
-      "previousRank": 30,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 27,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 32,
+      "previousRank": 29,
+      "rankChange": "-3",
+      "rankDelta": -3,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 31,
+      "rank": 34,
       "previousRank": 31,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -253,11 +253,11 @@
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
-      "region": "Gambia",
-      "rank": 64,
-      "previousRank": 64,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Cape Verde",
+      "rank": 63,
+      "previousRank": 65,
+      "rankChange": "+2",
+      "rankDelta": 2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -265,9 +265,9 @@
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
-      "region": "Cape Verde",
-      "rank": 65,
-      "previousRank": 65,
+      "region": "Gambia",
+      "rank": 64,
+      "previousRank": 64,
       "rankChange": "=",
       "rankDelta": 0,
       "sales": 0,
@@ -287,6 +287,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Face-off",
+      "artist": "Jimin",
+      "region": "Cape Verde",
+      "rank": 67,
+      "previousRank": 69,
+      "rankChange": "+2",
+      "rankDelta": 2,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Gambia",
@@ -299,16 +311,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Face-off",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Cape Verde",
-      "rank": 69,
-      "previousRank": 69,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "region": "Russia",
+      "rank": 78,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
       "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
