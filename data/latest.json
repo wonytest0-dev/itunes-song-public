@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:01:14.607Z",
+  "generatedAt": "2026-11-09T03:01:08.354Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -131,18 +131,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Like Crazy",
-      "artist": "Jimin",
-      "region": "Niger",
-      "rank": 29,
-      "previousRank": 29,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
@@ -153,6 +141,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
+    },
+    {
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "region": "Niger",
+      "rank": 30,
+      "previousRank": 29,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Who",
@@ -314,10 +314,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Russia",
-      "rank": 78,
+      "rank": 85,
       "previousRank": 78,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-7",
+      "rankDelta": -7,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
