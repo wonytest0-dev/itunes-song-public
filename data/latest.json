@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:01:14.192Z",
+  "generatedAt": "2026-11-09T22:01:12.134Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -182,10 +182,10 @@
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
-      "rank": 42,
+      "rank": 44,
       "previousRank": 42,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -263,18 +263,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Hungary",
-      "rank": 63,
-      "previousRank": 63,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
@@ -325,11 +313,23 @@
     {
       "title": "Who",
       "artist": "Jimin",
+      "region": "Hungary",
+      "rank": 74,
+      "previousRank": 63,
+      "rankChange": "-11",
+      "rankDelta": -11,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
       "region": "Russia",
-      "rank": 71,
+      "rank": 89,
       "previousRank": 71,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-18",
+      "rankDelta": -18,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
