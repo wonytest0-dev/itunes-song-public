@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T01:01:14.244Z",
+  "generatedAt": "2026-11-10T02:01:15.372Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 26,
+  "jiminEntriesFound": 25,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -147,9 +147,9 @@
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 32,
-      "previousRank": 31,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 32,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -159,9 +159,9 @@
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 34,
-      "previousRank": 33,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 34,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -171,9 +171,9 @@
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 36,
-      "previousRank": 35,
-      "rankChange": "-1",
-      "rankDelta": -1,
+      "previousRank": 36,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
@@ -183,9 +183,21 @@
       "artist": "Jimin & Loco",
       "region": "Laos",
       "rank": 43,
-      "previousRank": 44,
-      "rankChange": "+1",
-      "rankDelta": 1,
+      "previousRank": 43,
+      "rankChange": "=",
+      "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "artist": "Jimin & Loco",
+      "region": "Gambia",
+      "rank": 49,
+      "previousRank": 64,
+      "rankChange": "+15",
+      "rankDelta": 15,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -198,6 +210,30 @@
       "previousRank": 49,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 50,
+      "previousRank": 65,
+      "rankChange": "+15",
+      "rankDelta": 15,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Gambia",
+      "rank": 53,
+      "previousRank": 68,
+      "rankChange": "+15",
+      "rankDelta": 15,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -263,30 +299,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco",
-      "region": "Gambia",
-      "rank": 64,
-      "previousRank": 64,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 65,
-      "previousRank": 65,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Face-off",
       "artist": "Jimin",
       "region": "Cape Verde",
@@ -297,30 +309,6 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
-    },
-    {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Gambia",
-      "rank": 68,
-      "previousRank": 68,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Hungary",
-      "rank": 85,
-      "previousRank": 85,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
