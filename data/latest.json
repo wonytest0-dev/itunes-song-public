@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T20:02:23.774Z",
+  "generatedAt": "2026-11-11T21:01:11.462Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -143,18 +143,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 45,
-      "previousRank": 45,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Laos",
@@ -167,28 +155,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
+      "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 47,
-      "previousRank": 47,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rank": 48,
+      "previousRank": 45,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "numberOneCount": 2
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -217,6 +193,18 @@
     {
       "title": "Who",
       "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 50,
+      "previousRank": 47,
+      "rankChange": "-3",
+      "rankDelta": -3,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
       "region": "Gambia",
       "rank": 50,
       "previousRank": 50,
@@ -225,6 +213,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 52,
+      "previousRank": 49,
+      "rankChange": "-3",
+      "rankDelta": -3,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
