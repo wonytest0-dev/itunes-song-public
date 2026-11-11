@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-11T12:01:11.196Z",
+  "generatedAt": "2026-11-11T13:01:06.283Z",
   "regionsFetched": 119,
-  "regionsSucceeded": 116,
-  "regionsFailed": 3,
+  "regionsSucceeded": 119,
+  "regionsFailed": 0,
   "jiminEntriesFound": 24,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
@@ -210,7 +210,7 @@
       "previousRank": 49,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -246,7 +246,7 @@
       "previousRank": 53,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -258,7 +258,7 @@
       "previousRank": 54,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 0,
+      "sales": 1,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
