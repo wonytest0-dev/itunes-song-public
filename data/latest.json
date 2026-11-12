@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T16:01:08.152Z",
+  "generatedAt": "2026-11-12T17:01:13.089Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -179,18 +179,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 50,
-      "previousRank": 50,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
@@ -203,16 +191,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
+      "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 52,
-      "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 50,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 1,
       "everHitNumberOne": true,
-      "numberOneCount": 1
+      "numberOneCount": 2
     },
     {
       "title": "Closer Than This",
@@ -239,16 +227,16 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
+      "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 54,
-      "previousRank": 54,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 52,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy (English Version)",
@@ -273,6 +261,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 56,
+      "previousRank": 54,
+      "rankChange": "-2",
+      "rankDelta": -2,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Set Me Free, Pt. 2",
