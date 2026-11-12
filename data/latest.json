@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:01:24.481Z",
+  "generatedAt": "2026-11-12T23:01:19.060Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -42,7 +42,7 @@
       "previousRank": 15,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 2,
+      "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -194,11 +194,11 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 52,
+      "rank": 53,
       "previousRank": 52,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
     },
@@ -227,18 +227,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 54,
-      "previousRank": 54,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Like Crazy (English Version)",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -249,6 +237,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 55,
+      "previousRank": 54,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Like Crazy",
@@ -263,18 +263,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 56,
-      "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
-    },
-    {
       "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -285,6 +273,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 57,
+      "previousRank": 56,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Smeraldo Garden Marching Band",
