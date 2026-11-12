@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T06:01:16.451Z",
+  "generatedAt": "2026-11-12T07:01:12.942Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -155,18 +155,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 49,
-      "previousRank": 49,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Gambia",
@@ -191,6 +179,18 @@
       "numberOneCount": 1
     },
     {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 50,
+      "previousRank": 49,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Gambia",
@@ -206,25 +206,13 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 51,
+      "rank": 52,
       "previousRank": 51,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 1,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Closer Than This",
@@ -249,6 +237,18 @@
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 54,
+      "previousRank": 53,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 1,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Like Crazy (English Version)",
