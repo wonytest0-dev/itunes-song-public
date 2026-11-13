@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:01:08.179Z",
+  "generatedAt": "2026-11-13T03:01:07.831Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -191,18 +191,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 53,
-      "previousRank": 53,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, JVKE & Muni Long)",
       "artist": "Jimin & Fast & Furious: The Fast Saga",
       "region": "Micronesia",
@@ -213,6 +201,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 54,
+      "previousRank": 53,
+      "rankChange": "-1",
+      "rankDelta": -1,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
     },
     {
       "title": "Closer Than This",
@@ -239,9 +239,9 @@
       "numberOneCount": 0
     },
     {
-      "title": "Who",
+      "title": "Like Crazy",
       "artist": "Jimin",
-      "region": "Bahrain",
+      "region": "Micronesia",
       "rank": 55,
       "previousRank": 55,
       "rankChange": "=",
@@ -251,13 +251,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Like Crazy",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 55,
+      "region": "Bahrain",
+      "rank": 56,
       "previousRank": 55,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -278,10 +278,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 57,
+      "rank": 58,
       "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
