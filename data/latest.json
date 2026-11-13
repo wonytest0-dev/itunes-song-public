@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-11-13T06:01:05.012Z",
+  "generatedAt": "2026-11-13T07:01:02.067Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 25,
+  "jiminEntriesFound": 26,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
   "reEntries": [],
   "stillNumberOne": [],
   "currentChart": [
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Argentina",
+      "rank": 5,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 3,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
     {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
@@ -227,18 +239,6 @@
       "numberOneCount": 0
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 55,
-      "previousRank": 55,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
       "title": "Like Crazy",
       "artist": "Jimin",
       "region": "Micronesia",
@@ -263,13 +263,25 @@
       "numberOneCount": 1
     },
     {
+      "title": "Closer Than This",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 59,
+      "previousRank": 55,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
       "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 57,
+      "rank": 61,
       "previousRank": 57,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -278,10 +290,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 59,
+      "rank": 63,
       "previousRank": 59,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
