@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T10:01:05.364Z",
+  "generatedAt": "2026-11-13T11:01:07.175Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -14,10 +14,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Argentina",
-      "rank": 6,
+      "rank": 7,
       "previousRank": 6,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 2,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -198,7 +198,7 @@
       "previousRank": 51,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
     },
@@ -266,10 +266,10 @@
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 59,
+      "rank": 63,
       "previousRank": 59,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -278,25 +278,13 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 61,
+      "rank": 65,
       "previousRank": 61,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
-    },
-    {
-      "title": "Be Mine",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 63,
-      "previousRank": 63,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
     },
     {
       "title": "Smeraldo Garden Marching Band",
@@ -309,6 +297,18 @@
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 67,
+      "previousRank": 63,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
     },
     {
       "title": "Face-off",
