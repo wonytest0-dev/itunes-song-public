@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:01:03.999Z",
+  "generatedAt": "2026-11-13T13:01:06.773Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -263,30 +263,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Closer Than This",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 63,
-      "previousRank": 63,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 2
-    },
-    {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Bahrain",
-      "rank": 65,
-      "previousRank": 65,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -299,16 +275,28 @@
       "numberOneCount": 1
     },
     {
-      "title": "Be Mine",
+      "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
       "rank": 67,
-      "previousRank": 67,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "previousRank": 63,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
-      "everHitNumberOne": false,
-      "numberOneCount": 0
+      "everHitNumberOne": true,
+      "numberOneCount": 2
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 69,
+      "previousRank": 65,
+      "rankChange": "-4",
+      "rankDelta": -4,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     },
     {
       "title": "Face-off",
@@ -318,6 +306,18 @@
       "previousRank": 69,
       "rankChange": "=",
       "rankDelta": 0,
+      "sales": 0,
+      "everHitNumberOne": false,
+      "numberOneCount": 0
+    },
+    {
+      "title": "Be Mine",
+      "artist": "Jimin",
+      "region": "Bahrain",
+      "rank": 71,
+      "previousRank": 67,
+      "rankChange": "-4",
+      "rankDelta": -4,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
