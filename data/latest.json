@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T17:01:05.223Z",
+  "generatedAt": "2026-11-14T18:01:06.155Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -126,7 +126,7 @@
       "previousRank": 30,
       "rankChange": "=",
       "rankDelta": 0,
-      "sales": 1,
+      "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
     },
@@ -255,9 +255,9 @@
       "artist": "Jimin",
       "region": "Argentina",
       "rank": 64,
-      "previousRank": 58,
-      "rankChange": "-6",
-      "rankDelta": -6,
+      "previousRank": 64,
+      "rankChange": "=",
+      "rankDelta": 0,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
