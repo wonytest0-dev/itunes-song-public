@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:01:06.155Z",
+  "generatedAt": "2026-11-14T19:01:00.875Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -251,18 +251,6 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
-      "artist": "Jimin",
-      "region": "Argentina",
-      "rank": 64,
-      "previousRank": 64,
-      "rankChange": "=",
-      "rankDelta": 0,
-      "sales": 0,
-      "everHitNumberOne": true,
-      "numberOneCount": 1
-    },
-    {
       "title": "Smeraldo Garden Marching Band",
       "artist": "Jimin & Loco",
       "region": "Cape Verde",
@@ -287,13 +275,25 @@
       "numberOneCount": 0
     },
     {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Argentina",
+      "rank": 75,
+      "previousRank": 64,
+      "rankChange": "-11",
+      "rankDelta": -11,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
+    },
+    {
       "title": "Closer Than This",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 76,
+      "rank": 78,
       "previousRank": 76,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 2
@@ -302,10 +302,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 79,
+      "rank": 81,
       "previousRank": 79,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -314,10 +314,10 @@
       "title": "Be Mine",
       "artist": "Jimin",
       "region": "Bahrain",
-      "rank": 82,
+      "rank": 84,
       "previousRank": 82,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-2",
+      "rankDelta": -2,
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
