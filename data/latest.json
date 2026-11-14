@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:01:09.690Z",
+  "generatedAt": "2026-11-14T03:01:12.433Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
@@ -122,10 +122,10 @@
       "title": "Who",
       "artist": "Jimin",
       "region": "Argentina",
-      "rank": 25,
+      "rank": 28,
       "previousRank": 25,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-3",
+      "rankDelta": -3,
       "sales": 1,
       "everHitNumberOne": true,
       "numberOneCount": 1
