@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T12:01:19.644Z",
+  "generatedAt": "2026-11-14T13:01:02.464Z",
   "regionsFetched": 119,
   "regionsSucceeded": 119,
   "regionsFailed": 0,
-  "jiminEntriesFound": 26,
+  "jiminEntriesFound": 27,
   "totalNumberOneRegionsCurrent": 0,
   "newSongsDetected": [],
   "newNumberOnes": [],
@@ -239,9 +239,9 @@
       "numberOneCount": 1
     },
     {
-      "title": "Who",
+      "title": "Set Me Free, Pt. 2",
       "artist": "Jimin",
-      "region": "Argentina",
+      "region": "Micronesia",
       "rank": 56,
       "previousRank": 56,
       "rankChange": "=",
@@ -251,13 +251,13 @@
       "numberOneCount": 1
     },
     {
-      "title": "Set Me Free, Pt. 2",
+      "title": "Who",
       "artist": "Jimin",
-      "region": "Micronesia",
-      "rank": 56,
+      "region": "Argentina",
+      "rank": 57,
       "previousRank": 56,
-      "rankChange": "=",
-      "rankDelta": 0,
+      "rankChange": "-1",
+      "rankDelta": -1,
       "sales": 0,
       "everHitNumberOne": true,
       "numberOneCount": 1
@@ -321,6 +321,18 @@
       "sales": 0,
       "everHitNumberOne": false,
       "numberOneCount": 0
+    },
+    {
+      "title": "Who",
+      "artist": "Jimin",
+      "region": "Russia",
+      "rank": 98,
+      "previousRank": null,
+      "rankChange": "RE",
+      "rankDelta": null,
+      "sales": 0,
+      "everHitNumberOne": true,
+      "numberOneCount": 1
     }
   ],
   "lifetimeTotalsBySong": {
